@@ -111,6 +111,7 @@ def main():
     count = 0
     for obj in json_names:
         # print(obj)
+        print(obj.get('name'))
         count += 1
         if count%10==0:
             print(count)
