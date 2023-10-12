@@ -111,13 +111,13 @@ def main():
     count = 0
     for obj in json_names:
         # print(obj)
-        print(obj.get('name'))
         count += 1
         if count%10==0:
             print(count)
         try:
             name = obj['name'].split("join ")[1].split(" and")[0]
             obj['name'] = name
+            print(name)
         except:
             continue
         try:
