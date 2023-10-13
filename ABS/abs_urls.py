@@ -115,8 +115,8 @@ def main():
                 )
 
     # Access the parsed JSON objects
-    count = 0
-    for obj in json_data:
+    count = 130
+    for obj in json_data[130:]:
         count += 1
         if count%10==0:
             print(count)
