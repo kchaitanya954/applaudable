@@ -115,17 +115,20 @@ def main():
                 )
 
     # Access the parsed JSON objects
-    count = 0
-    for obj in json_data:
+    count = 130
+    for obj in json_data[130:]:
         count += 1
         if count%10==0:
             print(count)
-        if ',' in obj['parent_name']:
-            first_name = obj["parent_name"].lower().split(',')[0]
-            last_name = obj["parent_name"].lower().split(',')[-1]
-        else:
-            first_name = obj["name"].lower()
-            last_name = None
+        try:
+            if ',' in obj['parent_name']:
+                first_name = obj["parent_name"].lower().split(',')[0]
+                last_name = obj["parent_name"].lower().split(',')[-1]
+            else:
+                first_name = obj["name"].lower()
+                last_name = None
+        except:
+            continue
             
         if row["parent_email"]:
             username = row["parent_email"].split('@')[0]
