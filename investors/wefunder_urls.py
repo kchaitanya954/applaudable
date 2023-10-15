@@ -20,7 +20,7 @@ def save_to_csv(data, filename):
 
             # save the data to the file and add it to the set
             for row in data:
-                print(row['name'])
+                # print(row['name'])
                 writer.writerow(row)
     except IOError:
         print("Error: Could not write to file.")
