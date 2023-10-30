@@ -7,7 +7,7 @@ import time
 import subprocess
 
 def save_to_csv(data, filename):
-    fieldnames = ['name', 'url', 'locations','markets','investment_count','investment_amount','angelLlist_url','twitter_url', 'email_addresses', 'mobile_numbers']
+    fieldnames = ['name', 'Website', 'Global HQ','Countries of investment','Investor type', 'email_addresses', 'mobile_numbers']
     global names
 
     try:
@@ -97,26 +97,23 @@ def stop_vpn():
 
 def main():
     json_names = []
-    with open('data/investorhunt_data.csv', 'r') as file:
+    with open('data/openvc.csv', 'r') as file:
         # Read each line as a separate JSON object
         reader = csv.DictReader(file)
         for row in reader:
             json_names.append(
                 {
-                    "name": row["name"],
-                    "url" : row["IH_url"],
-                    "locations": row["locations"],
-                    "markets": row["markets"],
-                    "investment_count": row["investment_count"],
-                    "investment_amount": row["investment_amount"],
-                    "angelLlist_url": row["angelLlist_url"],
-                    "twitter_url":  row["twitter_url"]
+                    "name": row["Investor name"],
+                    "Website" : row["Website"],
+                    "Global HQ": row["Global HQ"],
+                    "Countries of investment": row["Countries of investment"],
+                    "Investor type": row["Investor type"],
                 }
             )
     # Access the parsed JSON objects
     count = 0
     for obj in json_names:
-        
+        print(obj)
         count += 1
         if count%10==0:
             print(count)
@@ -131,7 +128,7 @@ def main():
             obj['email_addresses'] = email_addresses
             obj['mobile_numbers'] = mobile_numbers            
             # print(obj)
-            save_to_csv(obj, f'processed_data/investorhunt_mails.csv')
+            save_to_csv(obj, 'processed_data/openvc_mails.csv')
             time.sleep(0.2)
         
 if __name__ == "__main__":
