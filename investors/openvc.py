@@ -113,7 +113,7 @@ def main():
     # Access the parsed JSON objects
     count = 0
     for obj in json_names:
-        print(obj)
+        # print(obj)
         count += 1
         if count%10==0:
             print(count)
