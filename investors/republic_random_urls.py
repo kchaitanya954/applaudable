@@ -5,10 +5,10 @@ import re
 import json
 import time
 import subprocess
+import names
 
 def save_to_csv(data, filename):
-    fieldnames = ['name', 'search_term', 'email_addresses', 'mobile_numbers']
-    global names
+    fieldnames = ['name', 'url']
 
     try:
         with open(filename, 'a', newline='', encoding='utf-8') as file:
@@ -20,12 +20,14 @@ def save_to_csv(data, filename):
                 writer.writeheader()
 
             # save the data to the file and add it to the set
-            writer.writerow(data)
+            for row in data:
+                print(row['name'])
+                writer.writerow(row)
     except IOError:
         print("Error: Could not write to file.")
         
-def get_html(first_name):
-    url = f"https://www.google.com/search?q=%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{first_name}%27%29"
+def get_html(name):
+    url = f"https://www.google.com/search?q=site%3Arepublic.com%2F%40+intext%3A{name}"
     try:
         response = requests.get(url)
 
@@ -74,15 +76,18 @@ def connected_to_internet(url='http://www.google.com/', timeout=5):
     return False
 
 def get_contact(html_content):
-    
+    items = []
     # Regular expressions for email addresses and mobile numbers
-    email_pattern = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,7}\b'
-    mobile_pattern = r'\b\d{10}\b'
+    soup = BeautifulSoup(html_content, 'html.parser')
 
-    # Extract email addresses and mobile numbers using the patterns
-    email_addresses = re.findall(email_pattern, html_content, re.IGNORECASE)
-    mobile_numbers = re.findall(mobile_pattern, html_content)
-    return email_addresses, mobile_numbers
+    for a in soup.find_all('a', href=True):
+        data = {}
+        h3 = a.find('h3')
+        if h3:
+            data['name'] = h3.text
+            data['url'] = a['href']
+            items.append(data)
+    return items
 
 
 
@@ -96,36 +101,25 @@ def stop_vpn():
     subprocess.run(vpn_command, shell=True)
 
 def main():
-    json_names = []
-    with open('data/pr_celeb.csv', 'r') as file:
-        # Read each line as a separate JSON object
-        reader = csv.DictReader(file)
-        for row in reader:
-            json_names.append(
-                {
-                    "name": row["Personality Name"],
-                }
-            )
+
+    names_set = set()
+
     # Access the parsed JSON objects
     count = 0
-    for obj in json_names:
-        # print(obj)
-        count += 1
-        if count%10==0:
-            print(count)
-        username = obj['name'].lower() + ' agent'
-        print(username)
-        if username:            
-            html_content = get_html(username)
+    while True:
+        name = names.get_first_name()
+        
+        if name not in names_set:
+            count += 1
+            if count%10==0:
+                print(count)
+
+            html_content = get_html(name)
             if html_content == 'skip':
                 continue
-            email_addresses, mobile_numbers = get_contact(html_content)
-
-            obj['email_addresses'] = email_addresses
-            obj['mobile_numbers'] = mobile_numbers            
-            # print(obj)
-            save_to_csv(obj, 'processed_data/pr_celeb_mails.csv')
-            time.sleep(0.2)
-        
+            items = get_contact(html_content)        
+            print(items)
+            save_to_csv(items, f'data/republic_data_random.csv')
+            names_set.add(name)
 if __name__ == "__main__":
     main()
