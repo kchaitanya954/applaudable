@@ -21,7 +21,7 @@ def save_to_csv(data, filename):
 
             # save the data to the file and add it to the set
             for row in data:
-                print(row['name'])
+#                print(row['name'])
                 writer.writerow(row)
     except IOError:
         print("Error: Could not write to file.")
@@ -108,7 +108,7 @@ def main():
     count = 0
     while True:
         name = names.get_first_name()
-        
+        print(name)
         if name not in names_set:
             count += 1
             if count%10==0:
@@ -118,7 +118,7 @@ def main():
             if html_content == 'skip':
                 continue
             items = get_contact(html_content)        
-            print(items)
+ #           print(items)
             save_to_csv(items, f'data/republic_data_random.csv')
             names_set.add(name)
 if __name__ == "__main__":
