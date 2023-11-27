@@ -108,14 +108,17 @@ def main():
                 }
             )
     # Access the parsed JSON objects
-    count = 1290
-    for obj in json_names[1290:]:
+    count = 0
+    for obj in json_names[:]:
         # print(obj)
         count += 1
         if count%10==0:
             print(count)
         try:
-            name = obj['name'].split("join ")[1].split(" and")[0]
+            # name = obj['name'].split("join ")[1].split(" and")[0]
+            # obj['name'] = name
+            # print(name)
+            name = obj['url'].split("republic.com/%")[1].split("&sa=U")[0]
             obj['name'] = name
             print(name)
         except:
