@@ -137,7 +137,7 @@ def main():
             obj['email_addresses'] = email_addresses
             obj['mobile_numbers'] = mobile_numbers            
             
-            save_to_csv(obj, f'processed_data/republic_mails_random.csv')
+            save_to_csv(obj, f'processed_data/republic_mails_random2.csv')
             time.sleep(0.2)
         
 if __name__ == "__main__":
