@@ -6,6 +6,7 @@ import json
 import time
 import subprocess
 import names
+from names_generator import generate_name
 
 def save_to_csv(data, filename):
     fieldnames = ['name', 'url']
@@ -107,9 +108,10 @@ def main():
     # Access the parsed JSON objects
     count = 0
     while True:
-        name = names.get_first_name()
-        print(name)
+        name = generate_name(style='capital')
+        
         if name not in names_set:
+            print(name)
             count += 1
             if count%10==0:
                 print(count)
@@ -118,8 +120,8 @@ def main():
             if html_content == 'skip':
                 continue
             items = get_contact(html_content)        
- #           print(items)
-            save_to_csv(items, f'data/republic_data_random.csv')
+            # print(items)
+            save_to_csv(items, f'data/republic_data_capital.csv')
             names_set.add(name)
 if __name__ == "__main__":
     main()
