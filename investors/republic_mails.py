@@ -97,7 +97,7 @@ def stop_vpn():
 
 def main():
     json_names = []
-    with open('data/republic_data_random.csv', 'r') as file:
+    with open('data/republic_data_capital.csv', 'r') as file:
         # Read each line as a separate JSON object
         reader = csv.DictReader(file)
         for row in reader:
@@ -115,12 +115,12 @@ def main():
         if count%10==0:
             print(count)
         try:
-            # name = obj['name'].split("join ")[1].split(" and")[0]
-            # obj['name'] = name
-            # print(name)
-            name = obj['url'].split("republic.com/%")[1].split("&sa=U")[0]
+            name = obj['name'].split("join ")[1].split(" and")[0]
             obj['name'] = name
             print(name)
+            # name = obj['url'].split("republic.com/%")[1].split("&sa=U")[0]
+            # obj['name'] = name
+            # print(name)
         except:
             continue
         try:
@@ -137,7 +137,7 @@ def main():
             obj['email_addresses'] = email_addresses
             obj['mobile_numbers'] = mobile_numbers            
             
-            save_to_csv(obj, f'processed_data/republic_mails_random2.csv')
+            save_to_csv(obj, f'processed_data/republic_mails_capital.csv')
             time.sleep(0.2)
         
 if __name__ == "__main__":
