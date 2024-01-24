@@ -91,11 +91,11 @@ def get_contact(html_content):
 
 
 def start_vpn():
-    vpn_command = "expressvpn connect"  # Replace with the actual command
+    vpn_command = "echo -ne '\n' | surfshark-vpn attack"  # Replace with the actual command
     subprocess.run(vpn_command, shell=True)
 
 def stop_vpn():
-    vpn_command = "expressvpn disconnect"  # Replace with the actual command
+    vpn_command = "surfshark-vpn down"  # Replace with the actual command
     subprocess.run(vpn_command, shell=True)
 
 def main():
