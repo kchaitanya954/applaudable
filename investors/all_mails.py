@@ -112,30 +112,31 @@ def main():
 
     # Access the parsed JSON objects
     count = 0
-    companies = ['microsoft', 'google', 'meta', 'amazon', 'tesla', ]
-    for obj in json_names:
-        count += 1
-        if count%10==0:
-            print(count)
-        name = obj['name']
-        university  = 'microsoft'
-        html_content = get_html(name, university)
-        if html_content == 'skip':
-            continue
-        email_addresses, mobile_numbers = get_contact(html_content)
+    companies = ['apple', 'microsoft', 'saudi aramco', 'alphabet', 'google', 'amazon', 'nvidia', 'meta platforms', 'facebook', 'berkshire hathaway ', 'tesla', 'tsmc', 'eli lilly', 'broadcom', 'visa', 'jpmorgan chase', 'unitedhealth', 'novo nordisk', 'walmart', 'mastercard', 'exxon mobil', 'johnson & johnson', 'lvmh', 'samsung', 'procter & gamble', 'home depot', 'tencent', 'asml', 'oracle', 'costco', 'merck', 'nestlé', 'abbvie', 'amd', 'kweichow moutai', 'adobe', 'toyota', 'chevron', 'salesforce', 'bank of america ', 'coca-cola', "l'oréal", 'netflix', 'international holding company', 'accenture', 'icbc', 'roche', 'pepsico', 'novartis', 'reliance industries', 'mcdonald', 'hermès', 'thermo fisher scientific', 'intel', 'cisco', 'astrazeneca', 'sap', 'shell', 'linde', 'abbott laboratories', 'pinduoduo', 't-mobile us', 'alibaba', 'china mobile', 'wells fargo', 'intuit', 'agricultural bank of china', 'petrochina', 'comcast', 'verizon', 'qualcomm', 'walt disney', 'danaher', 'tata consultancy services', 'amgen', 'pfizer', 'servicenow', 'ibm', 'bhp group', 'texas instruments', 'nike', 'bank of china', 'totalenergies', 'hsbc', 'union pacific corporation', 'caterpillar', 'china construction bank', 'applied materials', 'siemens', 'morgan stanley', 's&p global', 'philip morris', 'general electric', 'hdfc bank', 'royal bank of canada', 'american express', 'united parcel service', 'honeywell', 'prosus', 'inditex', 'uber', 'conocophillips']
+    for company in companies:
+        for obj in json_names[:5]:
+            count += 1
+            if count%10==0:
+                print(count)
+            name = obj['name']
+            university  =' microsoft'
+            html_content = get_html(name, company)
+            if html_content == 'skip':
+                continue
+            email_addresses, mobile_numbers = get_contact(html_content)
 
-        html_content = get_html(name, university, linkedin=False)
-        if html_content == 'skip':
-            continue
-        email_addresses2, mobile_numbers2 = get_contact(html_content)
-        email_addresses += email_addresses2
-        mobile_numbers += mobile_numbers2
-        
-        obj['email_addresses'] = email_addresses
-        obj['mobile_numbers'] = mobile_numbers
+            html_content = get_html(name, university, linkedin=False)
+            if html_content == 'skip':
+                continue
+            email_addresses2, mobile_numbers2 = get_contact(html_content)
+            email_addresses += email_addresses2
+            mobile_numbers += mobile_numbers2
+            
+            obj['email_addresses'] = email_addresses
+            obj['mobile_numbers'] = mobile_numbers
 
-        save_to_csv(obj, f'data/mails_microsoft.csv')
-        time.sleep(0.2)
+            save_to_csv(obj, f'data/mails_{company}.csv')
+            time.sleep(0.2)
         
 if __name__ == "__main__":
     main()
