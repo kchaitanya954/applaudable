@@ -120,6 +120,7 @@ def main():
                 ]
     for company in companies:
         count = 0
+        print(company)
         if company == 'adobe':
             json_names = json_names[2900:]
         for obj in json_names:
