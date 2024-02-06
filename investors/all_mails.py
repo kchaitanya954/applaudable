@@ -113,10 +113,26 @@ def main():
     # Access the parsed JSON objects
     
     companies = [
-        # 'apple', 'microsoft', 'saudi aramco', 'alphabet', 'google', 'amazon', 'nvidia', 'meta platforms', 'facebook', 'berkshire hathaway ', 'tesla', 'tsmc', 'eli lilly', 'broadcom', 'visa', 'jpmorgan chase', 'unitedhealth', 'novo nordisk', 'walmart', 'mastercard', 'exxon mobil', 'johnson & johnson', 'lvmh', 'samsung', 'procter & gamble', 'home depot', 'tencent', 'asml', 'oracle', 'costco', 'merck', 'nestlé', 'abbvie', 'amd', 'kweichow moutai', \
-        'adobe', 'toyota', 'chevron', 'salesforce', 'bank of america ', 'coca-cola', "l'oréal", 'netflix', 'international holding company', 'accenture', 'icbc', 'roche', 'pepsico', 'novartis', 'reliance industries', 'mcdonald', 'hermès', 'thermo fisher scientific', 'intel', 'cisco', 'astrazeneca', 'sap', 'shell', 'linde', 'abbott laboratories', 'pinduoduo', 't-mobile us', 'alibaba', 'china mobile', 'wells fargo', 'intuit', 'agricultural bank of china', \
-            'petrochina', 'comcast', 'verizon', 'qualcomm', 'walt disney', 'danaher', 'tata consultancy services', 'amgen', 'pfizer', 'servicenow', 'ibm', 'bhp group', 'texas instruments', 'nike', 'bank of china', 'totalenergies', 'hsbc', 'union pacific corporation', 'caterpillar', 'china construction bank', 'applied materials', 'siemens', 'morgan stanley', 's&p global', 'philip morris', 'general electric', 'hdfc bank', 'royal bank of canada', 'american express', \
-                'united parcel service', 'honeywell', 'prosus', 'inditex', 'uber', 'conocophillips'
+                    'Massachusetts Institute of Technology (MIT)',
+                    'University of Cambridge',
+                    'University of Oxford',
+                    'Harvard University',
+                    'Stanford University',
+                    'Imperial College London',
+                    'ETH Zurich',
+                    'National University of Singapore',
+                    'University College London',
+                    'University of California, Berkeley',
+                    'University of Chicago',
+                    'University of Pennsylvania',
+                    'Cornell University',
+                    'University of Melbourne',
+                    'California Institute of Technology',
+                    'Yale University',
+                    'Peking University',
+                    'Princeton University',
+                    'University of New South Wales',
+                    'University of Sydney'
                 ]
     for company in companies:
         count = 0
