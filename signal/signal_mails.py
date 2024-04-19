@@ -24,12 +24,9 @@ def save_to_csv(data, filename):
     except IOError:
         print("Error: Could not write to file.")
         
-def get_html(first_name, linkedin=True):
-    if linkedin:
-        pass
-        # url = f"https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.linkedin.com%2Fin%2F+%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{first_name}%27%29+AND+%28intext%3A%27{university}%27%29"
-    else:
-        url = f"https://www.google.com/search?q=%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{first_name}%27%29"
+def get_html(first_name):
+
+    url = f"https://www.google.com/search?q=%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{first_name}%27%29"
     try:
         response = requests.get(url)
 
@@ -123,13 +120,6 @@ def main():
         if html_content == 'skip':
             continue
         email_addresses, mobile_numbers = get_contact(html_content)
-
-        html_content = get_html(name, linkedin=False)
-        if html_content == 'skip':
-            continue
-        email_addresses2, mobile_numbers2 = get_contact(html_content)
-        email_addresses += email_addresses2
-        mobile_numbers += mobile_numbers2
         
         obj['email_addresses'] = email_addresses
         obj['mobile_numbers'] = mobile_numbers
