@@ -24,9 +24,11 @@ def save_to_csv(data, filename):
     except IOError:
         print("Error: Could not write to file.")
         
-def get_html(first_name):
-
-    url = f"https://www.google.com/search?q=%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{first_name}%27%29"
+def get_html(first_name, company=None):
+    if company:
+        url = f"https://www.google.com/search?q=%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{first_name}%27%29+AND+%28intext%3A%27{company}%27%29"
+    else:
+        url = f"https://www.google.com/search?q=%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{first_name}%27%29"
     try:
         response = requests.get(url)
 
@@ -105,7 +107,8 @@ def main():
             json_names.append(
                 {
                     "person_name": row["person_name"],
-                    "person_id": row["person_id"]
+                    "person_id": row["person_id"],
+                    "firm_name": row["firm_name"]
                 }
             )
 
@@ -120,11 +123,17 @@ def main():
         if html_content == 'skip':
             continue
         email_addresses, mobile_numbers = get_contact(html_content)
-        
+        firm_name = obj.get("firm_name")
+        if firm_name:
+            html_content = get_html(name, firm_name)
+            email_addresses2, mobile_numbers2 = get_contact(html_content)
+            email_addresses += email_addresses2
+            mobile_numbers += mobile_numbers2
+    
         obj['email_addresses'] = email_addresses
         obj['mobile_numbers'] = mobile_numbers
 
-        save_to_csv(obj, 'mails_signal.csv')
+        save_to_csv(obj, 'mails_signal2.csv')
         time.sleep(0.2)
         
 if __name__ == "__main__":
