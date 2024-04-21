@@ -1,0 +1,999 @@
+person_id,person_name,email_addresses,mobile_numbers
+4611,Mark Suster,"['beccakaufman15@gmail.com', 'jerilyn.suster@egsd.org', 'eyhsuster@gmail.com', 'President@whitehouse.gov', 'mlkreutzer@yahoo.com', 'markbsuster@aol.com', 'msuster@gmail.com', 'mss@upfront.com', 'markbsuster@aol.com', 'msuster@gmail.com', 'mss@upfront.com', 'x3ejane@upfront.com', 'jdoe@upfront.com']",['4409423209'],Upfront Ventures
+19578,Elizabeth Yin,"['karenechu@gmail.com', 'didier.vermeiren@gmail.com', 'elizabeth@launchbit.com']",[],Hustle Fund
+275,Gokul Rajaram,"['gokulr@gmail.com', 'gokulr@gmail.com', 'gokulr@gmail.com']",['6173087061'],
+459,Mike Brown Jr,[],['1710444184'],Bowery Capital
+656,Nihal Mehta,"['nihali@gmail.com', 'nihal@localresponse.com', 'nihal@eniacventures.com', 'nihal@eniac.vc', 'nihali@gmail.com', 'uhudauk@gmail.com', 'nihali@gmail.com', 'nihal@localresponse.com', 'nihal@eniacventures.com', 'nihal@eniac.vc', 'nihali@gmail.com', 'ladidaix@gmail.com']",[],ENIAC Ventures
+428,Adam Draper,"['adam@boost.vc', 'jacknife@goldenwest.net', 'adam@boost.vc', 'adam@boost.vc', 'oldhamca@gmail.com', 'maddie@boost.vc', 'adam@xpertfinancial.com']",[],Boost VC
+3001,Sunil Rajaraman,"['n@gmail.com', 'tourism.gnctd@gmail.com', 'ipp@nic.in', 'secy-dot@nic.in', 'saranyakalai.kanan@gmail.com', 'divyasrinivasan210893@gmail.com', 'prasanth26394@gmail.com', 'bravisankar@yahoo.com']",[],Sequoia Capital
+1123,Joe Hurd,"['joe.hurd@yahoo.com', 'hurd3rd@gmail.com', 'joe.hurd@sosv.com', 'girirockshoys@yahoo.com', 'wqts@guiltord.edu', 'RadioWRSK@hotmail.com', 'md@cwu.edu']",[],"The Katama Group, LC"
+2303,Maarten Hooft,"['t@gmail.com', 'hyc@openldap.org', 'pg@ksi-linux.com', 'khokhlov@lab126.com', 't@gmail.com']",[],Quest Venture Partners
+449,Seth Berman,"['sethberman95@gmail.com', 'correenjones@yahoo.com', 'sethbermangardeners@yahoo.com', 'sethjberman@gmail.com', 'seth@stripe.com', 'seth@richemontla.com', 'mikeparisi@gmail.com', 'x3ejane@susaventures.com']",[],Susa Ventures
+212,Andrea Zurek,"['andrea.zurek@gmail.com', 'andrea@xg-ventures.com', 'ida.terluin@wur.nl', 'zurek@eci.ox.ac.uk', 'andrea.zurek@gmail.com', 'andrea@xg-ventures.com']",[],XG Ventures
+1268,Ajay Chopra,"['chefajaychopra@gmail.com', 'ajay.chopra@hotmail.com', 'ajay@trinityventures.com', 'ajay.chopra@hotmail.com', 'ajay@trinityventures.com', 'jalaram.service@yahoo.com', 'X327@mfchoiceservices.com', 'bhmotors.bodyshop@gmail.com']","['6097137378', '6097137378']",Trinity Ventures
+107,Chris Fralic,"['chris@firstround.com', 'chris@firstround.com']","['6108341484', '1522481113', '6108341484']",First Round Capital
+17150,Dmitry Firskin,[],[],Altair Capital Management
+13879,David Beisel,"['l@gmail.com', 'higginsclassicboats@yahoo.com', 'higginsclassicboats@yahoo.com', 'l@gmail.com', 'samarthdesai1@gmail.com', 'x3einfo@nextviewventures.com']",[],NextView Ventures
+423,Arjun Sethi,"['sethiarjun38@gmail.com', 'sethiarjun38@gmail.com', 'lisap427@yahoo.com', 'ssbalki13@gmail.com', 'arj@tribecap.co', 'boris@republiccapital.co']",[],Tribe Capital
+319,Jay Levy,"['jmlcosmo@gmail.com', 'jay.shell@gmail.com']",[],Zelkova Ventures
+3580,Eyal Gura,"['ljgorczyca@gmail.com', 'danybar13@gmail.com', 'arende.delights@gmail.com', 'anna.creti@dauphine.psl', 'MeOrosHaTzaddikim@gmail.com']",[],Webtalk Ltd
+113,Rob Hayes,[],[],First Round Capital
+2235,Eva Ho,"['eva.ho8684@gmail.com', 'Eva-Maria.Zamora-Escribano@ec.europa.eu', 'eva-maria.zamora-escribano@ec.europa.eu', 'paechema@gmail.com', 'inanpy@hotmail.com', 'imansaleh1@yahoo.com', 'sasmo@net.sy', 'o@gmail.com', 'eva.bendiksen@su-ho.sri.telemax.no', 'evaho@gmail.com', 'eva.ho@gmail.com', 'eva@fika.vc', 'eteacher@gmail.com']",['3109087470'],Fika Ventures
+6697,Dylan Boyd,"['dt.boyd@gmail.com', 'dylan.boyd@rga.com', 'dt.boyd@gmail.com', 'dylan.boyd@rga.com']","['5037309946', '5037309946']",R/GA Ventures
+78871,Zach Bratun-Glennon,[],[],Gradient Ventures
+122610,Matt Freeman,"['mattjfreeman@yahoo.com', 'mattfreemanfitness@gmail.com', 'mattfr@gmail.com', 'rwynne@wmnf.org', 'n@mccann.com']",[],Bain Capital
+2883,Arjun Arora,"['drajatjain@yahoo.com', 'sohailarora@gmail.com', 'arjun@crayonee.com', 'praket@crayonee.com', 'nitin.rakesh@gmail.com', 'a.arora@ddn.upes.ac.in', 'arjunarora06dit@gmail.com', '1arjunarora@gmail.com', 'mt@expa.com']",[],Expa
+5647,Kevin Weatherman,"['kgltmus@montana.edu', 'kpsu@mail.pdx.edu', 'fsjdj@uaf.edu', 'wbcrradio@hotmail.com', 'kwts@mail.wtamu.edu', 'wbcr@stu.beloit.edu', 'Wfcs1077@yahoo.com', 'hifton@ou.edu', 'drmj@wtvl.net', 'rock-md@wnur.org', 'wcws@acs.wooster.edu', 'wlcsl077@yahoo.com', 'rock-md@wnur.org', 'rock-md@wnur.org']","['1679952580', '1679952580']",KW Angel Fund
+214,Lee Linden,"['kuws@iName.com', 'lslaughter@hotmail.com', 'ulysses@skamania.net', 'tcohen@cmu.edu', 'mcole@ucsd.edu']",[],Quiet Capital
+5990,James Smits,['robishaw@astro.berkeley.edu'],[],KohFounders
+72495,EJ Lawless,"['s@gmail.com', 's@gmail.com', 'jasenchristiansen@gmail.com', 'gilberti-4@hotmail.com', 'lawless@theboneonline.com', 'jasenchristiansen@gmail.com']",[],Hustle Fund
+79134,Nadia Boujarwah,"['nboujarw@gmail.com', 'nadiab@dia.com']",[],Founder Collective
+79133,Jack Groetzinger,"['jackgretz@gmail.com', 'jackgretz@yahoo.com', 'jack.groetzinger@gmail.com', 'jack@seatgeek.com', 'jackgretz@gmail.com', 'kindyms@musc.edu', 'foxcourt02@icloud.com', 'jackgretz@gmail.com', 'jackgretz@yahoo.com', 'jack.groetzinger@gmail.com', 'jack@seatgeek.com']",[],Founder Collective
+256,Georges Harik,['s@gmail.com'],[],
+670,Mark Cuban,"['mcuban@gmail.com', 'x3emcuban@gmail.com', 'mark.cuban@dallasmavs.com', 'mcuban@2929ent.com', 'mcuban@axs.tv']",[],
+19343,Jose Vieitez,['z@gmail.com'],[],Boomtown Accelerator
+22455,Adam Cragg,"['fm@ucaig3ry.ca', 'fhammad@ubishops.ca']",[],Quake Capital
+71312,Ellen DaSilva,"['sdalelio@bcae.org', 'daley_karen@hotmail.com', 'a@gmail.com']",[],Sequoia Capital
+13824,Rouven Dresselhaus,"['Mo_molavi@yahoo.com', 'hello@cavalry.vc', 'rdresselhaus@gmail.com']",['1710006993'],Cavalry Ventures
+13995,Jordan Wahbeh,['bronaldk@gmail.com'],[],SV Venture Group
+582,Michael Kim,"['Michaelkimapc@gmail.com', 'buysellwithmichael@gmail.com']",[],Cendana Capital
+784,Nat Turner,"['natturnerproject0@gmail.com', 'natsturner@gmail.com', 'nat@collectors.com', 'thafront@hotmail.com', 'luecklawcenter@yahoo.com']","['2819239417', '1672429264']",Operator Partners
+1651,Ilya Fushman,"['djlee@ee.byu.edu', 'antani@nlm.nih.gov']",[],Kleiner Perkins
+22315,Tom Horsey,"['ktswmusic@hotmail.com', 'wdwn@botmail.com', 'pennjo@earlham.edu', 'jcvacant@syr.edu', 'wecs@hotmail.com', 'weosmusic@hws.edu', 'wesn@sun.iwu']",[],Eoniq.fund
+8755,Nico Lumma,"['xianyuzhongzhi@gmail.com', 'hjhe@tsinghua.edu.cn']",[],next media accelerator GmbH
+23710,Brian Yormak,['k@gmail.com'],['1634735228'],Story Ventures
+1219,Clint Chao,['james.sweet88@googlemail.com'],"['1679952580', '1679952580']",Moment Ventures
+13528,Avichay Nissenbaum,"['avichayn@gmail.com', 'avichayn@gmail.com', 'avichay@lool.vc']",[],lool ventures
+295,Sam Teller,"['rrm6k@virginia.edu', 'rshevlin@optonline.net', 'rsnyder24@yahoo.com', 'sam_white21@hotmail.com', 'samlhop@gis.net', 'Zaid1983@ymail.com', 'samsam_rizvi@yahoo.com', 'Sam.Ramos@sodexhousa.com', 'wrightc1975@yahoo.com']",['1314823981'],LaunchPad
+48710,Rob Eldridge,"['citywidewoodfloors@gmail.com', 'e@gmail.com', '49@yahoo.com']",[],Tapas Capital
+231,Yun-Fang Juan,"['cyhtai@gmail.com', 'lichengen@gmail.com']",[],Brighter Capital
+27958,Drew Leahy,['drew@drewleahy.com'],['7145043045'],Hawke Ventures
+495,Gonzalo Costa,"['gonzalo@iqfoilyouthjuniorclass.org', 'carlosgalli@yahoo.com']",[],NXTP Labs
+776,John Richards,"['djjohnrichards@gmail.com', 'john@5amventures.com']",[],Startup Ignition Ventures
+30754,Mikhail Kalashnikov,[],[],FunCubator
+21167,Bryan Rosenblatt,"['bryan.rosenblatt@gmail.com', 'bryan@craftventures.com', 'norman.liang@gmail.com', 'jeffreyganz@hotmail.com', 'bryan.rosenblatt@gmail.com', 'bryan@craftventures.com']","['2472885301', '2472885301']",Craft Ventures
+42382,Andy Theronier,[],[],Greystone Group Inc.
+30750,Ilya Inozemtsev,"['Katya.veniaminova@gmail.com', 'sindresorhus@gmail.com', 'inozemtsev@patentica.com', 'ilya@gmail.com']",[],FunCubator
+34355,Brian Mehler,['r@gmail.com'],[],Block.one
+19177,Eldar Buchris - Krypton VC,['s@gmail.com'],[],Krypton Venture Capital 4.0
+52276,Amir Khan,"['amirkhan53913@gmail.com', 'amirkhan@gmail.com', 'amirkhan@gmail.com', 'amirkhan1154922@gmail.com']",['7550706612'],Marl 5G Accelerator
+584,Daniel Recanati,"['recanati@gmail.com', 'daniel@rhodium.co.il', 'bruno.overlaet@gmail.com', 'recanati@gmail.com', 'daniel@rhodium.co.il']",[],Rhodium
+400,Sonja Perkins,"['mjgcwf@gmail.com', 'brown.susanj36@gmail.com']",[],The Perkins Fund
+37398,Gustavo Souza,"['gustavomes@yahoo.com.br', 'gustavomes@yahoo.com.br', 'souzagustavo10d1@gmail.com', 'a@gmail.com', 'gustavomes@yahoo.com.br', 'gustavomes@yahoo.com.br', 'jacirabraga@hotmail.com', 'gmsouza@ufpel.edu.br', 'gustavomes@yahoo.com.br', 'gustavomes@yahoo.com.br', 'gustavomes@yahoo.com.br', 'gustavomes@yahoo.com.br', 'gustavomes@yahoo.com.br']","['5775621788', '1686160727', '1711411722', '1711122592']",SaaSholic Fund
+48581,DAVID SARGEANT,['xx@gmail.com'],[],IGAMING IDEAS
+24762,Matthew Lydecker,"['fec@myfloridalegal.com', 'kanedick@yahoo.com']",[],Luma Launch
+38034,Andrew Gluck,"['andrewgluck@gmail.com', 'andrew@irrvrnt.io']",['2015753555'],
+166723,Patrick J. Ennis,['jeanette.ennis@gmail.com'],[],Madrona Ventures
+733,Stuart Larkins,['s@gmail.com'],[],Chicago Ventures
+54643,Saba Karim,"['theremembranceproject2021@gmail.com', 'mision.guineaecuatorial_gva@yahoo.com', 'pm_un2@mfa.gov.ua', 'ppu.geneva@gmail.com', 'yibeltal.t.wassie@gmail.com']",[],Techstars
+40139,Anand Thaker,"['CSPRASHANT11@GMAIL.COM', 'adthaker@gmail.com', 'adthaker@gmail.com']",[],PDM6
+8889,Nyasha Samhembere,[],[],Blacksheep Media
+5185,Fred Destin,"['rbarrycrow@gmail.com', 'x3ejane@stride.vc']",[],Stride VC
+29739,Jag Singh,['seehrajag@gmail.com'],[],Angel Invest
+370,Peter Boboff,"['f@hotmail.com', 'f@hotmail.com']",['1845132866'],Transmedia Capital
+16128,Rex Rhew,['premkdubey@gmail.com'],[],
+3617,Liron Rose,"['liron@exactppc.com', 'liron@lironrose.com', 'lr@glgroup.com', 'sediqi.ghafar@gmail.com', '525AD897.103@threecrickets.com']",[],Rose Innovation Ltd
+288,David Wieland,"['Emaildavidwieland@gmail.com', 'dw@david.me']",[],IrishAngels
+113940,Ajay Patel,"['ajayp.realtor@gmail.com', 'ajayp.realtor@gmail.com', 'k.ajay.j@gmail.com', 'harsh@claremontcreek.com', 'ajay.gupta@wmich.edu']",[],Verizon Ventures
+149174,Steve Johnston,"['stevejohnstonaz@gmail.com', 'spaterson@pioneer.k12.ca.us', 'steve@indianhillscamp.com', 'aaronsboyshome@gmail.com', 'FrankDalene@me.com', 'DDJudge@aol.com', 'dkevin17@yahoo.com']",[],Pioneer Fund
+102066,Anu Shukla,['a@yahoo.com'],[],Elevate Capital
+25072,Mohammad Hossain,['mofa96@yahoo.com'],[],Web Spider Global Inc.
+114040,Chris Bartlett,"['customhomeinsp@gmail.com', 'chris@lowercasellc.com', 'a1ex.huff17@gmail.com', 'cbd_ngo@yahoo.com']",[],Verizon Ventures
+107964,Jeff Levick,"['k@gmail.com', 'deugenemartin@yahoo.com']",[],Kitchen Table Partners
+114205,Yaniv Ben-Atia,"['yatttir@yahoo.com', 'robcrepaldi@hotmail.com', 'info@aarthiconsultants.com', 'aarthiconsultants@gmail.com', 'sigalizraeli@gmail.com']","['5323680313', '5323680313', '5323680313', '5323680313', '5323680313', '5323680313']",44 Ventures
+97507,Axel Nitsch,"['wildvagabond@yahoo.com', 'mrtim.woodruff@gmail.com']",['1067385444'],High-Tech Gründerfonds
+92549,Jake Cohen,"['jakecohenphotography@gmail.com', 'jermcohen@gmail.com', 'evanjakecohen@gmail.com', 'cohnjm@gmail.com', 'jakemitchweldon@gmail.com']","['8474528334', '1702512302']",Vinyl Capital
+698,Ryan T. Melohn,"['ryan@expansionvc.com', 'ryan@expansionvc.com']",[],Expansion Venture Capital
+33777,Dr Ruchi Dana,"['abhijeetpandove@yahoo.com', 'grg.damini@gmail.com']",['9599514004'],FundRx
+146152,Parth Bhatnagar,"['bhargavshah727@gmail.com', 'rohan1993.rt@gmail.com', 'xxxxxxx@gmail.com', 'asgadv@gmail.co', 'B5@gmail.com', 'varun84bhatnagar@gmail.com']","['9718143707', '1710541570', '1710570230', '1702487720', '1711485995', '1710987147', '1684323630']",Aurelia Ventures
+237,Brion Lau,[],[],iTalent Corporation
+98220,Nabil Meralli,"['mshaker2222@yahoo.com', 'absalem@cis.asu.edu.eg', 'jelena.stojanov@uns.ac.rs', 'info@magmapartners.com', 'nabil.meralli@oba.co.uk']",[],Magma Partners
+110776,Anderson de Andrade,"['ander.anderson2x@gmail.com', 'anderson.troya.vialibre@gmail.com', 'angela.andrade@ipec.fiocruz.br', 'samarcos2005@yahoo.com.br', 'andersondeandrade@gmail.com', 'anderson@organizze.com.br']",[],Invisto
+173846,Dieter Rappold,['dr.magda2006@hotmail.com'],[],QBIT Capital
+81044,Guga Stocco,['ariane.hayana@gmail.com'],[],Koolen and Partners
+111065,Allister Lam,[],[],Decasonic
+21416,Andrew Hatcher,"['ahatchbiz@gmail.com', 'andrew.hatcherarchitects@gmail.com', 'butteakcc@gmail.com', 'snowsharkl@hotmail.com']",[],Contexxt Limited
+63986,Henry Ault,"['grnvestand2012@gmail.com', 'grovestand2012@gmail.com', 'groupheather@agworksh2.com', 'elbowe@mediaone.net', 'gagnies@uwindsor.ca', 'music@hotmail.com', 'ksym@accd.edu']",[],Ault Krug Ventures
+99815,Michael Stephanblome,[],[],Eight Roads Ventures
+113937,Tom Arnost,['lavdimzeqiri@gmail.com'],[],Verizon Ventures
+102374,Andreas Goeldi,"['asa@cdtn.br', 'siherp@hotmail.com', 'marlucia@museu-goeldi.br', 'agoeldi@agoeldi.com']",[],btov Partners
+106166,Ian Scarffe,['iansoffice@gmail.com'],[],
+134340,Abhi Yadav,"['abhishekyd@alum.mit.edu', 'abhi@runoranj.com']",[],
+29636,Brent Shafer,"['brent.shafer4762@gmail.com', 'wxac@hotmail.com', 'wxpl@fsc.edu', 'r@gmail.com']",[],Batshit Crazy Ventures
+32179,Tobias Neveling,"['jjmdav@gmail.com', 'info@hnattorneysinc.co.za', 'marietjie@cn-law.co', 'wentzel.law@hotmail.com']","['0823343366', '0104935379', '0032632020']",Venista Ventures
+76428,Roy Meirom,"['m@gmail.com', 'm@gmail.com', 'de.zhang@gmail.com']",['1616097141'],Sony Innovation Fund
+113979,Richard Cummins,"['ra-recoverycentral@state.pa.us', 'tkimmel.mech701@gmail.com']",[],Black Angel Group
+29380,Manu Rueda,"['mision.guineaecuatorial_gva@yahoo.com', 'drcgeneva15@gmail.com', 'missionrdc@bluewin.ch', 'mission.rsm@hotmail.com']",[],
+72168,Danny Loschiavo,"['o@gmail.com', 'joseph.b.pearson@gmail.com']",[],OVentures
+96539,Dominik Matyka,"['ricardo@lin.ufrj.br', 'konkursy.jaw@gmail.com', 'a@gmail.com']",['1000011779'],Cavalry Ventures
+111518,Thiago Bacchin,[],[],Astella Investments
+114225,David Benson,"['allen_benson@ymp.gov', 'david.cherry@mail.house.gov', 'steve.frishman@gmail.com', 'allen_benson@ymp.gov', 'david.cherry@mail.house.gov', 'steve.fr@hotmail.com', 'daveabenson@yahoo.com', 'davidagubenson@hotmail.com', 'davidbenson@google.com', 'asb811@yahoo.com', 'david.ros@telecom-bretagne.eu', 'creimer.angels@gmail.com', 'corona9903@aol.com', 'wxvu@villanova.edu']",[],Black Angel Group
+109871,Lorenz Bogaert,[],[],Pitchdrive
+133287,Matthew Berman,"['mdberman@alaska.edu', 'matthew.berman@alaska.edu', 'Aew@lacity.org', 'mattproberts@hotmail.com', 'imhilde@gmail.com', 'tchilde@gmail.com']",[],Visible Hands
+134722,Daniel Surmacz,[],[],Supercharge Capital
+146153,Fabian Bjorklund,"['timmoore@microsoft.com', 'sshaffer@akamai.com', 'bh@ctu.rh.dk']",[],Aurelia Ventures
+146770,Saskia Z.,"['shaegens@gmail.com', 'ah2835@cumc.columbia.edu']",[],S4S Ventures
+146775,Nicky Sugarman,"['n_sugarman@hotmail.com', 'nioragendari@yahoo.com', 'kuccori@hotmail.com', 'sconcool@gmail.com', 'mopr@hotmail.com', 'djbabyroo05@yahoo.com']",[],S4S Ventures
+146776,Noam Enk,['Finestrealtor@hotmail.com'],[],S4S Ventures
+157577,Josephina Kim,[],[],Westchester Angels
+157662,Barry Sabin,"['bsabinedits@gmail.com', 'afine@laconservancy.org', 'sabin@sabin.la', 'cjpowers@gmail.com', 'bsabinedits@gmail.com']",[],Founder's Cupid
+108883,Alan Patricof,"['f@gmail.com', 'postmaster@mail.hotmail.com']",[],Primetime Partners
+93303,John Crenshaw,"['airezapatista@hotmail.com', 'music@wers.org', 'wfdu991lm@aol.com']",[],CREN Capital
+111164,Sofia Vergara,[],[],
+110876,Ofer Zinger,['r@gmail.com'],[],
+23962,Laurent Malka,[],[],
+108947,Adam Neumann,[],[],
+380,Ding Zhou,"['dr.dingzhou@gmail.com', 'ding.zhou@snapchat.com', 'jun.li@hotmail.com']",[],
+111231,John Legend,[],[],
+107949,Erik Matlick,"['karyonosu@gmail.com', 'jerikwest@hotmail.com']",[],
+147107,George Novik,"['lenacupkova@gmail.com', 'natalia.koverova@gmail.com']",[],
+73090,Alex Pattis,[],[],
+31782,Juan Garay,"['jeyjeygardi@gmail.com', 'juan.a.garay@gmail.com', 'aaron_x40@hotmail.com', 'juan.garcia.garay@gmail.com', 'juan.garcia.garay@gmail.com', 'c.c.elandensf@gmail.com']",[],
+21013,Nitya Rajendran,[],[],
+69120,Sabrina Kestenbaum,"['equipamientoyservicios@yahoo.com.ar', 'caroline.baldwin@reedexpo.co']",[],Joy Ventures
+43626,Josh Carter,"['musicbyjosh@gmail.com', 'Jccarter2024@gmail.com', 'negroleague@yahoo.com', 'josh@1859.vc', 'colemanb@sherwoodoregon.gov', 'groupheather@agworksh2.com', 'Shield@PhiKappaPsi.com.You']",['2525271859'],1859 Ventures
+116678,Jason Turner,"['Jturner241129@yahoo.com', 'jasonmiamirealtor@gmail.com', 'darktrainfilms@gmail.com', 'vinegar22@hotmail.com', 'vinegar22@hotmail.com', 'wkkl@capecod.ma.edu', 'drmj@wtvl.net', 'ratsmakegoodfood@hotmail.com', 'wrgw@gwu.edu', 'wthsradio@yahoo.com']",[],
+450,alex mashinsky,['tiffanyfongnyc@gmail.com'],[],
+3591,Gil Hirsch,"['jmhood@hotmail.com', 'beautifu1blrth4u@yahoo.com']",[],
+572,Oded Hermoni,"['lihinachmanifilms@gmail.com', 'oded@j-impact.fund', 'mileshaladay@gmail.com', 'oded@j-impact.fund']",[],
+3572,Eilon Tirosh,['avi_lilah@walla.co'],[],
+4325,Jennifer Lum,"['jennifer.lum@gmail.com', 'jennifer@biospring.com', 'goneolives@yahoo.com', 'ealexis@gmail.com', 'jenma1212@gmail.com']",[],
+4328,Dave Williams,"['davewms64@gmail.com', 'dddynamo@cox.net', 'twicesax@yahoo.com', 'koach4u@yahoo.com']",[],
+1144,Roland Ligtenberg,['Pramudono2004@yahoo.com'],"['8582151512', '1415137112', '1415137112', '1687057706', '1687057706']",
+1120,John Heltzel,[],['1519674947'],
+1880,Andrew Gazdecki,[],[],
+705,Gary Rubens,"['gary@finepoquet.com', 'ljkuang@yahoo.com', 'yxsu@yahoo.com', 'rubens.jan@gmail.com', 'randy.rubens@boeing.com', 'srvforever@hotmail.com', 'dudevato@yahoo.com']",[],
+677,Jim Brandt,"['lisasprukts@gmail.com', 'lrbswatt@yahoo.com', 'jebrandt1913@gmail.com', 'brandt@gmail.com', 'cbrandtbuffalo@gmail.com']","['3605404618', '1711135537']",
+4273,Michael Baker,"['michaelbakertattoo@gmail.com', 'michaelbakertattoo@gmail.com']",[],
+72257,Abhishek Gupta,"['Fiteensbyabhishek@gmail.com', 'gabhishek309@gmail.com', 'abhishekgupta03052000@gmail.com']",['9610419599'],
+3555,Daniel Scalosub,[],[],
+111423,Björn Bauermeister,['majumdar@uni-greifswald.de'],[],
+109662,Artis Kehris,[],[],
+113363,Gustavo Alvarez Moreno,"['baca200799@gmail.com', 'd.archuletainspections@gmail.com', 'pponce@hotmail.com', 'm.suquilanda@andinanet.net', 'gustavo.alberto.arocena@gmail.com', 'maiziniap@accessinter.net', 'cobiomos@laserinter.net', 'johanna.hernandez.alvarez@gmail.com', 'guifon20@yahoo.com']",[],
+115487,Ryan O'hara,['ryan.ohara@live.com'],"['1980304734', '1082458341']",
+30151,Eric Futoran,[],"['1689904079', '1689904079']",
+142606,Miguel Carrone,"['amaroconstruction@yahoo.com', 'mwood@citYofdavis.org', 'miguel@whainc.com', 'viverotierralabrantia@gmail.com']",['3108222140'],
+163048,Ramakant Sharma,['ramakant.sharma@gmail.com'],[],
+166123,Sam Saliba,"['dmaciuk@hotmail.com', 'dmaciuk@hotmail.com']",[],
+90309,Jason Wilk,"['stomsf@gmail.com', 'kathantas@hotmail.com', 'jason.gerecke@wacom.com', 'ben@decadent.org.uk', '1daysports@gmail.com', 'elviapw@gmail.com']",[],
+90252,Dan Flanegan,"['kammerer@hotmail.com', 'Lechelle.Boshoff@psg.co']",[],
+89297,Buzz Jacobs,"['mikhail@wruw.org', 'wvkrmd@vassar.edu', 'philcbowler@hotmail.com', 'vick@wyso.org']",[],
+597,Lei Wang,['Lei.Wang@osumc.edu'],[],
+52226,David King Lassman,"['ajglassman.ra@gmail.com', 'kvonbismarck@icloud.com', 'dbazazi@yahoo.com', 'ajglassman.ra@gmail.com']",[],
+73598,Adie Akuffo-Afful,[],[],
+326,Thomas Varghese,"['rrgosai@gmail.com', 'tpvargheseadv@gmail.com', 'thomaskanneth@yahoo.com', 'nshgiri@gmail.com']","['9846053224', '9895911066']",
+111463,Florian Körner,"['fbomgr@hotmail.com', 'hartl@via.at']",[],
+109585,Christian Rebernik,['lakshmipmurgod@gmail.com'],[],
+109734,Jon Claydon,"['n@gmail.com', 'richlandcountyfairohio@gmail.com', 'toddphamilton31@yahoo.com']",['7001334285'],
+109554,Martin Villig,[],[],
+109542,Martin Hintze,['hintze@fu-berlin.de'],[],
+109522,Diego Berdakin,[],[],
+109520,Dilpesh Parmar,[],[],
+72412,Ohad Tzur,"['tzurohad@gmail.com', 'ohad@nufund.com', 'hananaliadv@gmail.com', 'mordi432@gmail.com', 'alaazizah@yahoo.com', 'ehudkatzlaw@gmail.com']",[],
+109747,Michael Benabou,"['u@vente-privee.com', 'twukong@yahoo.com', 'rrosebru@mta.ca', 'barr@math.mcgill.ca', 'benabou@wanadoo.fr', 'elziere@gmail.com']",[],
+109767,Jean-David Blanc,"['www.blancmanteau@gmail.com', 'www.blancmanteau@gmail.com', 'www.blancmanteau@gmail.com', 'magojeonu@yahoo.com', 'm-khallaf20@hotmail.com', 'a-mosawi@hotmail.com', 'emiliejin2002@yahoo.com.cn', 'www.blancmanteau@gmail.com', 'www.blancmanteau@gmail.com']",[],
+109795,Kristjan Raude,[],[],
+109490,Giovanni Gardelli,"['i@yahoo-inc.com', '4leeshihhui0606@gmail.com']",[],
+109359,David Brudö,[],['1349643977'],
+109242,Will Kassoy,['Karlbuttner@yahoo.com'],[],
+109122,Terry Dougas,"['s@yahoo.com', 'twistedwillow128@gmail.com']",[],
+109112,David Yaffe,"['yaffebellany@gmail.com', 'matthewgasda@gmail.com', 'dmyaffe@gmail.com', 'davidyaffephotography@gmail.com']",[],
+109861,Jaakko Salminen,[],[],
+108733,Marcus Segal,"['marcussegal@yahoo.com', 'marcus@forevrgames.com']",[],
+109899,Jean Pigozzi,[],[],
+108692,Rem Darbinyan,['keithjppereira@gmail.com'],[],
+108614,Mohit Saxena,"['mohitchoice@gmail.com', 'mohitchoice@gmail.com']",[],
+110012,David Pritchard,"['daveagp@gmail.com', 'pritchard.dave06@gmail.com', 'pritchar@uwm.edu', 'david.pritchard50@gmail.com']",[],
+108566,John Pestana,"['john.sittard@sthugo.org', 'nicolasadrianofariasanches@outlook.com', 'sixian.zheng@hotmail.com', 'mina.rizk.it@gmail.com', 'faustonogara@yahoo.com.mx', 'felix.poppelaars@gmail.com']",[],
+108564,Jacques Fu,"['james.sweet88@googlemail.com', 'a.deljoo@tudelft.nl', 'santo.fortunato@aalto.fi', 'ghitulescuzoe@yahoo.com', 'Genevieve.Lafreniere@varian.com', 'Inger-lena.lamm@skane.se', 'lanchestephanie@gmail.com', 'psf1@orange.fr']",[],
+305,Enrique Dubois,"['jybaca@icloud.com', 'htljzar.cruz@gmail.com', 'ezanardi@ull.es']",[],
+108418,Ian Schafer,"['ianshaferdesign@gmail.com', 'tahallco@cox.net', 'mmblevins@hotmail.com', 'mmblevins@hotmail.com', 'tennesseerebel1104@yahoo.com', 'wayne.lannen@gmail.com', 'kensolt@gmail.com']",[],
+108365,Eric Seufert,"['lcema47421@gmail.com', 'v.johnson@cgiar.org', 'vinbjohnson@yahoo.com', 'bkapange@gmail.com', 'bkapange@sadc.int', 'bkapange@icloud.com', 'seufert@fian.org', 'preservation.station@yahoo.com', 'Tfaith@Unix.Adept.Net']",[],
+108353,Elizaveta Hesketh,['elizaveta@list.ru'],[],
+108342,Chris Smoak,"['k@gmail.com', 'groupheather@agworksh2.com', 'krdaniels2009@gmail.com', 'wshlradio@yahoo.com', 'marknewara@hotmail.com', 'wvmwmusicdirector@hotmail.com', 'wxoumusic@yahoo.com']",[],
+110062,Fabio Mondini de Focatiis,[],['0630896702'],
+110106,Okan Erol,[],[],
+108133,Joe Speiser,"['carl-magnus.larsson@arpansa.gov.au', 'joe@joenegron.com']","['9174981912', '9178619532', '3178476892', '3177918865']",
+110142,Niklas Meinert,['oulaatat@hotmail.com'],[],
+107968,Marcy Simon,"['msimon2211@gmail.com', 'marcys@gmail.com']",[],
+110183,Mike Ullmann,"['bobfrancopvb@icloud.com', 'cfgators@gmail.com', 'beazzly22@yahoo.com']",[],
+110224,Toon Coppens,['madmohawk@hotmail.com'],[],
+107961,Jean-Baptiste Rudelle,['ch.bookit@gmail.com'],[],
+110233,Thomas Weidner,"['kathryn.l.carroll@gmail.com', 'kgweidner13@yahoo.com', 'rickbaker8569@gmail.com', 'bartoschek@uni-muenster.de']",[],
+110256,Hande Enes,[],[],
+440,Lawrence Braitman,['len_helen@hotmail.com'],[],
+110275,Roman Kirsch,"['kirsch.spanky@osd.mil', 'h@whu.edu', 'irene.barba.n@gmail.com', 'sara.roman@icv.csic.es']",[],
+110279,Guillaume Lestrade,"['guillaumelestrade@gmail.com', 'guillaume@tropee.co', 'asso.unis.vers.19@gmail.com']",['1710471471'],
+106745,Brian O'Kelley,[],[],
+106435,Jonathan Zweig,"['g@brown.edu', 'laura.rimell@gmail.com', 'meiminh@hotmail.com', 'celine7325@gmail.com', 'timeless1515@gmail.com', 'darteh@yahoo.com']",[],
+106357,Arthur F. Muldoon,[],[],
+110369,Robin Bade,"['ravery1@earthlink.net', '.jan@gmail.com']",[],
+110386,Rustan Panday,['hholtung@gmail.com'],[],
+110403,Sina Afra,['a@gmail.com'],[],
+110523,Stefan Lindeberg,['lindeberg.stefan@outlook.com'],[],
+110533,Vlad Ionescu,[],[],
+110564,Utku Erol,[],[],
+110578,Yago Arbeloa,"['lorena.aincioa@outlook.com', 'nerea.belmonte.abogada@gmail.com']",[],
+110803,Simon Borrero,[],"['5083611866', '2300195447']",
+110825,Touker Suleyman,[],[],
+110885,Gabriela Viana,"['viana.gabrielam@gmail.com', 'gvgonzal@gmail.com', 'gvgonzal@gmail.com', 'gabriela.aviana@hotmail.com', 'gabriela.aviana@hotmail.com']",[],
+110910,Steen Ulf Jensen,['suznygren@gmail.com'],[],
+110911,Koen Bok,"['ranked5@gmail.com', 'b.j.g@juno.com', 'steelers86x15@gmail.com', 'taylor.l.fothergill@gmail.com', 'charanthinesh@outlook.com']",[],
+110946,Mans Ulvestam,[],[],
+111066,Markus Villig,"['kronikk@dagbladet.no', 'g@gmail.com', 'hholtung@gmail.com']",['1609225668'],
+289,Tom McInerney,"['chatcherkay@gmail.com', 'Donovan.Nina@victoria.edu.au', 'tom.donovan@hotmail.com']","['4153508312', '4157174546']",
+111240,Eduardo Baer,"['eduardobaer@gmail.com', 'timmoore@microsoft.com', 'sshaffer@akamai.com', 'cvazqu01@ucm.es', 'carmen_herencia@hotmail.com']",[],
+1298,Parsa Saljoughian,"['parsa.saljoughian@gmail.com', 'saljoughian@whoop.com']",[],
+546,Mark Jacobstein,[],[],
+566,Barry X Lynn,['jonathan.barry55@gmail.com'],[],
+638,Amar Chokhawala,['s.boivin@embl-hamburg.de'],[],
+712,Adam Schwartz,[],[],
+796,Jay Gould,[],"['0618049320', '4162676555']",
+845,Don Dodge,['e@gmail.com'],[],
+946,Venu Anuganti,[],[],
+1062,Steven Eskenazi,"['drichards20@outlook.com', 'getbackjoejoo@gmail.com', 'Steven.Huddleson@state.nm.us', 'Jennifer.Hower@state.nm.us']",[],
+1153,Zig Serafin,[],[],
+1270,Juha Christensen,"['juha@ninthrecess.com', 'juha@cloudmade.com']",[],
+1320,Salil Pradhan,[],[],
+1465,Danny Wen,"['fgshih@gmail.com', 'taiwanbird@gmail.com', 'whusfm@yaboo.com', 'polyethylene@psu.edu']",[],
+1552,Sundeep Madra,['dzanidz@hetnet.nl'],[],
+1632,Marissa Mayer,"['r@gmail.com', 'Marissa@yahoo.com']",[],
+1640,Vibhu Mittal,"['mittal@gmail.com', 'vibhu@mittal.net', 'angadahluwalia@yahoo.com', 'advrakeshmittal@gmail.com', 'theivanaLp@hotmail.com', 'officeofnikunjaroar@gmail.com', 'sanjeevsahay@hotmail.com']",['4806488258'],
+1661,Philip Engelhardt,"['phil@netroedge.com', 'mdsxyz123@yahoo.com', 'e.k.engelhardt@tum.de']",[],
+1721,Jade Wang,"['princess_jade_@outlook.com', '9@nyu.edu']",['1603893532'],
+1735,Evangelos Simoudis,"['GilTivon@gmail.com', 'GilTivon@gmail.com', 'GilTivon@gmail.com']",[],
+1752,Eric Hahn,"['music@ckut.ca', 'kexp@u.washington.edu']",['1682706315'],
+1789,Eric Stein,"['Meestein@remax.net', 'E.Stein@pcrnet.com', 'garyfish49@hotmail.com', 'Ibwales@yahoo.com', 'b@icloud.com', 'ericsteinart@gmail.com']",[],
+1812,Michael Evans,"['AllAmericanTalks@gmail.com', 'mevans7106@gmail.com', 'mpm.evans@gmail.com', 'AllAmericanTalks@gmail.com', 'wrsemusic@yahoo.com']","['2089152416', '0422315112']",
+1821,Shashank V Singh,"['shashanksingh027official@gmail.com', 'yagyawalkyasingh@gmail.com', 'abhijeetpandove@yahoo.com']",['9599514004'],
+1876,Philipp Pieper,"['r@proximic.com', 'jeffrey.e.pieper@intel.com']",[],
+1955,Wayne Pan,['wgfrmusic@hotmail.com'],[],
+2005,Raja Mawad,"['pujatspauls@gmail.com', 'kingslin.genova20@gmail.com', 'timmoore@microsoft.com', 'sshaffer@akamai.com']",['1703777000'],
+422,Dan Rosen,['layne.alfonso13@gmail.com'],[],Commerce Ventures
+3265,Eric Hippeau,"['norman.liang@gmail.com', 'jeffreyganz@hotmail.com']","['6465326369', '0000912057', '0000912057', '0001047469', '0001047469', '6465326369', '0001615774', '0001615774']",Lerer Hippeau
+416,Chamath Palihapitiya,"['chamath@gmail.com', 'chamath@socialcapital.com', 'x3echamath@gmail.com', 'chamath@socialcapital.com', 'chamath@gmail.com', 'chamath@socialcapital.com', 'x3echamath@gmail.com', 'chamath@socialcapital.com']",['8535462373'],Social Capital
+3267,Joe Medved,"['jhmedved@gmail.com', 'joe@lererhippeau.com', 'joe_medved@yahoo.com', 'joe_medved@yahoo.com', 'joemedved62@gmail.com', 'jhmedved@gmail.com', 'joe@lererhippeau.com', 'joe@lererhippeau.com', 'lucy_yu90@hotmail.com', 'vikas.khanna@gmail.com']",['3478828645'],Lerer Hippeau
+5227,Zach Coelius,"['zachcoelius@yahoo.com', 'norman.liang@gmail.com', 'jeffreyganz@hotmail.com', 'norman.liang@gmail.com', 'jeffreyganz@hotmail.com', 's@gmail.com', 'zachcoelius@yahoo.com']","['0001615774', '0001615774', '0001615774', '0001615774']",Coelius Capital
+4361,Seth Levine,"['hogarthchiro@gmail.com', 'pepe3@verizon.net', 'drkdlloyd@gmail.com', 'dkevin17@yahoo.com', 'dmoran299@gmail.com']",[],Foundry Group
+17747,Clancey Stahr,[],[],GoAhead Ventures
+3504,Rick Heitzmann,"['rheitzmann@firstmarkcap.com', 'x3eJohn.Smith@firstmarkcap.com', 'x3eJSmith@firstmarkcap.com']",['6466495696'],FirstMark Capital
+285,Ben Narasin,"['ben.narasin@gmail.com', 'ben@tpcp.com', 'ben.narasin@gmail.com', 'ben@tpcp.com']","['6503887608', '0001213900', '0001213900', '0001213900', '0001213900', '6503887608']",Tenacity Venture Capital
+28782,Dave Garland,"['dave.garland@wizinfo.com', 'wleathus@yahoo.com', 'PATRICK.D.COOK@GMAIL.COM', '4@gmail.com', 'neilc2004@hotmail.com', 'kamaguire08@hotmail.com', 'edevaris@yahoo.com', 'imhilde@gmail.com']",[],Second Century Ventures
+1630,Ajay Agarwal,"['dr.ajay123@gmail.com', 'l@gmail.com', 'jane.doe@gmail.com', 'l@gmail.com']",[],Bain Capital Ventures
+210,Alireza Masrour,"['nmost69@yahoo.com', 'drjadhavkm@gmail.com', 'xuhuidao1983@hotmail.com', 'masrour@gmail.com']",[],Plug & Play Ventures
+209,Bobby Yazdani,"['DEC@OUTLOOK.COM', '1957@gmail.com', 'asbertrand3@hotmail.com']",['1598536092'],Cota Capital
+153,Aaron Batalion,"['norman.liang@gmail.com', 'jeffreyganz@hotmail.com', 'davmcclelland@gmail.com', 'davmcclelland@gmail.com', 'davmcclelland@gmail.com', 'davmcclelland@gmail.com']","['0001615774', '0001615774', '0001615774', '0001615774', '0001615774']",Batalion Capital
+701,Josh Felser,"['mejosh@gmail.com', 'josh@freestylecapital.com', 'esialg@gmail.com']",[],ClimacticVC
+13988,Brian Hirsch,"['bhirschak@gmail.com', 'kwlcam@martinJuther.edu', 'whny@hotmail.com']",[],Tribeca Venture Partners
+3512,Tasso Argyros,"['argyros@gmail.com', 'tasso@actioniq.com', 'argyros@gmail.com', 'tasso@actioniq.com']","['1173833010', '1173833010']",FirstMark Capital
+76886,Bhaskar Ghosh,"['gautam0262@gmail.com', 'gbiswadebghosh756@gmail.com', 'h@yahoo.com', 'tabulghosh@yahoo.com', 'bailerbrittany@gmail.com']",[],8VC
+186,Zachary Aarons,"['aaron.gasper@gmail.com', 'aaron.patterson@gmail.com']",[],MetaProp Ventures
+219,Auren Hoffman,"['aurenh@gmail.com', 'auren@safegraph.com', 'aurenh@gmail.com', 'auren@safegraph.com']","['4154804752', '1620348546', '4154804752', '1620348546']",Flex Capital
+5264,Cory Klippsten,['cory.klippsten@gmail.com'],"['2595563916', '2595563916', '2595563916']",Bitcoiner Ventures
+15627,Constance Freedman,"['rtbsb@yahoo.com', 'blivanos@optonline.net', 'carroll_long@yahoo.com', 'cclong@hotmail.com', 'lordian0829@yahoo.com', 'rjonusan@gmail.com']","['3123298560', '3123298560']",Moderne Ventures
+81527,Paul Kwan,"['keallikea@yahoo.com', 'ppkwan@gmail.com', 'mkwan001@stanford.edu']",[],General Catalyst
+6320,Tx Zhuo,"['dudleyposton@yahoo.com', 'o@gmail.com']",[],Fika Ventures
+13035,Deborah Benton,['deborahabenton@gmail.com'],[],Willow Growth Partners LP
+92646,Guy Vidra,"['guyvidra@gmail.com', 'guy@collaborativefund.com', 'guyvidra@gmail.com', 'guy@collaborativefund.com', 'guy@collabfund.com', 'x3ejdoe@collaborativefund.com', 'x3ecshapiro@gmail.com', 'craig@collabfund.com']","['3290319421', '7186645005', '2126025000']",Collaborative Fund
+173815,Lucian Todea,['sounieng.vong@gmail.com'],['2525272048'],2048 Ventures
+17114,Oscar Adelman,"['oscar1adelman@gmail.com', 'oscar@shopremi.com', 'oscar1adelman@gmail.com', 'oscar@shopremi.com']","['9176341180', '9176341180']",Sinai Ventures
+24643,Urs Cete,"['sales@atamfebi.com', 'tamana@gmail.com', 'awdg853@GMAIL.COM', 'danisadon@hotmail.com', 'urs@bdmifund.com', 'urs.cete@bdmifund.com', 'urs@bdmifund.com', 'jeff_heinrich@yahoo.com']",[],BDMI - Bertelsmann Digital Media Investments
+4264,Joshua Baer,['tanakatava@gmail.com'],[],Capital Factory
+92347,Brittany Brody,[],[],Founder Collective
+3068,David Pakman,[],[],CoinFund
+26064,Eric Risley | HELPING WITH INTRODUCTIONS,[],[],Architect Partners Ventures
+261,Amir Banifatemi,"['amir@k5vp.com', 'abanifatemi@gmail.com', 'amir.pinchas@microsoftventures.com', 'iastiaque@yahoo.com.br', 'amir@k5vp.com', 'abanifatemi@gmail.com']",[],K5 Ventures
+2106,Larry Marcus,"['philcbowler@hotmail.com', 'marknewara@hotmail.com', 'koconnor@bcc.ctc.edu', 'jlongo20@student.scad.edu', 'kzscchart@hotmail.com', 'beazzly22@yahoo.com', 's@gmail.com', 's@gmail.com', 'lmarcus@wyze.com', 'mcnarnara@spicergroup.com']",['4152734274'],Marcy Venture Partners
+1574,Steve Schlenker,"['dahlharris@hotmail.com', 'madelon6852@gmail.com', 'Steve.schwebke@pnm.com', 'witwerr@southwestgen.com', 'mbrubaker@consultbai.com']",[],DN Capital
+6272,Rodrigo Sepulveda,"['Emailroogenial@yahoo.com', 'carlosgalli@yahoo.com']",[],Expon Capital
+41535,Bogdan Prokopenko,"['v.o.prokopenko@gmail.com', 'buozer@gmail.com', 'pezzuto@hawaii.edu', 'adwright@hawaii.edu']",[],Highsystems
+22804,Alexander Rosen,"['n@gmail.com', 'y@gmail.com']",[],Ridge Ventures (Formerly known as IDG Ventures USA)
+166727,Paul Goodrich,"['paul.goodrich1954@gmail.com', 'Emailcoolgoodrich@yahoo.com', 'fee.bobsharrongoodrich@yahoo.com']",[],Madrona Ventures
+322,Doug Chertok,"['granitafc@gmail.com', 'wiliam.ricaldi@ufes.br', 'doug@vastvc.com', 'doug@vastvc.com']",[],Vast Ventures
+258,Pietro Dova,['yutingl188@gmail.com'],[],XG Ventures
+23682,Marco Giberti,"['bini.anna@hotmail.com', 'marco.curioni@gmail.com', 'davide.tovani@icloud.com', 'marco.antonio.perez@upc.edu']",[],Vesuvio Ventures
+752,Mark Mullen,"['mmullen_01@yahoo.com', 'lechnerfh@gmail.com', 'markatartistic@gmail.com']",[],Bonfire Ventures
+382,Marvin Liao,"['james.sweet88@googlemail.com', 'luxseky@gmail.com', 'marvinliao@yahoo.com']",[],GAMEGROOVE Capital
+29060,Shawn (Jay-Z) Carter,['corey.carter@gmail.com'],[],Marcy Venture Partners
+6609,Dev Khare,"['khare.brij@gmail.com', 'dev.27anand@gmail.com', 'rishika.khare@nluo.ac.in', 'rishika.khare@gmail.com']",[],
+1287,Sunny Dhillon,"['z@yahoo.com', 'letnoahhelpyou@Gmail.com']",[],Signia Venture Partners
+6836,Malcolm Nutt,"['khokhlov@lab126.com', 'di_groves@hotmail.com', 'rtosdal@gmail.com', 'malcolm@crescentcap.com.au']",[],Wentworth Global Capital Partners
+70858,Tobias Bauer,['rumblecat@hotmail.com'],[],Blockchain Founders Fund
+1683,Artem Burachenok,[],[],
+25014,Mika Salmi,"['i@gmail.com', 'mika@mikasalmi.com', 'mika.koskensalmi@gmail.com', 'i@gmail.com', 'msalmi@gmail.com', 'josephlaw@live.co.uk', 'mika@mikasalmi.com', 'mika@mikasalmi.com']",[],Lakestar
+31969,Romain Vidal,"['grissiniproject@gmail.com', 'contact.romaincosta@gmail.com']",['2691554740'],CapHorn
+47029,John Estalilla,"['John.Erickson@uscp.gov', 'ADonald@wmata.com', 'giulia.gubitosi@imperial.ac.uk', 'john.sutter@diamond.ac', 'jestalilla@gmail.com', 'john@sfventuresgroup.com', 'john@sfventuresgroup.net']",[],Sfventures Group LLC
+10479,Fady Yacoub,"['Sara.hegazi85@hotmail.com', 'fady.harouda@gmail.com']",[],HOF Capital
+27685,Dustin Drees,"['dustin@vinnystowing.com', 's@gmail.com']",[],BIP Capital
+454,Tak Miyata,"['takmiyata@gmail.com', 'albright@mit.edu', 'wangbin69@yahoo.com', 'takmiyata@gmail.com']",[],Scrum Ventures
+22041,Hiro Tien,[],[],The MBA Fund
+92349,Leeor Mushin,[],[],Floodgate
+3989,David Silverman,"['carroll_long@yahoo.com', 'cclong@hotmail.com']",[],Crosslink Capital
+118794,Wei Gao,"['wind.ballet@gmail.com', 'wei.gao@centific.com', 'Jasmine@atomwise.com']",['2066961148'],Madrona Ventures
+45449,Edson Rigonatti,"['i@gmail.com', 'erigonatti@astellainvest.com', 'glaucia.usp@gmail.com', 'i@gmail.com', 'erigonatti@astellainvest.com', 'lucasbarbosaabreulima@gmail.com', 'lucas@astellainvest.com']",[],Astella
+3901,James Riney,['jsriney@gmail.com'],[],Coral Capital
+378,Mark Patricof,"['mpatricof@gmail.com', 'mpatricof@gmail.com', 'rissi@yahoo.com']","['9178640713', '9178640713', '2023937594', '2023937594']",MESA Ventures
+84940,Supachai Kid Parchariyanon,['n@gmail.com'],[],SeaX Ventures
+72467,Jason M. Cronen,"['primtech@yahoo.com', 'brogan-j@hotmail.com']",['1641993952'],Garden District Ventures
+69295,Eric Carlborg,[],[],Lobby Capital
+287,Andrew Ogawa,"['w@questvp.com', 'CYNORELDVOTRAVEL@YAHOO.COM.PH', 'w@questvp.com', 'morbidelli@oca.eu', 'egsrg@hotmail.com']",[],Quest Venture Partners
+26526,Martin Weber,"['xmca@weber.ucsd.edu', 'lpscholar2@gmail.com', 'citywidewoodfloors@gmail.com', 'fifteenknots505@gmail.com', 'fifteenknots505@gmail.com', 'martin.weber-spanknebel@hu-berlin.de', 'm.cacchiarelli@studenti.uniroma4.it', '49@yahoo.com']","['8622401500', '0000824142', '0000824142']",HV Capital
+185030,Dmitry Smirnov,"['49788A91.5070803@sbcglobal.net', 'v@gmail.com', 'popelac@gmail.com', 'asowda@gmail.com', 'asowda@gmail.com', 'xx@gmail.com', 'v@gmail.com']",[],Flint Capital
+21313,Ilse Calderon,['ilse@ovofund.com'],['1709721116'],OVO Fund
+115161,Evan Rutchik,['GDSmith510@msn.com'],[],RIII Ventures
+185375,Eric Franchi,"['ericfranchi@gmail.com', 'mrericfranchi@gmail.com', 'brittfranchi@gmail.com', 'mrericfranchi@gmail.com']",['2126858000'],AperiamVentures
+69026,David Yuan,"['6@gmail.com', 'yuliangyuan@yahoo.com']",[],Redpoint China Ventures
+108260,Brian Samelson,"['giocerise@icloud.com', 'teresachristensen31@gmail.com', 'brian@bopumc.net']",[],TWO39 Ventures
+121693,Shakeel Rashed,"['i@yahoo.com', 'r@hotmail.com', 'b@gmail.com', 'y@gmail.com', '1@yahoo.com.hk', 'satyag75@gmail.com', 'satyag75@gmail.com', 'd@gmail.com', 'pakistancopy@gmail.com', 'ragh885@gmail.com', 'ragh885@yahoo.com']",[],Capital Factory
+104983,Marco Pieters,[],"['0475901893', '0564753695', '0700825889']",Slingshot Ventures
+2295,Mathias Schilling,"['liliana.mendonca@cnc.uc.pt', 'liliana.s.mendonca@gmail.com']",[],Headline (formerly e.ventures)
+103280,Yvan-Michel Ehkirch,[],[],Karista
+80018,Tianqi Wang,['g@lyft.com'],[],Plug & Play Ventures
+84329,Pasha Romanovski,[],[],Hanaco Ventures
+108838,Bryant Barr,"['garyeproctor@gmail.com', 'ebryant@jmd.usdoj.gov', 'timmoore@microsoft.com', 'sshaffer@akamai.com', 'bcbarr0118@gmail.com']",[],Penny Jar Capital
+169149,Gad Huldai,[],[],Pitango Venture Capital
+108832,Rich Scudellari,"['barbara.greaves@lacity.org', 'marecT@sbcglobal.net', 'dmarlos@adelphia.net']",[],Penny Jar Capital
+111564,Eric Del Balso,"['rant@gmail.com', 'o@gmail.com']",['4152468898'],Kohala Ventures
+111688,Gary C. Hsueh,"['h@gmail.com', 'joetuyuan@yahoo.com.tw', '2010tuyuan@gmail.com', 'h@gmail.com', 'Annie.Lumen@fda.hhs.gov']",[],Catapult Capital
+82461,Tina Cheng,"['wordweaver21@aol.com', 'richhillissf@yahoo.com', 'TISEccc@gmail.com', 'tinawcheng@gmail.com', 'shetaldoc@hotmail.com']",['1439727155'],Cherubic Ventures
+513,Alexander Lloyd,[],"['5467611413', '1577992426', '4850307896', '1454794166']",Accelerator Ventures
+142131,Bruce Hallett,"['Bruce.kaiwi@hawaii.gov', 'abjai3@30l.com', 'bruce@bmpvc.com']",[],Miramar Ventures
+96224,Maximilien Bacot,[],[],Breega
+771,Marcus Ogawa,"['xu@gmail.com', 'Oaklandkev65@hotmail.com', 'ajfriend@hotmail.com', 'lazara1217@hotmail.com', 'cee33@hotmail.com', 'jdh-pc@hotmail.com']",[],Quest Venture Partners
+128249,Hein Siemerink,"['trudesheems@hotmail.com', 'inge.reitsmavink@gmail.com', 'm.a.vanbokhoven@hotmail.com', 'aspiranten-jonggelre@hotmail.com', 'trudesheems@hotmail.com']",[],Peak
+155832,Luis F Trevino,"['lynn.f.wilkinson@gmail.com', 'susanchad@yahoo.com', 'jaime.gonzalez@tnc.org', 'ltrevino@beamonteinvestments.com', 'luis.trevino@beamonte.com', 'm.ollero.baturone@gmail.com']","['6172758960', '1572326578', '1708207092', '1607623681', '1559085615', '1708958710']",Beamonte Investments
+4211,Steven Krein,['javier_city@hotmail.com'],[],Startup Health
+1389,Paul Martino,"['ahpah69@gmail.com', 'paul@ahpah.com', 'paul@bullpencap.com', 'pmartino@gmail.com', 'paul.j.martino@gmail.com', 'pmartino@villagemd.com', 'ahpah69@gmail.com', 'paul@ahpah.com', 'paul@bullpencap.com', 'norman.liang@gmail.com', 'jeffreyganz@hotmail.com']","['0001615774', '0001615774', '0001615774']",Bullpen Capital
+1657,Daniel Darling,"['Danny.westwind@gmail.com', 'danieldarling@gmail.com', 'daniel@bookfocal.com', 'danieldarling@gmail.com', 'daniel@bookfocal.com', 'daniel@unreasonablecapital.com']","['3107793069', '3107793069']",Darling Ventures
+23317,Domenic Merenda,['dmerenda@gmail.com'],[],Sand Hill Angels
+273,Juan Lopez Salaberry,[],['1549491070'],
+759,Geoff Judge,['geoff.ziegler@gmail.com'],[],iNovia Capital
+20575,Temur Turdibekov,[],[],Emery Capital
+79588,Sunwoo Lee,"['space@oknp.kr', 'sunwoo@gmail.com', 'kimkg@gachon.ac.kr', 'kjp@dgist.ac.kr', 'Emailleonard.sunwoo@gmail.com']",[],Atland Ventures
+114516,Mikael Wintzell,"['clostrujillo2@yahoo.com.mx', 'abcbegravning@gmail.com', 'kennet_forvaltning@hotmail.com']",[],Wellstreet
+147185,Rhian Saleh,"['deaneshure@gmail.com', 'denisaapriliawati@gmail.com', 'mustadin82@gmail.com']",[],LocalGlobe
+145145,Vadim Dyakov,"['gill@hotmail.com', 'singh@yahoo.com']",[],Fort Ross Ventures
+134650,Mathieu Azorin,"['n@gmail.com', 'albruni@gmail.com', 'superjoska@hotmail.com', 'lacramioara_radomir@yahoo.com', 'Pierre.Goloubinoff@unil.ch']",[],50 Partners
+134484,Pascal Duriez,"['rugbyclubvouziers@gmail.com', 'p.audigane@brgm.fr', 'christian.duriez@irsn.fr']",[],50 Partners
+131243,Nima Wedlake,[],[],Thomvest Ventures
+131055,Michelle McHargue,"['audiogearjunkie@gmail.com', 'Mike.Fasano@myfloridahouse.gov', 'rpjrb@yahoo.com', 'rpjrb@yahoo.com', 'pwadolp@gmail.com', 'pwadolp@gmail.com', 'marcus.rowland@gmail.com']",[],Costanoa Ventures
+118453,Phuc Truong,"['levandong@yahoo.com', 'phuctt@gmail.com', 'ptruong@westcap.com']","['2485961879', '6172828378']",WestCap
+117331,Jascha Samadi,[],[],Greenfield One
+116946,Benedict Rocchio,"['o@rwbaird.com', 'Aew@lacity.org', 'x3ejdoe@rwbaird.com']",[],Baird Capital
+115369,Jay Seleno,"['sagarikakj@gmail.com', 'csteber@yahoo.com', 'Jay.M.Pasachoff@williams.edu', 'ses@aula.com']",[],Unlock Venture Partners
+111220,Eric DeMenthon,['ramikag@ee.iisc.ernet.in'],[],Pioneer Fund
+111213,Argyris Zymnis,[],[],Pioneer Fund
+111178,Rajiv Bhat,"['rajivbhat@mail.jnu.ac.in', 'rajivbhat@hotmail.com', 'khokher_rohit@yahoo.com', 'rajiv.bhat@gmail.com', 'deanpgmcons@gmail.com', 'nitie1963@gmail.com']",['9811214109'],Pioneer Fund
+111067,Marco Valta,"['a@gmail.com', 'licitacaopindai@gmail.com', 'a@gmail.com']",[],Ambridge Capital
+109675,Sybil Grieb,['b@gmail.com'],[],Pitbull Ventures
+109488,Dylan Collins,"['thepodcastiron@gmail.com', 'nw.dgc@hotmail.com', 's@gmail.com', 'deejay.neo@hotmail.com', 'deejay.neo@hotmail.com', 'x3ejane@hoxtonventures.com', 'doe@hoxtonventures.com']",[],Hoxton Ventures
+109032,Samira Ann Qassim,"['m@gmail.com', 'ann.c.ishee@mail.sprint.com', 'emiliejin2002@yahoo.com.cn', 'poorvanayak11@gmail.com', 'sosfizix@gmail.com', 'qssq2002@hotmail.com', 'draboaz@yahoo.com', 'sacepsec@eol.lk', 'toxicreporter@gmail.com', 'thanal@vsnl.com', 'm@gmail.com']",[],Pink Salt Ventures
+108864,Nicolas Galang,"['humura2020@gmail.com', 'edroccella@cox.net']",[],Founders Committee
+2314,David Whorton,"['zoulaze@aol.com', 'bxtwms@att.net', 'whorton@yahoo.com', 'Beeton@gmail.com']",[],Tugboat Ventures
+108824,Gurtej Gill,['gurtejgill84@gmail.com'],[],Hyphen Capital
+108366,Taylor Wong,"['mooresu@sonic.net', 'anisohedral@yahoo.com', 'jmcohen100@gmail.com', 'rachel.russell6@gmail.com']",[],Rachel Zoe Ventures
+108046,Brenda Freeman,"['mikhail@wruw.org', 'musicdepartment@wmpg.org']",['1635544358'],Debut Capital
+104621,Gil Doukhan,['n@gmail.com'],[],Iris Capital
+103628,Dan Calugareanu,"['zacharyjames@hotmail.com', 'zacharyjames@hotmail.com', 'andrei.laurentiu.savu@gmail.com', 'gradinabotanicachisinau@gmail.com']",[],Early Game Ventures
+103252,Kevin Mac Gowan,"['clintadamsconcrete@outlook.com', 'wish@yahoo.com', '1riujulius@hotmail.com', 'nawogk@gmail.com']",[],Space Ventures Investors
+103161,Alessandro Machado,"['azagatto@yahoo.com.br', 'cat.mineiros@gmail.com', 'carinamelosilva@gmail.com']",[],Cedro Capital
+102424,Ekaterina Gianelli,"['a@gmail.com', 'msmmanto@usp.br', 'a@gmail.com']",[],Inventure
+102357,Petteri Koponen,[],"['1034272506', '8407727007']",Lifeline Ventures
+98858,Paulo Veras,"['paveras@me.com', 'paulo.a.veras@gmail.com']",[],Matterscale Ventures
+95809,Jérôme Stioui,[],[],Serena Capital
+3302,Aneesha Raghunathan,"['sset@scmsgroup.org', 'abhishekpsuresh@gmail.com', 'adnananvar2000@gmail.com', 'ainelmary141000@gmail.com', 'amandev44@yahoo.com', 'last@sgep.com', 'x3ejane.doe@sgep.com']","['9741533380', '9446118742']",Susquehanna Growth Equity (SGE)
+95580,Pauline Roux,"['roux.pau@gmail.com', 'proux@elaia.com', 'roux.pau@gmail.com', 'jarroux@gmail.com', 'roux.pau@gmail.com', 'proux@elaia.com', 'roux.pau@gmail.com']","['0683507179', '0765230509', '0683507179']",Elaia Partners
+95570,Xavier Lazarus,"['citywidewoodfloors@gmail.com', 's@gmail.com']",[],Elaia Partners
+90731,Lizzie Francis,['peewee@hotmail.com'],[],M13
+82701,Roger Krakoff,"['Michaelsultan@gmail.com', 'shree.debate@gmail.com', 'nobrodebatedocs@gmail.com']",[],Monta Vista Capital
+27016,Dominique Rencurel,"['mairie.bouchage@gmail.com', 'dominique.dessez@labuisse.fr', 'rencurel.mairie@orange.fr', 'gregoire_bel@hotmail.com', 'montagne.grimpeurdarbre@gmail.com', 'montagne.nature@sfr.fr', 'balades-et-bien-etre@outlook.com', 'eymieux@hotmail.com', 'm.samson.cfse86@gmail.com', 'katrindugast@gmail.com', 'l@gmail.com', 'last@360capitalpartners.com']",[],360 Capital Partners
+102984,Alexis Menard,"['alexkorep@gmail.com', 'alexis.menard@intel.com', 'alexis.menard@intel.com', 'alexis.menard@openbossa.org', 'alexis.menard@openbossa.org', 'alexis.lagoutte@gmail.com', 'alexis.menard@intel.com', 'viot.camille@outlook.com', 'alexis.menard@openbossa.org', 'bfulgham@webkit.org', 'alexis.menard@openbossa.org', 'alexis.menard@openbossa.org']",[],Go Capital
+104227,Brooke Richardson,"['brooke.richardson129@gmail.com', 'koconnor@bcc.ctc.edu', 'lospulmones@hotmail.com', 'GreenMomsGive@gmail.com']",['2147483647'],TheVentureCity
+104585,David Horowitz,"['inhiphuong@gmail.com', 'david@tectonic.vc', 'david@tectonic.vc']","['1675105383', '1674792810']",Touchdown Ventures
+107592,Kent Wakeford,"['RCDNET@hotmail.com', 'd@gmail.com']",[],Colossal Biosciences
+156639,Carlo P.,"['betanalpha@gmail.com', 'ibpusa3@gmail.com', 'catavia@gmail.com', 'ken.dahm@gmail.com', 'Carlo@carloelectrical.com']",[],La Famiglia
+108766,David Dang,"['Garexsymphonique@gmail.com', 'ultimateddang@gmail.com', 'kaijuink@gmail.com', 'rf10@cl.cam.ac']",[],Hyphen Capital
+108814,Christopher Yang,"['chris.m.yang@gmail.com', 'chris.yang.design@gmail.com']",[],Hyphen Capital
+108816,Amit Dubey,"['amitkdubey@outlook.com', 'amit.dubs@gmail.com', 'cucurbit.genetics.cooperative@gmail.com', 'ryan@hotmail.com']",[],Hyphen Capital
+108818,Louis Ng,"['lnadl@hotmail.com', 'louis.pelletier@mffp.gouv.qc.ca', 'mina.rizk.it@gmail.com', 'faustonogara@yahoo.com.mx']",[],Hyphen Capital
+108822,Tia Wei,"['7533967@gmail.com', 'd99944001@ntu.edu.tw', 'tei.pinjala@gmail.com']",['9701370373'],Hyphen Capital
+108823,Jon Park,"['WorkwithJonPark@gmail.com', 'deanowaco@gmail.com', 'mhayes@icmpartners.com', 'ContactTeamVisionary@gmail.com', '49@yahoo.com']",[],Hyphen Capital
+108825,Eric Toda,"['a@gmail.com', 'tc4gold@gmail.com', 'eay@cryptsoft.com']",[],Hyphen Capital
+108826,Dave Yang,"['swill99@hotmail.com', 'horizon@yahoo.com.sg', 'be0043@nsw-reg.edu.au', 'wusr@uofs.edu', 'davidmcl01@tiotmail.com', 'wsmu@umassd.edu', 'tsrmusic@tcnj.edu', 'wsoe@elon.edu', 'bennardo2021@gmail.com']",[],Hyphen Capital
+108828,Kai Yi Chu,['ilariakiko@yahoo.com'],[],Hyphen Capital
+108831,Gene Chuang,"['genechuang@gmail.com', 'genechuang@yahoo.com', 'gene.chuang@x-team.com', 'genechuang@gmail.com', 'genechuang@yahoo.com', 'gene.chuang@x-team.com', 'christian.schuster@uba.de']",[],Hyphen Capital
+112534,Mengfei He,[],[],Hyphen Capital
+143394,Fabio Barcellos de Paula,['cclopez@economistes.com'],[],Norte Ventures
+139135,Solène Madec,"['martak.daniel@gmail.com', 'blanche3122@hotmail.com', 'robert.mingot@yahoo.com', 'penfeldbuc@gmail.com', 'geoffroyibiassi7@gmail.com']",[],Leia Capital
+116373,Daniel Tapson,['1presbyterian@gmail.com'],['1600980174'],Business Growth Fund
+131016,Alex Cochand,[],[],QVentures
+98352,Ricardo Sasseron,"['Xinliscau@yahoo.com', 'GUILHERME.M.VALLE@GMAIL.COM', 'ricardo.crudeli@gmail.com', 'Xinliscau@yahoo.com', 'helena.marcon@usp.br', 'livialimasilva@gmail.com', 'psicologataline@yahoo.com.br']",[],Bertha Capital
+102642,Christine Gerardy,['alex.konstantinov@ars.usda.gov'],[],Noshaq
+128081,Jason Freeman,"['Emailengrolings@yahoo.com', '330service@gmail.com', 'BONDJEREMY47@GMAIL.COM']",['9047425305'],FundersClub
+78896,Armin Kohan,['elisabetta.trivellato@gmail.com'],[],Greycroft
+126189,Michael Miraflor,"['monicaun@hotmail.com', 'pierre.sadc@gmail.com', 'bpi.directorsoffice@yahoo.com', 'r@gmail.com', 'michael.chadd@gmail.com', 'djabroker@yahoo.com']",[],Hannah Grey
+81547,Dushyant Mishra,['bjphqo@gmail.com'],"['7064061017', '7097774639', '1018612815']",Together Fund
+270,Ryan Swagar,[],"['1710528944', '1710577814', '1700546451', '1569973107', '1710528943', '1624985682']",Venture51
+1565,Eghosa Omoigui,['mhahn@asanteafrica.org'],[],
+5790,Dave Knox,"['ak907tattoo@icloud.com', 'prdaveknox@gmail.com', 'Laundering.Fire@gmail.com', 'dave.knox@gmail.com', 'dave.knox@gmail.com']",[],
+72511,Kristian Aartun,['n@gmail.com'],[],
+98970,Gwen Cheni,['i@gmail.com'],[],
+131011,Samuel Kad-Bay,[],[],QVentures
+131010,Nadia Al-Nasser,['Alsowailem@yahoo.com'],[],QVentures
+128771,Piotr Łupiński,[],['1660071787'],Market One Capital
+125358,William Goulding,"['63@gmail.com', 'william.hare@msvu.ca', 'willgoulding505@gmail.com', 'waheed557@gmail.com', 'myquesttobeamunckin@gmail.com']",[],Arbor Ventures
+142935,Ayla Jeiroudi,[],[],XRC Labs
+80825,Alan Yu,"['alehannah@yahoo.com', 'beachbubbles94@gmail.com', 'alanjay132@yahoo.com']",[],Space Capital
+103918,Rembrandt Donkersloot,['j.w.gerritsenvanderhoop@gmail.com'],[],FORWARD.one
+15445,Jinyan Jiang,"['jsqljjy@hotmail.com', 'forlynna@sjtu.edu.cn', 'huangjy@sjtu.edu.cn', 'xueyj_whu@yahoo.com']",[],
+84683,Tony Nguyen,"['touchstonetaxservice@gmail.com', 'Outfitteraveinc@yahoo.com']","['0000824142', '0000824142']",RTW Investments
+131014,Mila Arie,[],[],QVentures
+550,John Battelle,"['gapingvoidbizcard@gmail.com', 'MaxPlichta@Gmail.com']",[],
+814,Jeff Pulver,"['norman.liang@gmail.com', 'jeffreyganz@hotmail.com', 'jeff.pulver@gmail.com', 'jeff@pulver.com']","['2122868400', '5165470800']",
+126518,Ved Nathwani,"['technicalsection7@gmail.com', 'ved.pksh@govcontractor.in']",['1108355668'],Ada Ventures
+90261,Julie Fredrickson,"['citywidewoodfloors@gmail.com', 'Geaugaohcmembers@gmail.com', 'Geaugaohcmembers@gmail.com', 'fredricksonjulie@yahoo.com', 'n@gmail.com', 'n@gmail.com', 'julie.fredrickson@gmail.com']",[],Chaotic Capital
+129715,Tim Moynihan,"['tim.moynihan3@gmail.com', 'tim.moynihan@pfizer.com', 'rsnaidu937@gmail.com']",[],Sweater Ventures
+2178,Chris Alden,"['arina@igd.org.za', 'danlarge@gmail.com', 'chod..@yahoo.com', 'visw...@yahoo.com']",[],
+1616,Anthony Soohoo,['soohoo.ent@gmail.com'],[],
+3657,Roi Carthy,"['roi.carthy@gmail.com', 'roi.carthy@gmail.com', 'alwatorobin@gmail.com', 'yunusk2O12@yahoo.com', 'cmuwumuza@gmail.com', 'yooyongwech@yahoo.com']",['0523333243'],
+79106,Elliott Cohen,[],[],
+109758,Michael Puzrakov,[],[],
+109739,John Makinson,"['david.makinson@gmail.com', 'arianna.vanmeurs@gmail.com', 'kamellowtail@gmail.com', 'castertongc@hotmail.com']",[],
+109177,Todd Perry,"['citywidewoodfloors@gmail.com', 'letourneauelectric@yahoo.com', 'xxx@gmail.com']",[],
+109292,Yossi Matias,"['yossi.matias@gmail.com', 'yossi.matias@gmail.com', 'khokhlov@lab126.com']",[],
+109455,Christian Bjerre Kusk,[],[],
+109466,Chris Bouwer,[],[],
+119440,Russell Findlay,[],[],
+111732,Alexander Algard,[],[],
+111730,Alex Blum,"['alexjacobs.blum@gmail.com', 'alex@lx.lc', 'esko.luontola@gmail.com', 'm@gmail.com', 'grayyvos@gmail.com', 'clacourse-blum@cltofpbc.org', 'te@gmail.com', 'blum.alex@gmail.com', 'alex@deliveryrelay.com']",[],
+111723,Ajay Shah,"['ajayshahofficial@gmail.com', 'nascentpharmachem@gmail.com', 'ajayshah4515@gmail.com']",[],
+111530,Gabriel Pinto,"['dr.honeydo2020@gmail.com', 'Gabriel.Sharpstaff@gmail.com']",[],
+68432,Alex Sok,"['xxxxx@gmail.com', 'alex.belikova@gmail.com', 'sokrap@gmail.com', 'samsok98@yahoo.com']",[],
+4011,Hirofumi Ono,"['camilabiouff@gmail.com', 'TheArtistJUNO@gmail.com', 'hyc@openldap.org', 'pg@ksi-linux.com']",[],
+111031,Hartmut Ostrowski,"['jani@gmail.com', 'miteva.kamelia@gmail.com', 'hartmut.hackmann@t-online.de', 'dave.anglin@nrc.ca', 'hpenner@de.ibm.com']",[],
+110984,Tarkan Onar,"['sigimartin3@gmail.com', 'neslihan_yucedag@hotmail.com']",[],
+110960,Yigal Jacoby,['kevinhw_wang@yahoo.com.cn'],"['0001178913', '0001178913']",
+110905,Felipe Ramos Fioravante,[],[],
+110771,Antonio Avellar,"['jim.mcdaniel8374@gmail.com', 'marcio.de.avellar@gmail.com', 'valentim.rodolfo@unifesp.br', 'logosvitae@ig.com.br']",[],
+110768,Alejandro León,"['alejandroleonphoto@gmail.com', 'alejandroleonphoto@gmail.com', 'aaron_x40@hotmail.com', 'alesr.toge@gmail.com', 'alesr.toge@gmail.com', 'alejandro.gerones@iictechnologies.com', 'amrika.maharaj@hotmail.com', 'ehbaur@hotmail.com']",[],
+110746,Daniel Orlean,['orlean.biz@gmail.com'],[],
+110500,Gene Deyev,"['vera.knorre@gmail.com', 'actanaturae@gmail.com']",['1263846165'],
+110493,Craig Massey,"['CanadianPrideSociety@gmail.com', 'brittanybentonmassey@gmail.com']",[],
+110445,Mauricio Feldman,"['n@gmail.com', 'Wendkersten@gmail.com']",[],
+9609,Adam Salomone,"['colectivoagrario@gmail.com', 'krzysztofdeo@gmail.com']",[],
+110375,Robbert Visser,"['zklazes@gmail.com', 'abidazannay@gmail.com', 'info@frankvisser.nl', 'D66@basvanleeuwen.nl', 'benoitgalere@hotmail.com', 'hodencobold@gmail.com', 'noblephilippe@gmail.com', 'lisa_grob_@hotmail.com']","['2015386966', '2015386966']",
+110284,Ronald Strässler,"['sagarikakj@gmail.com', 'mulyanto37@gmail.com', 'prince.dana@gmail.com']",[],
+110276,Guillaume Princen,['coordonneesana@gmail.com'],[],
+106729,Michael Ryan Dubin,['namrata.berry@gmail.com'],[],
+106734,Kim Perell,"['kimrperell@gmail.com', 'kim@100.co']",[],
+108123,Greg Badros,"['badros@gmail.com', 'badros@gmail.com', 'gjb@cs.washington.edu']",[],
+110118,Anders Borg,"['Sjoborg@teol.uu.se', 'slomborg@hum.ku.dk']",[],
+61388,Aaron Applbaum,"['aja1991@yahoo.com', 'aaron.applbaum@mizmaa.com', 'lamarpikesSO@yahoo.com', 'aaron.applbaum@mizmaa.com', 'mileshaladay@gmail.com', 'aja1991@yahoo.com', 'aaron.applbaum@mizmaa.com', 'paisontheinternet@gmail.com']",[],MizMaa Ventures
+14589,barak rabinowitz,"['carols1949@gmail.com', '4melahi@acm.org']",['2250576745'],F2 Capital
+80127,Federico Carrasco,"['aaron_x40@hotmail.com', 'clemeng@iteso.mx', 'fdohra@hotmail.com', 'murkertrer@gmail.com', 'clemeng@iteso.mx', 'fdohra@hotmail.com', 'murkertrer@gmail.com', 'clemeng@iteso.mx', 'marianotorresv@hotmail.com', 'alfonsonsimon@gmail.com', 'o@federico-carrasco.com']",[],Graypes GmbH
+30623,Reilly Brennan,"['james.sweet88@googlemail.com', 'bobhill5063@gmail.com', 'boreilly@njfmba.org', 'brennanwenck@gmail.com', 'n@gmail.com', 'cpeifer@westutx.gov']",['4085959833'],Trucks Venture Capital
+3021,Sergey Gribov,"['y@sergey.com', 'amodra@gmail.com', 'indu.bhagat@oracle.com', 'ryazanov.s.a@gmail.com', 'tetra2005@gmail.com', 'y@sergey.com', 'Farajiatefeh@yahoo.com']",[],Flint Capital
+61026,Michael Lavin,"['newsletter@followthemedia.com', 'l@lavinconsulting.com']",[],Germin8 Ventures
+21991,Yair Vardi,"['salem2910@gmail.com', 'Omrilevian@gmail.com']",[],Fusion VC
+33314,Igor Magazinik,[],[],PentaLab
+67872,Toot Shani,"['i@gmail.com', 'yoyolabs@hotmail.com', 'sondheim@panix.com', 'i@gmail.com']",[],Sarona Ventures
+70993,Moshe Bellows,[],[],Maccabee Ventures
+41310,Avi Rosenbaum,"['ymjournal2014@gmail.com', 'mostafaheete@gmail.com']",[],Tectonic Capital
+17742,Eyal Miller,"['posener@gmail.com', 'hansy@nvidia.com', 'eyal.itshayek@gmail.com', 'last@samsungnext.com', 'x3ejane@samsungnext.com', 'x3ejdoe@samsungnext.com']",[],Samsung NEXT Ventures
+17883,Justin Gage,"['gagegfx@gmail.com', 's@gmail.com', 'gagejustins@gmail.com']",[],Cornerstone Venture Partners
+6384,Amit Shafrir,"['r@gmail.com', 'yaron.ovad@gmail.com', 'hagberg@lanl.gov', 'rajusingrathod@gmail.com', 'pramoddastoorkar@yahoo.com', 'Natans390@gmail.com', 'amit.omer1@mail.huji.ac.il', 'kai_sela@yahoo.com', 'giladma@gmail.com', 'amit.omer1@mail.huji.ac.il', 'kai_sela@yahoo.com', 'amit.ganor@gmail.com', 'shafrir@sheba.health.gov.il', 'Hagit_doeni@walla.co.il']",[],Pnina International
+169896,Pablos Holman,"['op@gmail.com', 'brittanyadaire@gmail.com']","['2064123806', '2062011804']",Deep Future
+174320,Sharon Shacham,"['cnbradhsaw@gmail.com', 'kathy_waddell@yahoo.com', 'jpcassidy@hotmail.com', 'jpcassidy@hotmail.com']",[],E44 Ventures
+150964,Gil Ben-Artzy,"['gilbenartzy@yahoo.com', 'NARUPOOM191@GMAIL.COM', 'gilbenartzy@yahoo.com', 'galpeled2@gmail.com']","['5701491698', '0509801783']",UpWest
+147072,Noemie Alliel,[],[],Starburst Israel Ventures
+3568,Dov Moran,['hook@gmail.com'],[],Grove Ventures
+116066,Liran Grinberg,"['g@gmail.com', 'zed.hossain06@gmail.com', 'razib-121@yahoo.com', 'liran.alon@oracle.com', 'tomm@manpower.co.il', 'g@gmail.com']",[],Team8
+3605,Itzik Frid,"['len_helen@hotmail.com', 'itzik.karacik@gmail.com', 'Kedem.ltd@gmail.com']",[],Takwin Ventures
+80674,Jesse Robbins,"['really67omg@gmail.com', 'jesselancerobbins@gmail.com', 'jesse@parkway.vc', 'blake@ludlowventures.com']",[],Heavybit
+23874,Leila Rastegar Zegna,['rokhsarerajati@yahoo.com'],[],Kindred Capital
+44292,Fan Wen,"['azizullah.omar@gmail.com', 'secretariado.codexangola@hotmail.com', 'fanzhe1982@hotmail.com', 'eguchi@hep-th.phys.s.u-tokyo.ac.jp', '49@yahoo.com', 'MWPAssoriates@msn.com', 'timmoore@microsoft.com', 'sshaffer@akamai.com']",[],Plug & Play Ventures
+19932,Royi Benyossef,"['x3ejane@samsungnext.com', 'x3ejdoe@samsungnext.com']",[],Samsung NEXT Ventures
+19950,Ayelet Ben Arav,"['v@gmail.com', 'ayelet.even-ezra@mail.huji.ac.il', 'ayelet.sasson@gmail.com', 'v@gmail.com']",[],Incubit Technology Ventures
+45336,Lia Cromwell,"['l@gmail.com', 'bhanyc@gmail.com', 'shane.ahyong@austmus.gov.au', 'l@gmail.com', 'frederik.hermann@gmail.com', 'lia.cromwell@duke.edu', 'deanrubin@gmail.com']",[],UpWest
+44548,shlomi podgaetz,[],[],Danimazal LLC
+115074,Maya Pizov,"['v@gmail.com', 'eka7i@yahoo.com', 'pingvin2800@gmail.com', 'eka7i@yahoo.com', 'v@gmail.com', 'mpizov@gmail.com', 'vered@gizavc.com']",[],Amiti Ventures
+78555,Artem Bezrukov,"['dbezrukov@marvell.com', 'khovha@hotmail.com', 'timy27@yandex.ru|']",[],
+67397,Ofir Azury,[],[],Gandyr Investments
+16367,Henry Chen Weinstein,"['chen2nd@gmail.com', 'barbaraweinstein2@gmail.com']",[],
+3626,Nimrod Cohen,"['hananaliadv@gmail.com', 'ilanit@neho.org.il', 'inbar-i@nzc.org.il', 'joeuziel@gmail.com', 'dtariel@gmail.com']",[],TAU Ventures
+19959,Gad Hayisraeli,['gadhwork@gmail.com'],['1550224304'],River Enterprise
+19040,Josef Feldman,[],[],Tectonic Capital
+76762,Israel Ganot,"['t@gmail.com', 'oscarvdvelde@yahoo.com', 'sous@aero.obs-mip.fr', 'Shirlymi32@gmail.com', 't@gmail.com', 'iganot@masschallenge.org']",[],Aviv Growth Partners
+94977,Aniq Kassam,['m@gmail.com'],['1707314072'],FAST — by GETTYLAB
+115067,Ben Rabinowitz,"['dancaps@gmail.com', 'ldamast@gmail.com', 'bn@cs.stanford.edu', 'joysella@yahoo.com', 'ben@amitiventures.com', 'sgirsky@gmail.com']",[],Amiti Ventures
+117044,Kfir Kachlon,"['kfirsg@yahoo.com', 'kfir.kachlon@gmail.com']",[],91 Ventures
+134251,Fang Soong Chou,"['u@gmail.com', 'aparna_9620@yahoo.co.in']",['1516081669'],040 Capital
+88103,Aldi Agaj,"['aldi.agaj@gmail.com', 'redaksia@gazetashqiptare.com', 'enuar.merko@gmail.com', 'redaksia@gazetashqiptare.com']",[],"AAK TELE-SCIENCE, INC."
+136938,Yorai Fainmesser,[],[],Disruptive AI
+12359,Jonathan Pacifici,"['rgcohen@aol.com', 'johnpadden@kw.com', 'jlspak@yahoo.com', 'ppfriends3@hotmail.com', 'jhays@jtan.com', 'kpacifici@yahoo.com', 'faeriemaiden@hotmail.com']",[],Sixth Millennium Venture Partners
+155040,Chris Smith,"['yvonneg@bellsouth.net', 'teachrsa@bellsouth.net', 'pplauche@aol.com', 'nlowentritt@hotmail.com', 'kwalmd@bellsouth.net', 'kygallaw@yahoo.com', 'steenie568@yahoo.com', 'w.smith.chris@gmail.com']",[],Playfair Capital
+168873,Gadi Porat,"['clickmy1@gmail.com', 'bas4home@yahoo.com', 'hananaliadv@gmail.com']",[],Jerusalem Venture Partners (JVP)
+169043,David Debash,"['davidbchirot@HOTMAIL.COM', 'david.lloyd@jboss.com']",[],Sarona Ventures
+100041,Assaf Wahrhaft,"['ferkinghof@hotmail.com', 't@gmail.com']",[],UpWest
+169281,Ofer Shoshan,"['chenminyx@gmail.com', 'ofer@shoshan.org']",[],OurCrowd
+140627,Aaron Israel,"['aaron.i.levin@gmail.com', 'baca200799@gmail.com', 'bonniejones@gmail.com', 'josephpmfoster@gmail.com']",['5472619939'],Secret Chord Ventures
+72453,Liron Gal,"['liron.body.art@gmail.com', 'hananaliadv@gmail.com', 'hananaliadv@gmail.com', 'ilanit@neho.org.il']",[],TLVSeed
+3613,Levy Raiz,"['dr_pirzada@yahoo.com', 'msmmanto@usp.br']",[],Digital Horizon VC
+67261,David Sokolic,"['dsokolic@msn.com', 'dsokolic@gmail.com']",[],Toyota Ventures
+98508,Uria Lin,['oooperlaw3234@gmail.com'],[],Elron Ventures
+29022,Irit Hillel,"['irithillel77@gmail.com', 'bernadette.kamleitner@gmail.com', '4@hotmail.com']",[],HP Tech Ventures
+76796,Asher Abraham,"['asher@hadarcapital.com', 'amplatt@gmail.com', 'edauber@gmail.com']",[],NextGen Venture Partners
+72799,Natalia Kolupaeva,[],[],VNTR Capital
+77167,Ariel Maislos,"['alfeinberg@gmail.com', 'kamon75@yahoo.com', 'ariel@cpe-70-112-86-244.austin']",[],
+3826,Moshe Zilberstein,"['n@gmail.com', 'reutlinger@gmail.com', 'n@gmail.com']",[],Next47
+78940,Eli Nir,['eliraulwedd@gmail.com'],[],OurCrowd
+146843,Amit Goldenberg,[],[],Entrée Capital Ventures
+84404,Avi Bharadwaj,"['xxxxxxx@gmail.com', 'xxxxxxx@gmail.com', 'guihuaruan@hotmail.com']",['9079627642'],Innovation Endeavors
+144971,Tyler Crown,"['Ac39@uwrt.edu', 'miked21602@aol.com', 'wupx@nmu.edu', 'Adonaiconstructions@yahoo.com', 'cityconstructionoffice@gmail.com', 'egillespie@qga.com', 'ed@quinngillespie.com']",['1710444184'],Unusual Ventures
+31105,Eyal Inbal,"['shake.job@gmail.com', 'hananaliadv@gmail.com', 'ilanit@neho.org.il', 'liya_vil@yahoo.com', 'socwelf@gmail.com']",[],040 Capital
+144768,Akbar Dawood,"['humura2020@gmail.com', 'promotionlsection@gmail.com', 'humura2020@gmail.com']",[],Arc Ventures
+169028,Asaf Joffe,['bionetgen.help@gmail.com'],[],Vertex Ventures Israel
+104008,Jeremy Ron Teboul,[],[],Promus Ventures
+185023,Caleb Rockstone,"['srishalini10@gmail.com', 'JCEwing63@yahoo.com']",[],
+130960,Sean Sukonniks,[],[],Lunar Ventures
+99544,David Murray,"['DavidJMurray6@outlook.com', 'davidmurrayweddings@gmail.com', 'john.david.murray@gmail.com', 'john.david.murray@gmail.com', 'Davidlmurrayjr@gmail.com']",[],
+89206,Ben Broad,"['bennbutts@gmail.com', 'example@iCloud.com', 'ben.wildavsky@gmail.com']",[],
+3537,Asher Perez,"['asherp100@gmail.com', 'marthapotvin@gmail.com', 'jccphd@yahoo.com', 'marthapotvin@gmail.com', 'jccphd@yahoo.com', 'ajlichtig@gmail.com', 'cfrcfm@post.queensu.ca']",[],Sueños Ventures
+3564,David Levy,"['dlevy@levysclothes.com', 'customerservice@levysclothes.com', 'rrose@levysclothes.com', 'davidlevychx@gmail.com', 'Dr.DavidILevy@yahoo.com']",['1656629036'],
+3629,Nimrod May,"['deejaynimrod@gmail.com', 'CatholicStuffPodcast@gmail.com']","['0776112121', '0754112222']",
+171097,Zemer Shwartz,"['psukarno@gmail.com', 'aharondick88@gmail.com', 'hananaliadv@gmail.com', 'ilanit@neho.org.il']",[],
+16733,Ronen Tanne,[],[],
+189931,FREDERIC LEIGH,"['frederic.guillot@gmail.com', 'fbishop@wtsarch.com']",['1694471241'],
+72506,David Sherez,"['david.jeremy6@gmail.com', 'vidyutarunachal@gmail.com', 'tktara@hotmail.com']",[],
+72327,Nimrod Priell,[],[],
+110932,Ron Gross,"['pollardck1@juno.com', 'townofbj@hotmail.com']",[],
+127344,Meir (Iri) Zohar,['stephaniab@gmail.com'],[],
+129075,Doron Alter,"['doronalter@gmail.com', 'inbardavidcast@gmail.com']",[],
+102531,Elad Schulman,[],[],
+110833,Gil Agmon,[],[],
+110971,Zohar Zisapel,[],[],
+16994,RONEN TANNE,[],[],
+5381,Doron Segal,[],[],
+3575,Eran Shir,"['eran@getnexar.com', 'r@gmail.com', 'shir.etgar@gmail.com']",[],
+3573,Eitan Singer,"['eitan.kantor@gmail.com', 'aftabenkin@hotmail.com']",[],
+3534,Ariel Eisenberg,[],[],
+67445,Colin George,['husseinattiya@hotmail.com'],[],
+3621,Moshe Lichtman,['n@gmail.com'],[],
+70282,Eyal Amir,"['aiincube@gmail.com', 'eyalenator@gmail.com', 'eyal@faspark.com', 'eyalamirmusic@gmail.com', 'eyalamir@gmail.com', 'eamir@netsuite.com']",[],
+145,Peter Thiel,[],[],Founders Fund
+2969,Pete Flint,"['flint.lech2@gmail.com', 'flintandpitch@gmail.com', 'pete@applesandsnakes.org', 'flintandpitch@gmail.com', 'pete@applesandsnakes.org', 'pete@seaeventures.com', 'mileshaladay@gmail.com']",[],NFX
+105141,Nat Friedman,"['booknataliefriedman@gmail.com', 'nat.isama77@gmail.com']",[],C2 Investment
+195,Jason Calacanis,"['s@gmail.com', 'jnmorris@baincapital.com', 'x3ejason@calacanis.com', 'jason@calacanis.com', 'x3ejason@calacanis.com', 'jason@calacanis.com']",['8536434310'],LAUNCH
+187,Ullas Naik,"['ullas@streamlinedventures.com', 'ullas@streamlined.vc', 'subha.erasama.1976@gmail.com', 'muhindrovet@yahoo.com', 'kunal.bksc@hotmail.com', 'ullas@streamlinedventures.com', 'ullas@streamlined.vc']",['1681719103'],Streamlined Ventures
+279,Scott Belsky,[],['1691086218'],
+109,Josh Kopelman,"['n@gmail.com', 'Interruptyourvacation@gmail.com', 'n@gmail.com']",[],First Round Capital
+396,Jon Callaghan,"['jon@trueventures.com', 'jon.borwein@gmail.com', 'jon.borwein@gmail.com', 'john@trueventures.com', 'jcallaghan@gmail.com', 'callaghan@gowlingwlg.com', 'x3ejane@trueventures.com', 'jdoe@trueventures.com', 'x3elegal@trueventures.com']",['4153076628'],True Ventures
+67985,Duncan Turner,"['r@moltonbrown.com', 'aissgusa@hotmail.com', 'abdou.sarr@shopify.com', 'Pre1@users.noreply.github.com', 'lowhli@hotmail.com']",[],SOSV
+1631,Niko Bonatsos,"['niko@generalcatalyst.com', 'bonatsos@gmail.com', 'niko@generalcatalyst.com', 'bonatsos@gmail.com']","['2257670308', '2257670308']",General Catalyst
+188,Garry Tan,"['garrytan@gmail.com', 'garry@ycombinator.com', 'garrytan@gmail.com', 'garrytan@gmail.com', 'garry@initialized.com', 'garrytan@gmail.com', 'x3egarrytan@gmail.com', 'garry@ycombinator.com', 'garrytan@gmail.com', 'garry@ycombinator.com']","['6507969501', '4154938264', '6507969501', '4154938264', '6507969501', '4154938264']",Y Combinator
+4856,Charlie Songhurst,"['jesni_shamsul@yahoo.com', 'brunosgib@gmail.com']","['2069792778', '2069792777', '1800018848']",
+1381,Leo Polovets,"['s@gmail.com', 'discipulusventures@gmail.com', 'marius.butuc@gmail.com', 's@gmail.com', 'kenny.joo@gmail.com', 'leo@factual.com', 'x3ejane@susaventures.com']",[],Susa Ventures
+184,Alexis Ohanian,[],[],Seven Seven Six
+327,Tim Young,"['citywidewoodfloors@gmail.com', 'Mvnbonz@yahoo.com', 'timyoungbackhealth@gmail.com', 'tim@eniac.vc', 'tim@eniac.vc']",[],ENIAC Ventures
+874,Nabeel Hyatt,"['nabeelo@gmail.com', 'nabeel@sparkcapital.in', 'nabeelo@gmail.com', 'nabeel@sparkcapital.in', 'mocito59@yahoo.com']",['9971636369'],Spark Capital
+1228,Jeff Richards,"['jrich5602122@yahoo.com', 'bpederse@gmail.com', 'aaronquinlan@gmail.com']",[],GGV Capital
+5652,Michael Gilroy,"['Mikeegilroy@gmail.com', 'Cviverette@aol.com', 'maryryan10@gmail.com', 'michaelbriangilroy@gmail.com', 'mgilroy@stepinspire.org', 'michaelbriangilroy@gmail.com', 'mgilroy@stepinspire.org']",[],Coatue
+20218,Edward Lando,"['juliefjoyce@gmail.com', 'giorgiopado@gmail.com', 'mileshaladay@gmail.com']",[],Pareto Holdings
+111,Howard Morgan,"['esqllm@yahoo.com', 'livi-gem@gmail.com', 'livi-gem@gmail.com', 'livi-gem@gmail.com']",[],B Capital Group
+4293,Shruti Gandhi,"['moef.ddn@gmail.com', '0mukh@gmail.com', 'i@gmail.com', 'shruti@array.vc']",['9810152454'],Array Ventures
+13117,Jacob Mullins,['am50homan@yahoo.com'],"['3216521416', '9718086299']",Shasta Ventures
+4999,Darian Shirazi,"['darian314@gmail.com', 'darian@gradient.com', 'darian314@gmail.com', 'darian@gradient.com']",[],Gradient Ventures
+2209,Daniel Curran,"['danielcurranart@gmail.com', 'dcurran@harmoncurran.com', 'steve.frishman@gmail.com', 'Daniel.Lenehan@nrc.gov', 'dcurran@harmoncurran.com', 'steve.frishman@gmail.com', 'Daniel.Lenehan@nrc.gov', 'email-currandaniel899@gmail.com', 'dancurrandesign@gmail.com', 'chickenmandan@gmail.com']",[],Curran Rosschou Venture Capital
+2218,Gaurav Garg,"['a.gaurav.garg@gmail.com', 'kuk.gaurav.garg@gmail.com', 'decentmakeover13@gmail.com']",[],Wing Venture Capital
+185,Paul Buchheit,[],['1430210788'],Y Combinator
+2214,Chris Farmer,"['chrissoulespr@gmail.com', 'chris@farmerassociates.com', 'Bh2investigate@hotmail.com', 'thardyb@aol.com', 'tinvestigationsaz@gmail.com', 'chris.joseph@eeas.europa.eu']",[],SignalFire
+1201,Manu Kumar,"['mannukumar54769@gmail.com', 'monukumar748285@gmail.com', 'yoon.julie@yahoo.com', 'hana.k.kumar@gmail.com', 'manukumar39031@gmail.com', 'Mk1980591.@gmail.com', 'Mk1980591.@gmail.com']",[],K9 Ventures
+786,Igor Ryabenkiy,['igor@altair.vc'],[],Altair Capital Management
+649,Matt Ocko,"['asbertrand3@hotmail.com', 'matt@dcvc.com', 'matt.rebholz@hotmail.com', 'matt.ocko@archcap.com', 'matt@archcap.com', 'matt@dcvc.com', 'moconnell@mocpartners.com', 'matt.ocko@archcap.com']",['8882899893'],DCVC (Data Collective)
+84563,Jackson Moses,"['amflateau@gmail.com', 'casannahmoses@tpsd.org', 'garnetandpearls@yahoo.com', 'nikoleejackson94@gmail.com', 'marcabruno@yahoo.com', 'foeleigh@yahoo.com']",[],Afore Capital
+4893,Marc Benioff,"['ceomarcbenioff@gmail.com', 'x3eceo@salesforce.com', 'benioff@aol.com', 'mbenioff@aol.com']",['7983879016'],
+179,Tim Draper,"['r@gmail.com', 'r@gmail.com']",[],Draper Associates
+108662,Greg Brockman,"['gdb@gregbrockman.com', 'gdb@mit.edu', 'greg.brockman@openai.com', 'jackldrake@gmail.com']",[],
+602,Kevin Mahaffey,"['Mahaffey@liverpool.ac.uk', 'mostafaheete@gmail.com', 'sabour2000@hotmail.com', 'mrezk9@yahoo.com']",['3233935160'],SNR
+654,Esther Dyson,"['edyson@wellville.net', 'smcquade@hotmail.com', 'x3eedyson@wellville.net']","['9174432788', '5711868681', '5711833799', '6332468293', '5711421181', '5711423939', '5709006881', '5711868681', '5712011648', '5712034289', '5711942714', '6260964975', '9174432788']",
+80550,Ali Partovi,"['ali@partovi.org', 'ali@neo.com', 'ali@partovi.org', 'ali@neo.com']","['4157761216', '4157761216']",Neo
+324,Andy McLoughlin,"['andy@luto.us', 'esko.luontola@gmail.com', 'BADBOY43@GMAIL.COM', '12@hotmail.com']",[],Uncork Capital
+115655,Arash Ferdowsi,"['arash@triptopersia.com', 'daneshvar@um.ac.ir', 'hd@um.ac', 'tadayon@mshdiau.ac']",[],
+1806,Balaji Srinivasan,['parasharnishant9@gmail.com'],[],
+11345,Anand Chandrasekaran,['d@gmail.com'],[],General Catalyst
+5025,Nitesh Banta,"['nbanta@gmail.com', 'nbanta@summerworkation.org', 'airhead131@gmail.com', 'ranjeetranjaniari@gmail.com', 'shellypraveen@hotmail.com', 'nbanta@gmail.com', 'nbanta@summerworkation.org']",[],Stellar Capital
+80468,Justin Mateen,"['thetypicalbroad@gmail.com', 'Pedro@editorialuniverso.com']",[],
+149843,Wayne Chang,"['waynecmail@gmail.com', 'wayne@waynechang.com', 'wayne@patented.ai', 'munchinmash@gmail.com', 'waynechang762@gmail.com']",[],
+3414,Paul Bricault,"['janetlent@gmail.com', 'dbrianphelps@yahoo.com']","['1662588199', '1710471471', '1710575859']",Amplify.LA
+975,Cindy Padnos,"['sergey.burnos@gmail.com', 'abergamin89@gmail.com', 'cpadnos@illuminate.com', 'cindy@illuminate.com']",[],Illuminate Ventures
+6392,Pocket Sun,"['CheriBayers4U@hotmail.com', 'citywidewoodfloors@gmail.com', '49@yahoo.com', 'n@gmail.com']",[],SoGal Ventures
+19519,Drew Volpe,"['eric.steven.becker@gmail.com', 'rui.coelho@yahoo.com', 'verity.s@icloud.com']",['2520050814'],First Star Ventures
+57497,Aly Madhavji,"['noida-laboratory@gmail.com', 'info@naidalabs.com']",[],Blockchain Founders Fund
+25648,Clinton Foy,[],['1513268243'],Crosscut Ventures
+1209,Jeff Huber,"['jhuber@gmail.com', 'jeff@ehuber.org', 'jhuber@google.com', 'jeffreyclarkhuber@gmail.com', 'Mhuber@mhuberarchitects.com', 'amodra@gmail.com', 'indu.bhagat@oracle.com', 'jhuber@gmail.com', 'r@gmail.com', 'jhuber@gmail.com', 'skumarusnld@gmail.com']",['5083611866'],Triatomic Capital
+78843,Roy Djunaidi,[],[],Plug & Play Ventures
+14015,Riley Rodgers,"['beazzly22@yahoo.com', 'Iasst121@pitt.edu', 'peter.baker@maine.edu', 'brian@wfmu.org', 'gcoleary@mtholyoke.edu', 'Emmasheavenlypearls@gmail.com', 'kensolt@gmail.com']",[],Valia Ventures
+123273,Davis Auksmuksts,[],[],Plug & Play Ventures
+88529,Jonathan Howard,"['jonathan.howard@iala.com', 'coachmcintosh7@gmail.com', 'JonathanHoward17@icloud.com', 'groupheather@agworksh2.com']",[],BEE Partners
+19306,Michael Cardamone,"['lynntrpta@yahoo.com', 'paola.cardamone@gmail.com', 'mgcardamone@gmail.com', 'michael@upventures.com', 'ra-recoverycentral@state.pa.us']",[],Forum Ventures
+36472,Didi Setiahadi,[],"['1653442021', '1630725162', '1646448051', '1472025568', '1653442049']",KolegaIndo
+19346,Nik Shah,"['h@us.pwc.com', 'sunhajiabas@yahoo.com', 'hussain305@salam.uitm.edu.my']",[],NPS Capital
+3976,Josh Manchester,"['joshrusselltattoo@hotmail.com', 'thelucky15s@gmail.com', 'wmuh@muhlenberg.edu', 'meffle@hotmail.com', 'r@yahoo.com', 'jadams@heathwood.org', 'jalbins@heathwood.org']",[],Champion Hill Labs
+24511,Eduardo Ronzano,"['adrielilaviola@gmail.com', 'caldenia@gmail.com', 'zunifurlan@hotmail.com', 'peverdes@yahoo.com.ar', 'caldenia@gmail.com', 'zunifurlan@hotmail.com', 'peverdes@yahoo.com.ar', 'adrielilaviola@gmail.com']",[],#SecretFund
+65921,Pascal Unger,"['r@student.unisg.ch', 'l@darlingventures.com', 'l@darlingventures.com', 'albert.davydov@nist.gov']",[],Darling Ventures
+33291,Celestine (Johnson) Schnugg,[],[],Boom Capital
+4217,Helen Zelman Boniske,[],[],Lemnos Labs
+27789,Peter Marculans,[],['1460850840'],Overkill Ventures
+4900,JJ Kasper,"['jj.kasper@gmail.com', 'jjkasper@bluecollective.com', 'jhw8799@yahoo.com', 'wnaz@naz.edu', 'bunk@stusta.de']","['9176561118', '9176561118']",Blue Collective
+22518,Andris K. Berzins,"['tatwood@ece.unm.edu', 'andris.beerzinsh@gmail.com', 'andris.antons@gmail.com', 'andris@changeventures.com', 'zach@coelius.vc', 'zach@coelius.vc', 'david.thomas.iles@gmail.com']",[],Change Ventures
+24596,Patricia Wexler,"['wexler.patricia@verizon.net', 'toni.nails@gmail.com', 'patriciahwexler@gmail.com', 'amy.l.levine3@gmail.com', 'HCKeller@aol.com', 'sdsc@cdtn.br']",[],Avila VC
+29531,Ryan Kuder,"['ryan@ryankuder.com', 'ryan.kuder@techstars.com', 'ryan@ryankuder.com', 'ryan.kuder@techstars.com']","['4082423588', '4082423588']",Techstars
+50031,Chad Anderson,"['chadandersonphotography@gmail.com', 'chadandersonre@gmail.com']",[],Space Capital
+71532,Sigalit Perelson,[],[],Sequoia Capital
+78431,Charles Yu,[],[],Bling Capital
+1858,Sarah Smith,"['Sarah.Smith@gmail.com', 'Sarah.smith7@gmail.com', 'SarahSmithTours@gmail.com', 'ssmith@yahoo.com']",['4082345678'],Sarah Smith Fund
+764,Peter Liu,"['n@yahoo.com', 'petereliu@gmail.com', 'petereliu@gmail.com']",[],Revelry Venture Partners
+35526,Ben Hassler,"['tinahassler@gmail.com', 'mcmoser@earthlink.net', 'charles@linux.net', 'benami@il.ibm.com']",[],Polymath Capital Partners
+19339,Blake Patton,"['blakecpatton@gmail.com', 'blake.patton@gmail.com', 'blake@techsquareventures.com', 'farmboynoah@yahoo.com', 'blake.patton@gmail.com', 'blake@techsquareventures.com', 'roeilevi9@gmail.com']","['4049391380', '4049391380']",Tech Square Ventures
+71811,Drew Austin,"['Boldwillhold@hotmail.com', 'austindrew@gmail.com', 'drewaustin111@gmail.com', 'drewgreenfeld@gmail.com', 'vida.asiegbu@gmail.com', 'AskTxDOT@txdot.gov']",[],Red Beard Ventures
+24404,Riley Florsheim,"['mannypires@gmail.com', 'gunnells@gmail.com', 'plymouth.rest@yahoo.com']",[],Upheaval
+1281,Alex Kahn,"['alex.c.kahn@gmail.com', 'alexk@google.com', 'alexkhan@prohealthcare.us', 'atevents@gmail.com']",[],Generation Ventures
+27562,Tenzor Capital,"['milan.banic@outlook.com', 'milan.banic@outlook.com']",[],Tenzor Capital LLC
+2328,David Hirsch,"['dhdhirsch@gmail.com', 'PastorDaveDirect@gmail.com', 'ehirschlaw@gmail.com', 'h@gmail.com', 'stellamiranda1961@gmail.com', 'iamsuperdave8@gmail.com', 'david.o.keller@gmail.com']",[],Compound
+33313,Sunny Marueli,"['xxxx@gmail.com', 'xxxx@gmail.com']",[],PentaLab
+21209,Chris Graham,"['ChrisGraham1743@gmail.com', 'ChrisGraham1743@gmail.com', 'Cgrahampercussion@gmail.com', 'cgrahampercussion@gmail.com', 'chris@unanimous.vc', 'chris@unanimous.vc', 'rogerwoods22@hotmail.com']",[],Noname Ventures
+4499,Gopi Rangan,"['n@gmail.com', 'palamalai@gmail.com', 'palamalai@gmail.com', 'palamalai@gmail.com', 'n@gmail.com']",[],Sure
+573,Mehdi Maghsoodnia,['mmaghsoodnia@gmail.com'],"['6503254083', '6502079189']",Combustion Ventures
+5000,Kirby Winfield,"['achbogga@gmail.com', 'debbie.eaton@frontier.com', 'andre@eecinc.com', 'empire.construction@empcon.com', 'osobamy@ece-ltd.com', 'falconuhp@yahoo.com']",[],Ascend Ventures
+16817,Deb Kemper,[],[],Golden Seeds
+22847,John Redgrave,"['newruralcem@yahoo.com', 'Lfranz@psy.otago.ac', 'hometowngarden@gmail.com']",[],Redgrave Capital
+88172,Derick En'Wezoh,"['denwezoh@stanford.edu', 'kenny.joo@gmail.com']",[],Susa Ventures
+172158,Monica Lim,"['monicacuriel.art@gmail.com', 'CharityAndersonLaw@gmail.com']",[],ENIAC Ventures
+25901,Somar Somasegar,[],[],Madrona Ventures
+113279,Yifan Yang,[],['1438113807'],Tiger Global Management
+26603,Yohei Nakajima,['me@yoheinakajima.com'],[],Untapped Capital
+28651,Ed Walters,"['ed.walters@gmail.com', 'nathanjp@state.gov']","['0380708701', '0380708701', '0380708701']",Tamarisc Ventures
+163036,Jaan Tallinn,['jaan.parn@gmail.com'],[],
+3450,Vijay B Reddy,"['snreddy@gmail.com', 'anilsak@hotmail.com', 'arunrayini36@gmail.com']","['9100066007', '9573617184']",Mayfield
+40406,Pat Matthews,"['toddpnash@gmail.com', 'pat.matthews@state.or.us', 'lazpacking@gmail.com', 'wmeb.feedback@umit.maine.edu', 'sybil@wort-fm.terracom.net', 'wxlv@hotmail.com', 'dmajewski@mishawaka.in.gov', 'jpm.fbb@gmail.com', 'pamatthe@gmail.com', 'pat@activecapital.com']",['7033383600'],Active Capital
+55139,Borys Musielak,['maarten.baes@ugent.be'],[],SMOK Ventures
+109047,Gil Zimmermann,"['coruus@gmail.com', 'esko.luontola@gmail.com', 'leandrogracia@chromium.org', 'ecojmg@hotmail.com']",['2525272048'],2048 Ventures
+114827,Mary Gao,"['gabriel.coscas@gmail.com', 'lcy056500@hotmail.com', 'Brownie.MarySF@gmail.com', 'mbholzer@gmail.com']",[],General Catalyst
+115526,Jennifer Kan,"['alice.kharon@yahoo.com', 'lucyjoanking@hotmail.com', 'GinaMosconeFamily@gmail.com']",[],Climate Capital
+44709,Ellen Ma,"['levitofias@gmail.com', 'e.r.eggerding.lpc@gmail.com', 'a@gmail.com']",[],UpHonest Capital
+132474,Reece Chowdhry,['rudi.fabian@gmail.com'],[],Concept Ventures
+690,Scott Kosch,"['khokhlov@lab126.com', 'CroydonHealth@hotmail.com']",[],Kosch Capital Management
+95163,Hermann Hauser,"['kambiz.sarahrudi@gmail.com', 'r@amadeuscapital.com', 'last@amadeuscapital.com']",[],Amadeus Capital Partners
+88119,Matias Barbero,['michelihorbach@yahoo.com.br'],[],FJ Labs
+55777,Sophie Lamparter,"['r@swissnexsanfrancisco.org', 'masakazukurita@gmail.com', 'mark@yahoo.com', 'timmoore@microsoft.com', 'sshaffer@akamai.com', 'r@swissnexsanfrancisco.org', 'timmoore@microsoft.com', 'sshaffer@akamai.com', 'timmoore@microsoft.com', 'sshaffer@akamai.com', 'bapd29572@gmail.com']","['2597587856', '1708121430']",DART Labs
+67844,Christopher Klaus,"['chris.klaus1@gmail.com', 'jasperprijs@icloud.com', 'chris.klaus1@gmail.com', 'ian.siegel@gmail.com']",[],Cyberlaunch
+17618,Yizhen Dong,"['g@globalfounders.vc', 'dvaid.b.wei@gmail.com', 'blr@hotmail.com', 'blr@hotmail.com', 'xyma1999@yahoo.com', 'xyma1999@yahoo.com', 'mision.guineaecuatorial_gva@yahoo.com', 'drcgeneva15@gmail.com', 'missionrdc@bluewin.ch', 'mission.rsm@hotmail.com']",[],Koch Disruptive Technologies
+71494,Maddie Hall,"['wvprepbball@gmail.com', 'themaddiedish@gmail.com', 'madelinehallsb13@gmail.com', 'xx@gmail.com', 'yogaforu2009@gmail.com', 'pc@pacificcitizen.org']",[],Sequoia Capital
+1517,Charles Naut,"['khsuplay@humboldt.edu', 'kpfa@pacifica.org', 'kslu@slu.edu', 'ktswmusic@hotmail.com', 'jcvacant@syr.edu', 'wfdu891fm@aol.com', 'unitedhyrock@hotmail.com', 'wgdrmusic@goddard.edu', 'wgmumuslc@hotmail.com']",[],Lightspeed Venture Partners
+8785,Marcus Erken,[],[],Sunfish Partners
+13324,Jean-Patrice Anciaux,['larbredediane@gmail.com'],[],F3A
+395,Mike Hirshland,"['mhirshland@resolute.vc', 'mike@trianglepeakpartners.com', 'mileshaladay@gmail.com', 'russomikea@hotmail.com']",[],Resolute Ventures
+41627,Aaron Michel,"['citywidewoodfloors@gmail.com', 'bluerockconstruction@yahoo.com', 'amike217@gmail.com', 'mangajes@gmail.com', '49@yahoo.com', 'Aaron6079@yahoo.com', 'Aaron+-+Aaron6079@yahoo.com', 'Aaron6079@yahoo.com']",['2525271984'],1984 Ventures
+17887,Harpaul Sambhi,[],[],
+72190,Alexander Norman,"['abdou.sarr@shopify.com', 'aprantl@apple.com', 'epsilon.gamma@gmail.com']",[],N49P Ventures
+11275,Rob Kniaz,"['rob@thirdpointventures.com', 'rob@thirdpointventures.com']",[],Hoxton Ventures
+92180,Steve Brownlie,"['stevenbrownlie123@hotmail.com', 'Coggins@gmail.com', 'alirosenthal@gmail.com']","['9781107047', '1107047358', '1013044581']",Leadout Capital
+89244,Carey Ransom,"['m@gmail.com', 'm@gmail.com']",[],Operate
+38255,Ken Horenstein,"['n@gmail.com', 'mus21stc@gmail.com', 'n@gmail.com']",[],Pack Ventures
+89636,Jason Syversen,[],[],10X Venture Partners
+139677,Eduardo Küpper,"['r@gmail.com', 'irene.barba.n@gmail.com', 'eugenio.delamora@yahoo.com']",[],Airborne Ventures
+75823,Angelo Del Priore,"['e@gmail.com', 'anselmo@yahoo.com', 'RDangelo5@schools.nyc.gov', 'igoryankovlev@hotmail.com', 'angelo_delpriore@yahoo.com', 'angelo@thought-action.com', 'angelomdelpriore@gmail.com']",['5102925903'],HP Tech Ventures
+91591,Gareth Jones,"['jonesgd68@yahoo.com', 'gareth.jones@ssgl.com']",[],FinTech Collective
+39353,Michael (ByungSun) Hwang,['jiyu0719@gmail.com'],[],AI Fund
+81735,Lily Lyman,"['n@gmail.com', 'n@gmail.com', 'amdemelo@hotmail.com', 'luannaribeiro_lua@hotmail.com']",[],Underscore VC
+24676,Eric Rosenblum,"['ericrosenblummft@gmail.com', 'EricRosenblum@hotmail.com', 'ericrosenblum@hotmail.com', 'eric@envirospectives.com', 'davesmithwater@gmail.com']",[],Foothill Ventures (formerly Tsingyuan Ventures)
+28842,Alan Jones,"['dod201usa@gmsil.com', 'americanmilitary404@Gmail.com', 'official.secretsystem@Gmail.com', 'info.alanjonesfunerals@gmail.com', 'dasachs@gmail.com', 'Alan@batkin.com', 'timanglade@gmail.com']","['0001104659', '0001104659']",M8 Ventures
+28067,James Wang,"['g@gmail.com', 'president.bpd@gmail.com', 'past.president.bpd@gmail.com', 'membership.bpd@gmail.com', 'jameswang030200@gmail.com', 'busandmotorcoachnews@gmail.com']",[],Creative Ventures
+64028,Lucy Guo,"['lucyguo7777@gmail.com', 'colectivoagrario@gmail.com', 'farhod.nozirov@gmail.com']",[],Backend Capital
+38167,Yoann Berno,"['n@gmail.com', 'candida@cnen.gov.br']",[],Climate Insiders
+51432,Dan Becker,"['sblunier52@gmail.com', 'jmllay@yahoo.com', 'stephens@hotmail.com', 'Tom.shelton.dpboa@gmail.com', 'dbecker88@gmail.com', 'shakthy_18@yahoo.com', 'jeyasakthy@um.edu.my', 'CRW150@yahoo.com', 'Dan.Urbano@tamgroup.com']",[],Ligature
+453,Eddy Lee,"['Heidi.Johnson-Anderson@hotmail.com', 'alexandra.myotte@gmail.com', 'lee@leeeddy.com', 'wfcs1077@yahoo.com', 'd@gmail.com', 'joseph.c.adkins@gmail.com', 'sukilee@yahoo.com']",['1641143991'],Coffee Ventures
+75021,Lake Dai,"['zuzka@dellarte.com', 'galaxyjames.hildebrandt@gmail.com']",[],Sancus Ventures
+38004,Court Westcott,"['westcottemma@hotmail.com', 'westcottemma@hotmail.com', 'evan.westcott@gmail.com', 'htmdesignbuild.llc@yahoo.com']",['1686254899'],Westcott LLC
+123096,Eric Theis,"['citywidewoodfloors@gmail.com', 'wrgpmusic@hotmail.com', 'wmul@marshall.edu', 'shiv@woxy.com', '909@hotmail.com', 'rock@yahoo.com', 'wrrg@hotmail.com', 'girlrocksboys@yahoo.com', 'eschuttheis@choate.edu', 'music@chuo.fm', 'wrrg@hotmail.com', 'sri@uwec.edu', 'ertheis@gmail.com', 'eric@blingcap.com', '49@yahoo.com', 'ertheis@gmail.com', 'eric@blingcap.com', 'svhotwire@gmail.com']",[],Bling Capital
+79444,Faraz Khan,"['khan@gmail.com', 'khan@gmail.com', 'farazi_khans@hotmail.com', 'mohsinrafiq.khan@gmail.com']",[],Giant Step Capital
+43254,Chris Furmanski,"['furmanski.civ@mail.mil', 'john.donohue@uscp.gov', 'furmanski@gmail.com', 'furmanski.civ@mail.mil']",['6507042894'],Pacific Health Ventures
+127511,Adam French,"['adamfrench4@gmail.com', 'adamfrenchmusic@gmail.com', 'adam@boost.vc', 'Colin_Short@outlook.com']",[],Houghton Street Ventures
+110559,Prattyush Shobhane,[],[],Thynk Ventures
+39243,J. Skyler Fernandes,"['jefflazcano@gmail.com', 'sfernandes@centricap.com', 's@gmail.com', 'vasan.b.arjun@gmail.com', 'nejoshi@gmail.com']",[],VU Venture Partners
+113242,Stephan Goupille,[],[],Data Tech Fund
+1892,David E. Weekly,"['daveweigel@gmail.com', 'moapapaiute@hotmail.com', 'david.cherry@mail.house.gov', 'steve.frishman@gmail.com', 'internetofshit@gmail.com']",[],Mexican.vc
+153282,Rafa de Haro,"['rafaeldeharo@gmail.com', 'rafa@cometa.vc', 'cristiest@hotmail.com', 'cialaperiferica@gmail.com', 'rafaeldeharo@gmail.com', 'rafa@cometa.vc']",[],Cometa
+72293,John O'Brien,"['johnteob@gmail.com', 't_cornehl@yahoo.com', 'doh.information@doh.wa.gov', 'rtbsb@yahoo.com']",['4257372000'],"Strange Brew Ventures, LLC"
+137983,Danil Kislinskiy,"['y@gmail.com', 'y@gmail.com']",[],Go Global World
+76627,Derek Distenfield,[],['8136034333'],FG Ventures
+88427,Mohammed Almeshekah,[],[],Outliers Capital
+49449,john choi,"['johnchoivo@gmail.com', 'johnchoicampaign@gmail.com', 'info@votejohnchoi.com', 'john.choi@co.ramsey.mn.us', 'sandboxrealty@gmail.com', 'i@gmail.com']","['2048183956', '2013053558']",WillowWorks
+35141,Miles Dotson,['DOTSONEXPRESS@GMAIL.COM'],[],Devland
+104388,Christophe Louvion,"['scrumdevelopment@yahoogroups.com', 'Courrielarmelle.apaec7@gmail.com', 'justine.gauthier1510@gmail.com']",[],Inovexus
+71726,chris pinel,"['l@gmail.com', 'manyhats2u@gmail.com', 'troup1998@gmail.com', 'knight_misc@me.com', 'George@apr.com']",[],Family Office
+76585,Jordan Wan,"['jordanlohagan@gmail.com', '49@yahoo.com', '91@gmail.com', 'n@gmail.com', 'wan.jordan@gmail.com', 'wan.jordan@gmail.com', 'jordan@accelfoods.com']",[],CoFound Partners
+45248,Courtney Cooper,"['up_in_smokes@hotmail.com', 'mbarrett1409@gmail.com', 'jonathan.cooper.2010@gmail.com']",[],Alate Partners
+47914,Antonio Osio,"['a.ballarindenti@dmf.unicatt.it', 'htyler@rlstevenson.org', 'kslu@slu.edu', 'md@kspc.org', 'fsjdj@uaf.edu', 'sksoh@momaf.go.kr', 'sksoh@hotmail.com']",[],Animo Ventures
+22476,Andrew J Scott,"['stlmo.realty@gmail.com', 'ANDREW.J.COE@GMAIL.COM', 'sandrew@bannockcounty.us', 'jimarchibald21@gmail.com', 'cecil.canady.sr@gmail.com', 'urbanhorizon@gmail.com', 'andrew@cornerventures.com']",['8456449294'],7percent Ventures
+27081,James Kim,"['JoonKimFitness@gmail.com', 'myoptoid@gmail.com', 'frink.chambers@yahoo.com', 'stevekiml026@gmail.com']",[],Reach Capital
+20796,Alex Purtell,"['dacalhoun104@yahoo.com', 'alex.cardella@mcac.maryland.gov']",[],Fintech71
+4261,Luigi Congedo,['prot.civile.geraci@gmail.com'],['1658756892'],BootstrapLabs
+69701,Wesley Barrow,"['wbarrow@gmail.com', 'y@getnomi.com', 'y@getnomi.com']",[],Correlation Ventures
+44479,Varsha Rao,"['Varsha.udr27@gmail.com', 'varsharao@gmail.com', 'varsha.rao@cloudkitchens.com', 'fw@strlen.de', 'varshar186@gmail.com']",[],
+417,Chris Howard,"['hidrivephoto@gmail.com', 'hidrivephoto@gmail.com', 'd@gmail.com']",[],Fuel Capital
+3607,Jeremy Yap,"['p@gmail.com', 'dcsyjlj@nus.edu.sg', 'sylvester@keil.or.at']",[],
+71007,Allison Barr Allen,"['allisonbarr10@gmail.com', 'allisonbarr10@gmail.com', 'armarczak@gmail.com', 'clearskynm@gmail.com', 'EFHirsch@gmail.com']",['1563412023'],
+30090,Alessio Fanelli,"['moraldi.alessio@gmail.com', 'alessiopeselli@hotmail.com', 'bini.anna@hotmail.com', 'moraldi.alessio@gmail.com', 'davide.tovani@icloud.com', 'fanelli@gmail.com', 'alessio.guarino@upf.pf']",[],Decibel Partners
+5252,Arek Wylegalski,[],[],Firstminute Capital
+41618,Thomas Petersen,"['atlancon@post.olivant.fo', 'thomas.e.hill@gmail.com', 'lydiacperry@hotmail.com', 'thos.m.petersen@gmail.com', '49@yahoo.com', 'n@gmail.com', 'mmouse1227@hotmail.com', 'genolaclerk@gmail.com']",[],First Principle
+32001,Samir Chaibi,[],[],Insignia Ventures Partners
+79496,Jason Pontin,"['jason.pontin@gmail.com', 'jason.pontin@dcvc.com', 'fanawati@marisco.net', 'loansbylisa@yahoo.com']",[],DCVC (Data Collective)
+8740,Jeremy Glassenberg,['ac98@cornell.edu'],[],
+138371,Mohamed Hamdy,[],[],Further Ventures
+155043,Mark Trevitt,"['t@gmail.com', 'garbe.josh@gmail.com', 'adamt@uow.edu.au']",[],Defined
+68484,Sia Houchangnia,"['a@gmail.com', 'a@gmail.com']",[],Seedcamp
+81669,Simeon Iheagwam,"['m@gmail.com', 'simeon@noemisventures.com', 'mileshaladay@gmail.com', 'm@gmail.com']",[],NOEMIS Ventures
+155325,Sasha Asheghi,[],[],Arcanum Ventures
+33752,Vikram Lakhwara,"['vik.lakhwara@gmail.com', 'vik@greencow.vc', 'vik@greencow.vc', 'vik@greencow.vc', 'mileshaladay@gmail.com', 'vik@greencow.vc', 'vik.lakhwara@gmail.com']","['1710322363', '1692560200', '1711333838', '1665051406']",GCVC (Green Cow Venture Capital)
+13556,Christopher J Rust,"['zeno2944@hotmail.com', 'aaron.joseph.west@gmail.com', 'Christopher.allwarden@eversource.com']",[],Clear Ventures
+138374,Faisal Al Hammadi,"['i@gmail.com', 'yunes@yemensoft.net', 'pakistancopy@gmail.com']",[],Further Ventures
+52889,Amanda Terry,"['Amanda.Terry.Hamm@gmail.com', 'makeupmandi86@gmail.com', '89bsd@89bsd.com', 'paularosaleskiteboarding@gmail.com']",[],ACTAI Ventures
+63952,Massimo Sgrelli,"['i@gmail.com', 'i@gmail.com', 'YCQcZNFUZksKljovUUY0Zw@2x.jpeg', 'IgST6KYPvhjL1OBHXsYeYA@2x.jpeg']",[],LombardStreet Ventures
+90116,Heather Redman,['n@gmail.com'],[],Flying Fish Partners
+56451,Sashi Reddi,"['i@applabs.com', 'i@applabs.com']",['8801802100'],SRI Capital
+89949,Jahed Momand,['jahed22shaikh@gmail.com'],[],Cerulean Ventures
+127956,Kevin Dunlap,"['Kevin.LaPittus@eusd.net', 'ptkevin05@gmail.com', 'Contact@PSC.STATE.FL.US']",[],Calibrate Ventures
+134894,Michael Benezra,['KourtneyNicoleWrites@gmail.com'],[],Erez Capital
+67758,Kris Kemeny,"['y@gmail.com', 'bxtrny@gmail.com', 'zulu_vet@hotmail.com', 'Rosalind.James@ars.usda.gov', 'fjamoussi@yahoo.com', 'erincorsair@yahoo.com', 'ajacopucci@hotmail.com', 'y@gmail.com']",[],Tekfen Ventures
+52865,James Murphy,"['jamesmurphybooking@gmail.com', 'khawk734@yahoo.com', 'ccm@clemson.edu', 'jamesbee3ja@sbcglobal.net', 'james@imperiallandscapingnc.com', 'cbd_ngo@yahoo.com']",[],Forum Ventures
+82363,Felix Kues,"['congresocusano@hotmail.com', 'josep.colomer@gmail.com']",[],Aurelia Ventures
+133771,Neal Bloom,"['ben@sonicbloom.org', 'neal.ferenc@gmail.com', 'rubydoula@gmail.com', 'CymserelyYours@yahoo.com', 'pencidesign@gmail.com', 'savvy.henderson@gmail.com', 'gwenrockwood5@gmail.com', 't_cornehl@yahoo.com', 'doh.information@doh.wa.gov']",['4257372000'],Interlock Capital
+141635,Wasim Malik,"['k@hotmail.com', 'wasimmalik2011@gmail.com', 'vvasimm@hotmail.com', 'k@hotmail.com']",['9622649624'],Iaso Ventures
+156642,Osayi Igharo,"['osayiigharo@gmail.com', 'osayi@ripple.vc', 'osayiigharo@gmail.com', 'osayi@ripple.vc', 'gxxxxxxxxxxxxxxn@gmail.com']",['1614342990'],Ripple VC
+20860,John Eubank IV,['tkimmel.mech701@gmail.com'],[],Bank Street Business Partners
+87187,Jason Mackey,"['threesonspsne@gmail.com', 'Mackey.brian@gmail.com', 'Mackey+-+Mackey.brian@gmail.com', 'Mackey.brian@gmail.com', 'editor@ijels.com', 'nligembe@yahoo.co.uk']",['1686311627'],Athenian VC
+17121,Dana Oshiro,['acrock777@yahoo.com'],[],Heavybit
+44565,Leandro Pisaroni,"['toudeshki@hotmail.com', 'antonioemilio_palacios@yahoo.com', 'marioburgoseneze@gmail.com']",[],Kalei Ventures
+139619,Trey Bowles,"['treybowles@gmail.com', 'oktoberfisch@hotmail.com', 'curtiscolgrove@yahoo.com', 'trey@dngconstruction.net']",[],Techstars Physical Health Fort Worth
+160781,Shashi Srikantan,"['3@gsb.columbia.edu', 'patrick.huber@tuhh.de', 'ravibmsce@yahoo.com', 'moodala@gmail.com', '3@gsb.columbia.edu']","['9448769345', '1190896090', '1190896090']",Level Up Ventures
+510,TK Kuegler,"['Jean@yahoo.com', 'johnnyfaerber@hotmail.com', 'r@gmail.com']",[],Wasabi Ventures
+39860,Tyler Norwood,"['Adonaiconstructions@yahoo.com', 'cityconstructionoffice@gmail.com', 'norwoodandres@gmail.com', 'hamby.roger1@yahoo.com']",[],Antler
+26268,Damon Cronkey,[],[],XSeed Capital
+26465,Roberto Magnifico,"['msr62555@gmail.com', 'roberto.magnifico@lventuregroup.com', 'giulio.fiamengo@3pitalia.it', 'giulio.fiamengo@3pitalia.it', 'roberto.caccia@gmail.com', 'athoscapriotti@gmail.com', 'athos.capriotti@pec.it', 'lbs.investorrelator@gmail.com']",[],LVenture Group
+160000,Paul Anthony Claxton,"['maartencoegnarts@gmail.com', 'Lifelinechristiancentermin@gmail.com', 'rakesh@sphpl.com']",['6838824280'],Q1 Velocity Venture Capital
+37781,Luis (Orr) Shemtov,['veredshemtov@gmail.com'],[],Lunar Ventures
+29342,Danielle Graham,"['hiraldo@arizona.edu', 'rootedblossoms@gmail.com']",['2165846218'],The Firehood
+119395,Chris Neumann,"['n@gmail.com', 'ckneumann@gmail.com', 'chris@frontiercollective.net', 'vivacityspirits@gmail.com', 'ckneumann@gmail.com', 'chris@frontiercollective.net']",[],Panache Ventures
+36137,Matt Devost,['matt.e.dyson@gmail.com'],[],OODA Ventures
+177249,JJ Richa,"['a@gmail.com', 'a@gmail.com']",[],Pismo Ventures
+30917,Don Douglas,[],[],Geekdom Fund
+35570,Bruno Faviero,['blake.rowe1323@gmail.com'],[],Alloy Fund
+78832,Marcelino Diaz,"['rentautosmvd@hotmail.com', 'lama_abuhassan@yahoo.com', 'aaron_x40@hotmail.com', 'borges.em@hotmail.com', 'ecorborges@hotmail.com', 'ivayolini@gmail.com', 'gaveira@yahoo.com.br', 'adammichael.daly@uva.es', 'omeza.diaz@gmail.com']",[],Plug & Play Ventures
+113566,Wa'il Ashshowwaf,['coolventurestudio@gmail.com'],[],Unstuck Labs
+7396,Francis Pollara,['thepollara@gmail.com'],[],Two° & Rising
+10989,Sharran Deora,"['sharran.deora@gmail.com', 'sharran@mighty.capital', 'akinikbooks@gmail.com', 'sharran.deora@gmail.com', 'sharran@mighty.capital']",[],Mighty Capital
+24892,Saira Gill,[],[],Antler
+24185,Jyoti Bansal,"['csjyotibansal@gmail.com', 'chris@unusual.vc', 'cs@k2infra.com']",[],Unusual Ventures
+83656,Christopher Gomez,"['chrisgomezart@gmail.com', 'aybaba@kastamonu.edu.tr', 'imontes@igp.gob.pe', 'ivonne.montes@gmail.com', 'ryk@sc.edu']",[],Leonie Hill Capital
+37040,Melissa Lester,"['hrfylpaa@gmail.com', 'mmlester@gmail.com', 'jsedres@gmail.com', 'jsedres@gmail.com', 'r@gmail.com', 'Denhoward@gmail.com', 'downfront@gmail.com', 'r@gmail.com']",[],Dig Ventures
+8745,Mike Chalfen,"['baseballpoetryfest@gmail.com', 'tsartain@sclas.org', 'glennkrollesq@yahoo.com']",['2520110317'],Chalfen Ventures
+35100,Minnie Ingersoll,"['l@gmail.com', 'spartaillinoislibrary@gmail.com', 'minnie.ingersoll@gmail.com', 'l@gmail.com']",[],TenOneTen Ventures
+13667,Adam D'Angelo,"['adam.dangelo@gmail.com', 'adcinbella@yahoo.com']",[],
+40003,Kamil Mieczakowski,"['kamilmieczakowski@gmail.com', 'x3ejdoe@notion.vc', 'jane@notion.vc']",[],Notion Capital
+25706,Lidiya Dervisheva,[],[],Next47
+114315,Hina Dixit,"['sciencebranch@gmail.com', 'sciencebranch@gmail.com', 'OFFICE@AMLAWCHAMBERS.COM', 'UOIDHC@GMAIL.COM', 'disha_purohit@yahoo.com', 'shivmurtis@gmail.com', 'jalsujal106@gmail.com', 'changetransformindia@gmail.com']",['9910558656'],M12
+127606,Anton Dziatkovskii,"['founder@platinum.fund', 'dudov.al16@gmail.com']","['1619394419', '1676215172']",Platinum Software Development Company
+80228,Jamie Goldstein,"['Jamiegoldstein123@gmail.com', 'james.sweet88@googlemail.com', 'thebrucebentley@gmail.com', 'jgoldstein@ci.capitola.ca.us']",[],Pillar VC
+75454,Shuly Galili,"['shuly@upwest.vc', 'shuly@upwest.vc', 'shuly@upwest.vc', 'shuly@upwest.vc', 'frederik.hermann@gmail.com', 'shuly@ca-israelchamber.org', 'alex@iosart.com']",[],UpWest
+44242,Alicia Lenis,[],[],Chrysalix Venture Capital
+28252,Dylan Reid,"['dp365@cornell.edu', 'dylan@zettavp.com', 'dp365@cornell.edu', 'dylan@zettavp.com', 'jocelyn.goldfein@gmail.com']",[],Zetta Venture Partners
+111883,Peter Mueller,['motherhen1984@gmail.com'],[],SeaChange Fund
+36494,Erik Bullen,"['ERIK.GRUNIGEN@gmail.com', 'timmoore@microsoft.com', 'sshaffer@akamai.com', 'timmoore@microsoft.com', 'sshaffer@akamai.com', 'Erik@mail.com']",[],Mendoza Ventures
+66421,Ozge Oz,"['ozgetatlioglu29@gmail.com', 'ozgetatlioglu29@gmail.com', 'nobody@gcc.gnu.org', 'z@gmail.com', 'moneybuilderjl@gmail.com']",[],QNBEYOND Ventures
+27153,Jonathan Wallace,"['athensforeveryone@gmail.com', 'e@gmail.com', 'jonathan@hedley.net']",[],Expert Dojo
+1646,Jon Nordmark,"['k@yahoo.com', 'jacielegteixeira@yahoo.com', 'g.johnsy@gmail.com', 'timmoore@microsoft.com']",[],Angel
+163409,Will Detwiler,['daydreamwithanna@gmail.com'],[],Insight Partners
+125610,Dani Tran,"['uxia15.draws@gmail.com', 'magstertran@gmail.com']",[],Konvoy Ventures
+91504,Jocelyne Cooke,"['lin.yg@nsrrc.org.tw', 'mays.easa@gmail.com', 'nanstarr44@hotmail.com']",[],BEE Partners
+169864,Dade Ogunmuyiwa,[],[],Insight Partners
+166797,Sabrina Wu,"['sabrinawuzy@gmail.com', 'sabrina119wu@gmail.com', 'sabrina.li@ouce.ox.ac.uk', 'chiehhsi.wu@gmail.com', 'chris.johnson@unbc.ca', 'sad31nanickam@yahoo.com']",[],Madrona Ventures
+84480,Nate Wang,"['ltnwgl@gmail.com', 'xucongfu@cs.zju.edu.cn', 'danhow2008@hotmail.com', 'edsonod@ioc.fiocruz.br']",[],Afore Capital
+105551,Bill McAleer,"['igmgranites@yahoo.com', 'ted.mcaleer@gmail.com', 'silvia.rizzo@unimib.it']",[],Voyager Capital
+2167,Mike Kreaden,[],[],FirstHand Alliance
+135876,Rodrigo Garza,"['Rodrigogarzaaa16@gmail.com', 'Rodrigogarzaaa16@gmail.com', 'rodrigogarzaaa16@gmail.com', 'rolistylee@hotmail.com', 'rolistylee@gmail.com', 'Rodrigogarzaaa16@gmail.com', 'rodrigo.garzarealtor@gmail.com', 'rodrigo.r.gomez.g@gmail.com']",[],Living on the edge (Aka: Lote Capital)
+65279,Tom Humphrey,"['x3ejdoe@blackbird.vc', 'x3ejane@blackbirdballard.com', 'janedoe@blackbirdballard.com']",[],Blackbird Ventures Australia
+135310,Lee Edwards,"['gcadmaster@gmail.com', 'edwardjle@gvltec.edu', 'leeredwards@gmail.com', 'lee@root.vc', 'waheed557@gmail.com', 'afrilogisticsllc@yahoo.com']","['7817386359', '5104729466', '1229936512']",Root Ventures
+568,Dave Crowder,"['jdvcrowder@yahoo.com', 'pwebley@gi.alaska.edu']",[],VSL Partners
+145000,David Hershey,"['richardelwoodmoore@gmail.com', 'richardelwoodmoore@gmail.com', 'dhershey@staridaho.org']","['3875217247', '1220068113']",Unusual Ventures
+90545,Finn Meeks,"['stephen.commorato@outlook.com', 'ads@sewaneemessenger.com']",[],South Park Commons
+63993,Tanya Bakalov	,"['bahadursingh24@gmail.com', 'bturkbey@yahoo.com', 'evrimkilicdr@gmail.com', 'gocakoglu@gmail.com', 'mustafakaraoglanoglu@hotmail.com']",[],VT Technology Venture Partners
+71813,bong koh,"['kohrongdreamcatch@gmail.com', 'haryeonlee@jbnu.ac.kr']",[],KohFounders
+78925,Elaine Russell,"['tfreret@gmail.com', 'kwegley@quadplusinc.com', 'toddmoseley@macallister.com', 'kwegley@quadplusinc.com', 'toddmoseley@macallister.com', 'kwegley@quadplusinc.com', 'toddmoseley@macallister.com', 'kwegley@quadplusinc.com', 'toddmoseley@macallister.com', 'elainehansford@gmail.com', 'russell@whitecapvp.com', 'russell@whitecapvp.com', 'mileshaladay@gmail.com']",['2149294898'],Greycroft
+77511,Ben Pouladian,['ben@getdeco.com'],[],AiSprouts VC
+138376,John Ounjian,[],[],Further Ventures
+81461,Santosh Sankar,"['saratchandrabhuyan15@gmail.com', 'r@gmail.com', 'vivek.sinha@imd.gov.in', 'sankar.nath@imd.gov.in', '0mukh@gmail.com', 'r@gmail.com', 'sunriseipr@gmail.com']","['9868501477', '9821832587', '9810152454', '9818383866']",Dynamo Ventures
+81409,Aaron Anderson,"['aaronanderson263@icloud.com', 'aaronanderson.realestate@gmail.com', 'negroleague@yahoo.com', 'james.sweet88@googlemail.com']",[],Impact VC
+155128,Carmelo Giuliano,"['terminillotreffen@gmail.com', 'eugenio.muccio@gmail.com', 'romano.fra5@gmail.com']",[],Arcanum Ventures
+163184,Kunal Shah,"['kunalmshahcasting@gmail.com', 'kshah13@gmail.com', 'kunalmshahcasting@gmail.com']",[],
+51107,Markus Bruderer,"['alex.konstantinov@ars.usda.gov', 'markus@expo21xx.com']",[],Antler
+20803,Ludovic Ulrich,"['c@ulrich.com', 'james.sweet88@googlemail.com', 'ludovic.rousseau@free.fr', 'ludovic.rousseau@free.fr', 'khokhlov@lab126.com', 'drepper@cygnus.com', 'ludovic.courtes@inria.fr']",[],FirstHand Alliance
+81196,Nicky Vu,"['philcbowler@hotmail.com', 'marknewara@hotmail.com', 'koconnor@bcc.ctc.edu', 'wvmwmusicdirector@hotmail.com', 'wxoumusic@yahoo.com', 'cfcr@quadrant.net']",[],SVG Ventures-THRIVE
+90161,Aaron Stachel,"['igkakande@gmail.com', 'tritos.ngampitipan@gmail.com', 'kateryna.poliakovska@gmail.com', 'aaron.applbaum@mizmaa.com', 'mileshaladay@gmail.com', 'sashaez.jacob@gmail.com', 'paisontheinternet@gmail.com', 'pressy_sp@yahoo.com', 'aaron.stachel@gmail.com']",[],FirstMile Ventures
+78616,Natalie Vais,"['natalie.vais@gmail.com', 'natalie@sparkcapital.com', 'vaishaali.n@gmail.com', '1a1@hotmail.com', 'michael@220-253-135-77.TAS.netspace.net.au', 'natalie.vais@gmail.com', 'natalie@sparkcapital.com']",[],Amplify Partners
+160671,Shawn Lim,"['limweimingshawn@gmail.com', 'shawn3219@gmail.com']",[],Artichoke Capital
+74437,Antoine Poirson,"['apoirson@gmail.com', 'antoine@antler.co', 'emma_302@hotmail.com']",[],Antler
+69158,Eric Migicovsky,['d@gmail.com'],"['1712811100', '1711962064', '1565098801']",Y Combinator
+69775,Davis Treybig,"['davis.treybig@gmail.com', 'tracietreybig@gmail.com', 'tracietreybig@gmail.com']",[],Innovation Endeavors
+106449,Harry Hurst,['hrhurst97@gmail.com'],[],
+83230,Ian Logan,"['ian.logan@blackfriars.oxford.ac.uk', 'long@fair1.fairfield.edu', 'acceloracewear@gmail.com', 'KINGSAVENC@GMAIL.COM', 'acceloracewear@gmail.com', 'sportsplex.ian@gmail.com']",['2958453698'],Maple VC
+27079,Terell Sterling,"['craig.deutsche@gmail.com', 'wjboyd25@gmail.com', 'wjboyd25@gmail.com']",[],Operator Collective
+82286,Paige Finn Doherty,"['paigefinndoherty@gmail.com', 'stellacday@gmail.com', 'fca@kua.fi']",[],Behind Genius Ventures
+77487,Peter Crane,"['peter46crane@gmail.com', 'peter46crane@gmail.com', 'peter46crane@gmail.com', 'kinderhook46@yahoo.com']",[],Lunar Ventures
+113077,Alexandre Nossovskoi,[],[],Esplanade HealthTech Ventures
+34541,Tina Zhao,"['tinazhao688@gmail.com', 'tinazhao688@gmail.com']",[],CE VENTURE CAPITAL
+71289,Amir Shevat,['t@gmail.com'],[],Innovation Endeavors
+133734,Christopher Haley,['christopher.h.mathis@gmail.com'],[],01 Ventures
+104964,Vishal Rao,['ngrba.cpcb@gmail.com'],[],
+18814,Ashot Arzumanyan,"['khovha@hotmail.com', 'hrant2@web.am|', 'belova.asya@gmail.com']",[],SmartGateVC
+4226,Immad Akhund,"['i.akhund@gmail.com', 'immada@hotmail.com', 'immad@mercury.com']",[],
+18820,Evon Onusic,[],[],HOF Capital
+101219,Kevin Kinsella,"['sri@uwec.edu', 'marknewara@tiotmail.com', 'clinton.kirby@usm.edu', 'music@wvfs.fsu.edu', 'music@wvum.org', 'xdu@hotmail.com', 'kkinsella@avalon-ventures.com', 'mamie@avalon-ventures.com', 'burchard.denise@gmail.com']","['1600905257', '1600905257']",Avalon Ventures
+147359,Aaron Sisto,['timmoore@microsoft.com'],[],First Spark Ventures
+605,Mike Bates,"['reefapparelfl@gmail.com', 'rjonwine@gmail.com', 'mbates@gmail.com', 'mike@deepbluemedical.com', 'bates_mike_e@yahoo.com', 'mike.bates@netapp.com', 'mike.bates@state.mn.us', 'timbercatforestry@gmail.com', 'kylee.berger@state.mn.us', 'twoxforestry@gmail.com', 'mbates@gmail.com', 'mike@deepbluemedical.com', 'timmoore@microsoft.com', 'sshaffer@akamai.com']",['3036483877'],Band of Angels
+100255,Aaron Yang,"['thelegendaryaaronyang@gmail.com', 'briands@who.int', 'Christine.McKenna@pfizer.com', 'ariane.x.mccabe@gsk.com', 'jane@av8.vc', 'paisontheinternet@gmail.com']",[],AV8 Ventures
+16571,Emad Hasan,"['qazi.emad@yahoo.com', 'pakistancopy@gmail.com', 'qazi.emad@yahoo.com', 'pakistancopy@gmail.com', 'pakistancopy@gmail.com', 'edw.amad1978gaese@uoanbar.edu.iq']","['2207520000', '2207520000']",Emad Hasan
+4334,Raanan Bar-Cohen,"['n@bar-cohen.com', 'n@bar-cohen.com']",[],Resolute Ventures
+28117,Michael Panesis,['rlisker@yahoo.com'],[],Tech Coast Angels
+134416,Thomas Witt,"['madeline.ilise@gmail.com', 'avocethome@gmail.com', 'tomwittsr@gmail.com', 'thomas@eku.edu', 'linda.witt@eku.edu', 'brendap@svec-coop.com']",[],Expedite Ventures
+84225,Martin Tobias,['sargassojournal@gmail.com'],[],Incisive Ventures
+40323,Jilliene Helman,[],[],XFactor Ventures
+109954,Andy White,"['andy.white.zpm@gmail.com', 'andywhiterealty@gmail.com', 'awhite@millennialtech.com', 'andy@keshif.com']",[],Keshif Ventures
+476,Joyo Wijaya,"['joyo@thewijayas.com', 'joyo@thewijayas.com', 'joyo@thewijayas.com', 'joyo@thewijayas.com']",[],Astia
+71875,Yu Chen,"['peiqizhang0901@gmail.com', 'Shield@PhiKappaPsi.com.You']",[],TBD Angels
+156268,Ankit Mathur,"['t@yahoo.com', 'ankit_mat@yahoo.com']",[],Greylock
+78416,Ankur Pansari,[],['9886849918'],Bling Capital
+109289,William Tunstall-Pedoe,[],[],
+71589,Gokul Dhingra,"['abhishekguptaca@hotmail.com', 'dhingra.vineet@gmail.com', 'prasantv@yahoo.com', 'chaganpatil@hotmail.com']","['1683825529', '9425509247']",Sequoia Capital
+156932,Edoardo Conti,"['conticini.edoardo@gmail.com', 'livinlavida2day@gmail.com', 'edoardo.giovannettids@gmail.com', 'mkt@abs-spa.com', 'alcinavcn@yahoo.com']",[],Sequoia Capital
+157057,Jackson Jhin,"['n@gmail.com', 'jhinson@change-fusion.com']",[],Sequoia Capital
+16425,Sergio Marrero,[],[],
+94179,Luis Barrios,"['elag@tmx.com.ni.rosa', 'ez@yahoo.com', 'barrios@yahoo.com', 'ecagedi@ibw.com', 'upour@hotmail.com', 'traturaga@fiji.embassy.be', 'fljbaal@yahoo.com', 'lbbnb@yahoo.com', 'aaron_x40@hotmail.com', 'luis.m@2imgroup.com']",[],The Ark Fund
+133924,Yagnesh Sanghrajka,[],[],100X.VC
+78254,Vaibhav Gupta,['vgupta870@gmail.com'],[],CradleX
+67977,Minn Kim,"['kim.nitti@gmail.com', 'kim.nitti@gmail.com', '49@yahoo.com']",[],Ridge Ventures (Formerly known as IDG Ventures USA)
+103781,Jamie Burke,"['jamieburkeesq@gmail.com', 'zeruirenee.yu@doh.hawaii.gov', 'eciolino.ilhr@outlook.com', 'jamie.burke@redcross.org', 'x3eJohn.Smith@outlierventures.io', 'John@outlierventures.io', 'JohnSmith@outlierventures.io', 'JSmith@outlierventures.io']",[],Outlier Ventures
+89770,Ben York,"['StuffBenEats@gmail.com', 'benrothenberg1@gmail.com', 'phobenviet@gmail.com', 'music@kugs.org']",[],Ensemble Brands
+74262,Clifford Tong,"['aginfo@ag.nv.gov', 'asbertrand3@hotmail.com', 'ctong@berkeley.edu', 'christophesaintjean@univ-lr.fr', 'ctong@berkeley.edu']","['5109625450', '8085485173', '5102888390', '5109625450', '8085485173', '5102888390']",Berkeley Angel Network
+146349,Joshua Field,['seanmorrow7@hotmail.com'],[],Contango Digital Assets
+118125,Mark Zawacki,"['darylgoogel@yahoo.com', 'darylgoogel@yahoo.com', 'jgmlr3@hotmail.com', 'mjphelpsl5@gmail.com', 'higpkts@gmail.com', 'bloodlotuspoetry@gmail.com']",[],Techne Infiniti Ventures
+91776,Nisha Desai,"['Leena_mishra@hotmail.com', 'nishadesai.in@gmail.com']",['9892477399'],Andav Capital
+106498,Illia Polosukhin,"['ilblackdragon@gmail.com', 'ipolosukhin@near.com', 'illia.polosukhin@gmail.com', 'illia.polosukhin@gmail.com']",['1492054054'],SID Venture Partners
+110018,Den Dmitrenko,"['afandisar@yahoo.com', 'nurulrosyidah92@gmail.com']",[],Roosh Ventures
+113421,Satoru Ozawa,"['camilabiouff@gmail.com', 'ries750@yahoo.com.br', 'dr.kprb.ece@gmail.com']",[],Oval Ventures
+91856,Enke Bashllari,[],[],Arkitekt Ventures
+135263,Naman Budhdeo,"['adipai@gmail.com', 'adipai@gmail.com']",[],Antler
+8279,Saqib Awan,"['usmakram@gmail.com', 'nazar.abbas@ceme.nust.edu.pk', 'n@gmail.com']",[],GTM Capital
+1665,Rick Prostko,"['o@gmail.com', 'janisemcfarland@gmail.com', 'CMSOFHOLLAND@YAHOO.COM']",[],Comcast Ventures
+141553,Ferda Kert,"['djupvik.kurt@gmail.com', 'nnilayakbulut@gmail.com']",[],SIF Ventures UK
+141014,Scott Doyle,"['music@kbga.org', 'mmouse1227@hotmail.com', '49@yahoo.com']",['7193334644'],Shield Capital
+142340,Philipp Zinnenlauf,[],[],Picus Capital
+92038,jose d lopez,"['ajaenergies@gmail.com', 'ajaenergies@gmail.com', 'elitssa.petrova@gmail.com', 'Francisco.Lopez@fao.org', 'jose.lopez...@gmail.com', 'baca200799@gmail.com', 'infojosedavinci@gmail.com']",[],DevLabs
+92425,Raman Khanna,"['raman.khanna314@gmail.com', 'rajkumardutta@hotmail.com', 'raman@dhven.com']","['9920767373', '9811214109']",Dell Technologies Capital
+71697,Melih Efeoglu,['iremcoksu@gmail.com'],[],Geometry Venture Development
+165481,Julian Fialkow,"['towall@yahoo.com', 'eilatgordn@aol.com', 'kendallhtucker@gmail.com']",[],186 Ventures
+81121,Taimur Sajid,['dppatdnew@gmail.com'],[],DataFrame Ventures
+112820,Bryan Zaslow,[],['1992527133'],SuperAngel.Fund
+113206,Ricardo Torgal,[],[],Indico Capital Partners
+118112,Ryosuke Hayashi,"['johnlhigham@gmail.com', 'camilabiouff@gmail.com', 'gotos@uf.a.u-tokyo.ac.jp', 'hayashi.ryosuke@nihon-u.ac.jp']",[],SBI Ven Capital
+101919,Ishan Tyagi,"['ishan0120@gmail.com', 'ishan@grishinrobotics.com', 'harmeetrathore@gmail.com', 'edelweissfal@gmail.com']",['6462264105'],Alumni Ventures Group
+93221,Itxaso del Palacio,"['aca.de.ciencicas@gmail.com', 'last@notion.vc', 'x3ejdoe@notion.vc', 'jane@notion.vc']",[],Notion Capital
+4982,Ash Rust,"['wkrc@kings.edu', 'music@wrur.org', 'wsbu@sbu.edu', 'wshlradio@yahoo.com', 'wspn.music@skidmore.edu', 'jwoolewis@aol.com', 'wtfu@tntech.edu', 'elbowe@mediaone.net']",[],
+72127,Harshal Shah,"['h@gmail.com', 'xx@gmail.com', 'harshal.sh01@gmail.com', 'rakesh@adrin.res.in']",['9833515254'],Arihant Finance
+141453,Caden Moskowitz,['katz@yahoo.com'],['1640432543'],Edge Case Capital Partners
+72140,John Yanyali,[],[],First Drop Ventures
+130042,Wojciech Fedorowicz,[],[],TDJ Pitango Ventures
+136377,YekSoon Lok,[],['1395169318'],Awesome Ventures
+81110,Shane Mac,"['sjgtvfanclub@gmail.com', 'Funkysbusiness@outlook.com', 'shane@cjshane.com', 'khokhlov@lab126.com', 'mludvig@suse.cz']",[],Logos Labs
+165771,Saana Rapakko Hunt,[],[],Everywhere Ventures (The Fund)
+45678,Samir Ghosh,"['samirg322@gmail.com', 'debabrata.dg.88@gmail.com', 'samir.ghosh@gmail.com', 'majumdersamiran51@gmail.com']",[],Frontures
+106596,Stephanie Dorsey,"['stephaniejdorsey@gmail.com', 'aaronsboyshome@gmail.com', 'celestedailey5@gmail.com', 'stephanie.dorsey@live.com', 'steve.dorsey@sagemount.com', 'scott@highalpha.com', 'scott@highalpha.com', 'mileshaladay@gmail.com']",[],E²JDJ
+93500,Aviad Eyal,"['hananaliadv@gmail.com', 'ilanit@neho.org.il', 'eyal.moscovici@oracle.com', 'dr.eyalrosen@gmail.com', 'dr.eyalrosen@gmail.com']",[],Entrée Capital Ventures
+101484,Kevin McQuillan,"['n@solomononline.com', 'wrdl@ashland.edu', 'wrdl@ashland.edu', 'khokhlov@lab126.com', 'khokhlov@lab126.com']",[],OCA Ventures
+131615,Marcello Majonchi,"['vale.febo@gmail.com', 'bishoih@hotmail.com']",[],42N Advisors
+56654,Ash Barot,"['barotmaitri288@gmail.com', 'ash@hotamil.com']","['9173215471', '9316041589']",ONE WOLF
+4522,Stephen Meyer,"['l@hotmail.com', 'stephen.e.meyer@gmail.com', 'smeyer15@gmail.com', 'Shield@PhiKappaPsi.com.You']","['0000824142', '0000824142']",IGC - Innovative Growth Capital
+94583,Dave Engel,[],[],Red Shepherd Ventures
+137115,Fabian Rother,[],[],Antler
+153456,Shane Sabine,"['arayazi@hotmail.com', 'tsuazo@icf.gob.hn', 'jtsuazo2@gmail.com', 'turkishagri.rome@yahoo.com', 'szaki@fi.itb', 'sabine@aaobserver.com']",[],Punch Capital
+39861,Lucas Dickey,"['wglt@ilstu.edu', 'wgcc@sunygenesee.cc.ny.us']",[],Brass Pen Ventures
+94961,Wagner Araújo,"['manager@cityofberkeley.info', 'cypanjun@hotmail.com', 'yourbasicbird@gmail.com', 'bwilles@lmi.net']",[],Invest Tech
+120759,Sewu-Steve Tawia,['namalesamamira@gmail.com'],[],Jaza Rift Ventures
+126995,Deniz Ozcan,"['amlbasem05@gmail.com', 'nilayycinar@gmail.com', 'denizugur5@gmail.com', 'deryaugur29@gmail.com', 'cisariogluu@icloud.com', '.deniz@gmail.com', '.deniz@gmail.com']",[],Greenlight Partners
+1212,Scott Irwin,"['placementcell@tmu.ac.in', 'director.bhatnagar@gmail.com', 'scottbortz@yahoo.com', 'dirwin@hunton.com', 'scott_wade@ymp.gov', 'steve.frishman@gmail.com', 'mscottirwin@gmail.com', 'scott@rembrandtvc.com', 'scott@camber.io', 'Drscottirwin@gmail.com', 'mscottirwin@gmail.com', '106vic@ithaca.edu', 'mscottirwin@gmail.com', 'scott@rembrandtvc.com', 'scott@camber.io', 'constructionconceptsanddesign@gmail.com']",['9927670666'],Rembrandt Venture Partners
+29584,Jan Christopher Arp,"['skyseasun@hotmail.com', 'diane.guinta@gmail.com', 'charndavis@yahoo.com', 'timmoore@microsoft.com']",[],The Holt Xchange
+109213,Ramon Vigdor,[],[],Acrobator Ventures
+72576,Andre Schneider Dietzold,[],[],SMAinvest
+4064,Antonio Rodriguez,"['arodriguezvic@gmail.com', 'aguilardorada_68@yahoo.com']",['4027945870'],Matrix
+4063,Stan Reiss,"['stan.reiss@gmail.com', 'sreiss@matrixpartners.com', 'james.sweet88@googlemail.com', 'eric_r8@yahoo.com', 'sueabelr@gmail.com', 'sueabelr@gmail.com', 'kemp.aaron@gmail.com', 'gedimitr@gmail.com']","['7812543657', '1706782650']",Matrix
+152501,Ajay Singh,"['ajays.in7@gmail.com', 'ajays.in7@gmail.com', 'Dkaur@dabri.com', 'aschauhan1850@gmail.com', 'ak7833648@gmail.com', 'd@gmail.com', 'k.ajay.j@gmail.com']","['9839990142', '9720237000']",Frontiers Capital
+109211,Joachim Laqueur,"['translocationconference@hotmail.com', 'giladha@gmail.com']",[],Acrobator Ventures
+95547,Andre de Haes,[],[],Backed VC
+152471,"Rain Cui, PhD, MBA","['DMC@sySn1atnx.net', 'wangqi.20080906@163.com']",[],Family Office
+117701,Robert (Bob) Milligan,"['rlmilligan2@gmail.com', 'Rady-korirady135@gmail.com', 'n@gmail.com']",[],Closed Loop Partners
+106613,Corey Jones,"['coreyjonesjr2023@gmail.com', 'Coreyjonespvd@gmail.com']",[],E²JDJ
+109157,Mitchell Groves,[],[],Huntington Avenue Ventures
+109152,Katya Pourteymour,[],[],Huntington Avenue Ventures
+132539,Ignacio Miranda,"['aaron_x40@hotmail.com', 'varnerbean@hotmail.com', 'honkemeg@msu.edu']",[],Plug & Play Ventures
+95715,Will Weisman,"['marlene.weisman@gmail.com', 'n@gmail.com']",[],KittyHawk Ventures
+117698,Bridget Croke,['davidginphoenix88@gmail.com'],[],Closed Loop Partners
+101027,Kumar Sripadam,['ajit63@gmail.com'],"['9447540414', '9447535002']",Elevate Ventures
+127456,Dave Brereton,['peterpanzeri@yahoo.com'],[],Sand Hill North
+82719,Mike Fridgen,"['mfridgen@gmail.com', 'mike@madronavl.com', 'acrock777@yahoo.com', 'mfridgen@gmail.com', 'mike@madronavl.com']","['1710193699', '1710193699']",Madrona Venture Labs
+120647,Richard Liu,"['richartliu01@gmail.com', 'richartliu01@gmail.com', 'symaahmad@gmail.com']","['0001213900', '0001213900', '0001091818', '0001091818']",5Y Capital
+133897,Dan Myers,"['kranlars@yahoo.com', 'sakiamusic@hotmail.com', 's@gmail.com', 's@gmail.com']",[],42Phi Ventures
+82583,Richard Jhang,"['niazbloch@yahoo.com', 'Richard.Percy@ars.usda.gov', 'David.Fang@ars.usda.gov', 'aiqbal_uaf@yahoo.com', 'Richard.Percy@ars.usda.gov', 'David.Fang@ars.usda.gov', 'aiqbal_uaf@yahoo.com', 'niazbloch@yahoo.com']",[],Richard Jhang
+87378,Roy Oron,[],[],ITI Venture Capital Partners
+21775,Valentina Milanova,['valentina.belcheva@gmail.com'],[],Founders Factory
+180942,Sandro Stark,"['renato.freitas@ifrj.edu.br', 'timmoore@microsoft.com', 'sshaffer@akamai.com', '1349139203.61554.YahooMailClassic@web121101.mail.ne1.yahoo.com', 'paolo.sandro@gmail.com']",['1349139203'],Vanagon.vc
+190876,Kyle O'Brien,['dkevin17@yahoo.com'],[],Unit Ventures
+104443,Petra Griffith,"['h@yahoo.com', 'h.bulle@griffith.edu.au', 'qudrat.soofizada@gmail.com', 'c.lawson@griffith.edu.au', 'petra.engel@crea.gov.it', 'petragriffith@yahoo.com', 'h@yahoo.com']",['1478659244'],Wedbush Ventures
+21138,Ryan Zurrer,"['zurrer@gmail.com', 'r@gmail.com', 'zurrer@gmail.com']",['1593955239'],Vine Ventures (vine.vc)
+139392,Michael Matly,"['y@gmail.com', 'fharrop@gmail.com', 'y@gmail.com', 'y@gmail.com']",[],111° West Capital
+134719,Nitin Sharma,"['nitsrealestate@gmail.com', 'nitin.sharma2610@gmail.com', 'nitsrealestate@gmail.com', 'nitfab0@gmail.com', 'nitfab0@gmail.com']",['9876009282'],Antler
+119719,Doug Applegate,[],[],gener8tor
+78917,Gill Shklarski,[],[],Operator Partners
+79203,Sean Elmurib,[],[],Plug & Play Ventures
+133281,Yasmin Cruz Ferrine,['rhichi@gmail.com'],[],Visible Hands
+81990,Okan Kara (PhD),"['d@gmail.com', 'ayla.okan.ozturk@gmail.com', 'd@gmail.com']",[],ACT Venture Partners
+170704,Sophia Amoruso,"['geilmalucio@gmail.com', 'preklitis@yahoo.com']",[],Trust Fund
+171617,Jimena Pardo,"['jpardod@gmail.com', 'ximenapardo@hotmail.com']",['5531325991'],ALLVP
+187330,Victoria Palatnik,"['tpuzia@gmail.com', 'stoneycreekcremation@gmail.com', 'pasproductions@yahoo.com', 'treasurer@gmail.com', 'g10patel85@gmail.com']",[],01 Ventures
+141296,Tre Baker,"['trebakermusic@gmail.com', 'btodd72@gmail.com', 'David-PAO.Baker@kingcounty.gov', 'trebakermusic@gmail.com', 'permrepun@hotmail.com', 'chutima_ratanasatien@yahoo.com', 'OneofOneMG@gmail.com', 'bryce2baker@gmail.com', 'wrbc@abacus.bates.edu', 'cfcr@quadrant.net', 'wvmwmusicdirector@hotrnail.com', 'wvmwmusicdirector@hotmail.com', 'wllu@brooklyn.liu.edu', 'mikhail@wruw.org']",[],Techstars
+115053,Amit Sridharan,[],[],First Rays Venture Partners
+141662,Adrian Mendoza,"['mendoza.horses82@gmail.com', 'queries2consul@gmail.com', 'aaron_x40@hotmail.com', 'a@gmail.com', 'ZaniakkLLC@outlook.com', 'greg.t.wittmann@gmail.com', 'zilf@leapinliz.com', 'adrian.martinez@climate4change.org']",[],Mendoza Ventures
+120487,Anton Vaisburd,"['omardavar@yahoo.com', 'zairaak@yahoo.com', 'vaisburd.anton@gmail.com']","['1705876380', '1698638259', '1268410459', '1697470309', '1697470309', '1689660374']",SID Venture Partners
+96867,Alex McIsaac,"['als@inf.ed.ac.uk', 'denisnagasaki@hotmail.com', 'pitchanddemo@gmail.com']",[],Northside Ventures
+125061,Dieter Kondek,['bhc9514@gmail.com'],[],Transatlantic Venture Partners
+131184,Daniel Kirchleitner,[],[],Next47
+60208,Enrique Penichet,"['smccranieinglistownclerk@gmail.com', 'chytry@sci.muni.cz']",[],Draper B1
+137192,Jussi Salovaara,"['a@gmail.com', 'a@gmail.com']",[],Antler
+167271,Cyril Lutterodt,"['hirotani@tiara.sinica.edu.tw', 'santanujuphys91@gmail.com']",[],Black Seed
+106702,Vijen Patel,['slobo.iljic@gmail.com'],[],The 81 Collection
+96480,Ludwig Ensthaler,"['lensthaler@gmail.com', 'ludwig@crunchbase.com', 'saclewlow@yahoo.com', 'ensthaler@hu-berlin.de', 'lensthaler@gmail.com', 'ludwig@crunchbase.com']",[],468 Capital
+95468,Cristian Munteanu,"['lquinone@med.uchile', 'apazos@udc.es', 'cristian.v.a.munteanu@gmail.com', 'u@gmail.com', 'grote@iuw.uni-hannover.de', 'grote@iuw.uni-hannover.de', 'info@altitudefilment.com']",[],Early Game Ventures
+146097,Eliran Keren,"['n@gmail.com', 'Keren@e-sar.com', 'shani.jobs.svt@gmail.com']",[],Menomadin impact VC
+97822,Oriol Juncosa,"['orioljuncosa@gmail.com', 'oriol.juncosa@gmail.com', 'oriol.sallas@gmail.com', 'lorena.aincioa@outlook.com', 'nerea.belmonte.abogada@gmail.com', 'ferran.anmi@gmail.com']",[],Encomenda Smart Capital
+108345,Giuseppe Stuto,[],[],186 Ventures
+108298,Philip H. Beauregard,[],[],Impellent Ventures
+97926,Carlos Blanco,"['danijuncal@gmail.com', 'carlos.blanco1206@gmail.com', 'gabycumbreras@gmail.com', 'gabycumbreras@gmail.com']",[],Encomenda Smart Capital
+75345,Chris Piedmonte,"['evrimkilicdr@gmail.com', 'gocakoglu@gmail.com', 'mustafakaraoglanoglu@hotmail.com']",[],"NeoTerra Capital, LLC"
+75455,TJ Rylander,['jane.doe@next47.com'],"['1573768213', '1573768213']",Next47
+74413,Taylor Gendron,"['ncharneski@yahoo.com', 'n@gmail.com', 'taylor.horne@alaska.gov', 'cathygosselin@hotmail.com', 'markyski@maine.rr.com', 'LTAYLOR@IDS.TC', 'LTAYLOR@IDS.TC', 'johng@gendroncorp.com', 'taylor@gendroncorp.com', 'nickm@gendroncorp.com', 'n@gmail.com', 'kevin.zawistowski@gmail.com', 'resume_mvbms@yahoo.com', 'arende.delights@gmail.com', 'anna.creti@dauphine.psl.eu', 'yogaforu2009@gmail.com']",[],Dispatch Ventures
+108295,David Brown,"['boyinaband@gmail.com', 'davidwbrown@gmail.com', 'robscleaningservices@gmail.com', 'robert.brown.3rd@gmail.com', 'Dobrown85@yahoo.com', 'a@yahoo.com', '49@yahoo.com', 'dave@01a.com', 'ophelia@blossomcap.com']",[],Impellent Ventures
+16998,Vivek Sodera,[],[],Supercharge.vc
+141016,Philip M. Bilden,"['WMS@phikappapsi.com.You', 'm.kelly@gmail.com', 'WMS@phikappapsi.com.You']",[],Shield Capital
+98744,Mario Vázquez,"['manso@uvigo.es', 'mario.storti@gmail.com', 'mariano.vazquez@bsc.es', 'aaron_x40@hotmail.com', 'theprettiestthingever@hotmail.com', 'hcei11@hotmail.com', 'colectivoagrario@gmail.com', 'oilaragdevelopment@yahoo.com']",[],Ax Ventures
+108157,Vijay Pandurangan,"['vijayp@vijayp.ca', 'vijayp@vijayp.ca', 'vemupat@gmail.com', 'jiri@mellanox.com', 'vijayp@vijayp.ca', 'saranyakalai.kanan@gmail.com', 'divyasrinivasan210893@gmail.com', 'prasanth26394@gmail.com', 'bravisankar@yahoo.com']",[],Olima Ventures
+75853,Sandhya Hegde,"['sandhya@khoslaimpact.com', 'sandhya@unusual.vc', 'x3ejane@unusual.vc', 'janedoe@unusual.vc']",['1574530737'],Unusual Ventures
+187003,Raimonds Kulbergs,"['raimonds@gmail.com', 'raimonds.kulbergs@gmail.com', 'raimonds@badideas.fund']",[],BADideas.fund
+137481,Shehryar Hydri,[],[],Deosai Ventures
+99472,Eric Pérez-Grovas,"['s@gmail.com', 's@gmail.com']",[],Wollef Ventures
+126378,Vinish Kathuria,"['vinish.kathuria@gmail.com', 'vinish@iitb.ac.in', 'vinish.kathuria@gmail.com', 'vinish67@yahoo.com', 'scott.merryman@gmail.com']",[],SenseAI Ventures
+76586,Jaspal Singh,"['jaspal_sng@yahoo.com', 'jaspal.singh@uitp.org']",['6478602235'],Valoriser Consultants Inc
+79848,Fady Saad,['dr.fadysa3d@gmail.com'],[],Cybernetix Ventures
+729,Pedro Torres Picón,"['aricedlyd@gmail.com', 'jtorres@prpa.gobierno.pr']",[],Quotidian Ventures
+145912,Rayyan Islam,"['aliciaparkerdigital@gmail.com', 'shirazmohamedali1@gmail.com']",['2525278090'],8090 Industries
+149560,Arnav Dalmia,"['mvppexam.science@gmail.com', 'I.D-litigation.cell@gmail.com']",[],The 81 Collection
+126374,Rahul Agarwalla,[],"['8917397596', '9692007001', '7377707494', '9556920206']",SenseAI Ventures
+128872,Barry Winata,"['a@yahoo.com', 'mansurhalik@yahoo.com', 'a@yahoo.com']",[],Metagrove Ventures
+149166,Vital Laptenok,[],[],Flyer One Ventures
+65553,Anthony Valente,"['anthony@rjvalente.com', 'e@gmail.com', 'cvballa3g0@gmail.com', 'esko.luontola@gmail.com', 'Aew@lacity.org', 'barsi21@yahoo.com', 'jonathon.j.valente@gmail.com']",[],Phoenix Fund
+169059,Jonathon Horne,"['n@gmail.com', 'CWDIGGER10@YAHOO.COM', 'BRAD.STERLINGHOMES@GMAIL.COM', 'constructsuperintendent@gmail.com', 'ionman@wfhb.org', 'wuvtamfm@vt.edu', 'krzamusic@yahoo.com', 'n@gmail.com']",[],Idea Fund of La Crosse
+186423,Ana Levine,"['joel.levine@utoronto.ca', 'asilva@fcien.edu.uy', 'ana@gmail.com', 'drpravin2005@yahoo.com', 'T@yahoo.com', 'ana.tabuena-ruddy@lacity.org', 'eyesmith@sbcglobal.net', 'armi.ramirez@lacity.org', 'jbmska@msn.com', 'bigbatjohn@yahoo.com']","['9829542300', '0000118787']",E1 Ventures
+128408,Matt McCabe,"['mattspoonmccabe@gmail.com', 'Rickmccab@gmail.com', 'johnletosprinklerguys@gmail.com', 'wkrc@kings.edu', 'sevenjay99@aol.com', 'thecoremusic@hotmail.com', 'echopalm@yahoo.com', 'robintj2@gmail.com']",[],Manifold
+123251,Aaron Rezaei,"['bonniejones@gmail.com', 'josephpmfoster@gmail.com']",[],Archangel Network of Funds
+78916,Amit Avner,['giurca-ioan@yahoo.com'],[],Operator Partners
+107957,Jose Luis Silva,"['bluemtnco@gmail.com', 'antonioleon1979@icloud.com', 'baca200799@gmail.com', 'remib@sharps.co.bw', 'jlgomska@upo.es', 'jurisinvencion@gmail.com']","['0000824142', '0000824142']",Dux Capital
+184544,Zaz Floreani,['a@gmail.com'],[],FirstMile Ventures
+115953,Hero Choudhary,"['YourMascotSucks@gmail.com', 'zafarchoudhary@gmail.com']",['9811051133'],BEENEXT
