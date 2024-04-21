@@ -7,7 +7,7 @@ import time
 import subprocess
 
 def save_to_csv(data, filename):
-    fieldnames = ['person_id', 'person_name', 'email_addresses', 'mobile_numbers']
+    fieldnames = ['person_id', 'person_name', 'email_addresses', 'mobile_numbers', 'firm_name']
     global names
 
     try:
