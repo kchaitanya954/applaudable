@@ -38,11 +38,10 @@ def get_html(first_name, company=None):
             html_content = response.text
         else:
             print("Failed to fetch the page. Status code:", response.status_code)
-            time.sleep(5)
             stop_vpn()
             time.sleep(5)
             start_vpn()
-            time.sleep(5)
+            time.sleep(6)
             exit = True
             while exit:
                 if connected_to_internet():
@@ -52,11 +51,10 @@ def get_html(first_name, company=None):
 
             html_content = 'skip'
     except:
-        time.sleep(5)
         stop_vpn()
         time.sleep(5)
         start_vpn()
-        time.sleep(5)
+        time.sleep(7)
         exit = True
         while exit:
             if connected_to_internet():
@@ -114,7 +112,7 @@ def main():
 
     count = 0
 
-    for obj in json_names:
+    for obj in json_names[999:]:
         count += 1
         if count%10==0:
             print(count)
