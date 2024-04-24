@@ -112,7 +112,7 @@ def main():
 
     count = 0
 
-    for obj in json_names[7500:]:
+    for obj in json_names[15500:]:
         count += 1
         if count%10==0:
             print(count)
@@ -131,7 +131,7 @@ def main():
         obj['email_addresses'] = email_addresses
         obj['mobile_numbers'] = mobile_numbers
 
-        save_to_csv(obj, 'mails_signal3.csv')
+        save_to_csv(obj, 'mails_signal4.csv')
         time.sleep(0.2)
         
 if __name__ == "__main__":
