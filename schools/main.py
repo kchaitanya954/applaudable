@@ -148,6 +148,7 @@ def main():
             ]
     for school in schools:
         count = 0
+        school = school.lower()
         print(school)
         for obj in json_names:
             count += 1
