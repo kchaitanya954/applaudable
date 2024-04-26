@@ -7,7 +7,7 @@ import time
 import subprocess
 
 def save_to_csv(data, filename):
-    fieldnames = ['name', 'email_addresses', 'mobile_numbers']
+    fieldnames = ['name', 'school', 'email_addresses', 'mobile_numbers']
     global names
 
     try:
@@ -24,9 +24,9 @@ def save_to_csv(data, filename):
     except IOError:
         print("Error: Could not write to file.")
         
-def get_html(first_name, university, linkedin=True):
-    if linkedin:
-        url = f"https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.linkedin.com%2Fin%2F+%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{first_name}%27%29+AND+%28intext%3A%27{university}%27%29"
+def get_html(first_name, university, facebook=True):
+    if facebook:
+        url = f"https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.facebook.com%2F+%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{first_name}%27%29+AND+%28intext%3A%27{university}%27%29"
     else:
         url = f"https://www.google.com/search?q=%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{first_name}%27%29+AND+%28intext%3A%27{university}%27%29"
     try:
@@ -112,51 +112,54 @@ def main():
 
     # Access the parsed JSON objects
     
-    companies = [
-                    'University of Toronto',
-                    'University of Edinburgh',
-                    'Columbia University',
-                    'Universite PSL',
-                    'Tsinghua University',
-                    'Nanyang Technological University, Singapore (NTU)',
-                    'University of Hong Kong',
-                    'Johns Hopkins University',
-                    'University of Tokyo',
-                    'University of California',
-                    'McGill University',
-                    'University of Manchester',
-                    'University of Michigan-Ann Arbor',
-                    'Australian National University',
-                    'University of British Columbia',
-                    'Ecole Polytechnique Fédérale de Lausanne',
-                    'Technical University of Munich',
-                    'Institut Polytechnique de Paris',
-                    'New York University',
-                    'Seoul National University',
-                    'Monash University',
-                    'University of Queensland',
-                    'Zhejiang University',
-                    'London School of Economics and Political Science',
-                    'Kyoto University',
-                    'Delft University of Technology',
-                    'Northwestern University',
-                    'Chinese University of Hong Kong',
-                    'Fudan University'
-                ]
-    for company in companies:
+
+    schools = [
+                "American School of Barcelona",
+                "Emilio Sanchez Academy",
+                "Benjamin Franklin International School",
+                "Hamelin",
+                "Agora Sant Cugat International School",
+                "Bon Soleil - Lycée International Barcelona",
+                "Deutsche Schule Barcelona",
+                "École Française Ferdinand de Lesseps",
+                "European International School of Barcelona",
+                "Gresol International - American School",
+                "Highlands School Barcelona",
+                "International Rural School",
+                "ISCAT Maresme",
+                "ISCAT- The International School of Cataluny",
+                "Istituto Italiano Statale Comprensivo di Barcellona",
+                "Japanese School in Barcelona",
+                "Kensington School",
+                "Lycée Français Bel Air",
+                "Lycée Français de Barcelone",
+                "Oak House School",
+                "Princess Margaret International School",
+                "Richmond International British School",
+                "Schweizerschule Barcelona",
+                "SEK International School Cataluny",
+                "St. George School The British School of Cataluny",
+                "St. Patrick's International School (2)",
+                "St. Peter's School",
+                "The British College of Gavà",
+                "The British School of Barcelona - BSB Castelldefels Campus",
+                "The Olive Tree School",
+                "Zürich Schule Barcelona"
+            ]
+    for school in schools:
         count = 0
-        print(company)
+        print(school)
         for obj in json_names:
             count += 1
             if count%10==0:
                 print(count)
             name = obj['name']
-            html_content = get_html(name, company)
+            html_content = get_html(name, school)
             if html_content == 'skip':
                 continue
             email_addresses, mobile_numbers = get_contact(html_content)
 
-            html_content = get_html(name, company, linkedin=False)
+            html_content = get_html(name, school, facebook=False)
             if html_content == 'skip':
                 continue
             email_addresses2, mobile_numbers2 = get_contact(html_content)
@@ -166,7 +169,7 @@ def main():
             obj['email_addresses'] = email_addresses
             obj['mobile_numbers'] = mobile_numbers
 
-            save_to_csv(obj, f'data/mails_{company}.csv')
+            save_to_csv(obj, f'data/mails_{school}.csv')
             time.sleep(0.2)
         
 if __name__ == "__main__":
