@@ -112,7 +112,7 @@ def main():
 
     count = 0
 
-    for obj in json_names[15500:]:
+    for obj in json_names[15560:]:
         count += 1
         if count%10==0:
             print(count)
