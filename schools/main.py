@@ -146,10 +146,12 @@ def main():
                 "The Olive Tree School",
                 "Zürich Schule Barcelona"
             ]
-    for school in schools:
+    for school in schools[:2]:
         count = 0
-        school = school.lower()
         print(school)
+        if school == "Benjamin Franklin International School":
+            json_names = json_names[715:]
+        school = school.lower()
         for obj in json_names:
             count += 1
             if count%10==0:
@@ -169,7 +171,7 @@ def main():
             
             obj['email_addresses'] = email_addresses
             obj['mobile_numbers'] = mobile_numbers
-
+            obj['school'] = school
             save_to_csv(obj, f'data/mails_{school}.csv')
             time.sleep(0.2)
         
