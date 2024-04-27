@@ -146,7 +146,7 @@ def main():
                 "The Olive Tree School",
                 "Zürich Schule Barcelona"
             ]
-    for school in schools[:2]:
+    for school in schools[2:]:
         count = 0
         print(school)
         if school == "Benjamin Franklin International School":
