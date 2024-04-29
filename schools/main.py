@@ -146,11 +146,11 @@ def main():
                 "The Olive Tree School",
                 "Zürich Schule Barcelona"
             ]
-    for school in schools[3:]:
+    for school in schools[4:]:
         count = 0
         print(school)
-        if school == "Hamelin":
-            json_names = json_names[2800:]
+        if school == "Agora Sant Cugat International School":
+            json_names = json_names[377:]
         school = school.lower()
         for obj in json_names:
             count += 1
