@@ -150,7 +150,7 @@ def main():
         count = 0
         print(school)
         if school == "Hamelin":
-            json_names = json_names[2500:]
+            json_names = json_names[2800:]
         school = school.lower()
         for obj in json_names:
             count += 1
