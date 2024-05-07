@@ -114,27 +114,27 @@ def main():
     
 
     schools = [
-                "American School of Barcelona",
-                "Emilio Sanchez Academy",
-                "Benjamin Franklin International School",
-                "Hamelin",
-                "Agora Sant Cugat International School",
-                "Bon Soleil - Lycée International Barcelona",
-                "Deutsche Schule Barcelona",
-                "École Française Ferdinand de Lesseps",
-                "European International School of Barcelona",
-                "Gresol International - American School",
-                "Highlands School Barcelona",
-                "International Rural School",
-                "ISCAT Maresme",
-                "ISCAT- The International School of Cataluny",
-                "Istituto Italiano Statale Comprensivo di Barcellona",
-                "Japanese School in Barcelona",
-                "Kensington School",
-                "Lycée Français Bel Air",
-                "Lycée Français de Barcelone",
-                "Oak House School",
-                "Princess Margaret International School",
+                # "American School of Barcelona",
+                # "Emilio Sanchez Academy",
+                # "Benjamin Franklin International School",
+                # "Hamelin",
+                # "Agora Sant Cugat International School",
+                # "Bon Soleil - Lycée International Barcelona",
+                # "Deutsche Schule Barcelona",
+                # "École Française Ferdinand de Lesseps",
+                # "European International School of Barcelona",
+                # "Gresol International - American School",
+                # "Highlands School Barcelona",
+                # "International Rural School",
+                # "ISCAT Maresme",
+                # "ISCAT- The International School of Cataluny",
+                # "Istituto Italiano Statale Comprensivo di Barcellona",
+                # "Japanese School in Barcelona",
+                # "Kensington School",
+                # "Lycée Français Bel Air",
+                # "Lycée Français de Barcelone",
+                # "Oak House School",
+                # "Princess Margaret International School",
                 "Richmond International British School",
                 "Schweizerschule Barcelona",
                 "SEK International School Cataluny",
@@ -146,11 +146,11 @@ def main():
                 "The Olive Tree School",
                 "Zürich Schule Barcelona"
             ]
-    for school in schools[7:]:
+    for school in schools:
         count = 0
         print(school)
-        if school == "École Française Ferdinand de Lesseps":
-            json_names = json_names[40:]
+        # if school == "École Française Ferdinand de Lesseps":
+        #     json_names = json_names[40:]
         school = school.lower()
         for obj in json_names:
             count += 1
