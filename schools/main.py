@@ -149,8 +149,8 @@ def main():
     for school in schools:
         count = 0
         print(school)
-        # if school == "École Française Ferdinand de Lesseps":
-        #     json_names = json_names[40:]
+        if school == "Richmond International British School":
+            json_names = json_names[250:]
         school = school.lower()
         for obj in json_names:
             count += 1
