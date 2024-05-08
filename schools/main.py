@@ -135,9 +135,9 @@ def main():
                 # "Lycée Français de Barcelone",
                 # "Oak House School",
                 # "Princess Margaret International School",
-                "Richmond International British School",
-                "Schweizerschule Barcelona",
-                "SEK International School Cataluny",
+                # "Richmond International British School",
+                # "Schweizerschule Barcelona",
+                # "SEK International School Cataluny",
                 "St. George School The British School of Cataluny",
                 "St. Patrick's International School (2)",
                 "St. Peter's School",
@@ -149,8 +149,8 @@ def main():
     for school in schools:
         count = 0
         print(school)
-        if school == "Richmond International British School":
-            json_names = json_names[250:]
+        if school == "St. George School The British School of Cataluny":
+            json_names = json_names[2405:]
         school = school.lower()
         for obj in json_names:
             count += 1
