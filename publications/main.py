@@ -7,7 +7,7 @@ import time
 import subprocess
 
 def save_to_csv(data, filename):
-    fieldnames = ['name', 'email_addresses', 'mobile_numbers']
+    fieldnames = ['name', 'section', 'email_addresses', 'mobile_numbers']
     global names
 
     try:
@@ -24,11 +24,11 @@ def save_to_csv(data, filename):
     except IOError:
         print("Error: Could not write to file.")
         
-def get_html(media, facebook=True):
+def get_html(name, facebook=True):
     if facebook:
-        url = f"https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.facebook.com%2F+%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{media}%27%29"
+        url = f"https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.facebook.com%2F+%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{name}%27%29"
     else:
-        url = f"https://www.google.com/search?q=%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{media}%27%29"
+        url = f"https://www.google.com/search?q=%28intext%3A%40gmail.com+%7C+intext%3A%40icloud.com+%7C+intext%3A%40yahoo.com+%7C+intext%3A%40outlook.com+%7C+intext%3A%40hotmail.com%7C+intext%3A%40.com%7C+intext%3A%40+%29+AND+%28intext%3A%27{name}%27%29"
     try:
         response = requests.get(url)
 
@@ -100,13 +100,14 @@ def stop_vpn():
 
 def main():
     json_names = []
-    with open('keywords.csv', 'r') as file:
+    with open('newyork_times_names.csv', 'r') as file:
         # Read each line as a separate JSON object
         reader = csv.DictReader(file)
         for row in reader:
             json_names.append(
                 {
-                    "name": row["spanish"],
+                    "name": row["name"],
+                    "section": row["section"]
                 }
             )
 
@@ -125,7 +126,7 @@ def main():
         
         obj['email_addresses'] = email_addresses
         obj['mobile_numbers'] = mobile_numbers
-        save_to_csv(obj, 'data/mails_keywords_sp.csv')
+        save_to_csv(obj, 'data/mails_newyorktimes.csv')
         time.sleep(0.2)
         
 if __name__ == "__main__":
