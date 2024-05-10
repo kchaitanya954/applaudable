@@ -106,14 +106,14 @@ def main():
         for row in reader:
             json_names.append(
                 {
-                    "name": row["english"],
+                    "name": row["spanish"],
                 }
             )
 
     # Access the parsed JSON objects
     
     count = 0
-    for obj in json_names[2:]:
+    for obj in json_names:
         count += 1
         if count%10==0:
             print(count)
@@ -125,7 +125,7 @@ def main():
         
         obj['email_addresses'] = email_addresses
         obj['mobile_numbers'] = mobile_numbers
-        save_to_csv(obj, 'data/mails_keywords.csv')
+        save_to_csv(obj, 'data/mails_keywords_sp.csv')
         time.sleep(0.2)
         
 if __name__ == "__main__":
