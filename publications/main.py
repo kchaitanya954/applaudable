@@ -7,7 +7,7 @@ import time
 import subprocess
 
 def save_to_csv(data, filename):
-    fieldnames = ['name', 'school', 'email_addresses', 'mobile_numbers']
+    fieldnames = ['name', 'email_addresses', 'mobile_numbers']
     global names
 
     try:
@@ -113,7 +113,7 @@ def main():
     # Access the parsed JSON objects
     
     count = 0
-    for obj in json_names:
+    for obj in json_names[2:]:
         count += 1
         if count%10==0:
             print(count)
