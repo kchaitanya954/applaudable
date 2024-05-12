@@ -2,30 +2,31 @@ import requests
 from lxml import html
 import csv
 
-urls = ['https://techcrunch.com/category/transportation/',
-        'https://techcrunch.com/category/transportation/',
-        'https://techcrunch.com/category/artificial-intelligence/',
-        'https://techcrunch.com/category/commerce/',
-        'https://techcrunch.com/category/enterprise/',
-        'https://techcrunch.com/category/social/',
-        'https://techcrunch.com/category/artificial-intelligence/',
-        'https://techcrunch.com/category/artificial-intelligence/',
-        'https://techcrunch.com/category/artificial-intelligence/',
-        'https://techcrunch.com/category/enterprise/',
-        'https://techcrunch.com/category/transportation/',
-        'https://techcrunch.com/category/commerce/',
-        'https://techcrunch.com/category/security/',
-        'https://techcrunch.com/category/transportation/',
-        'https://techcrunch.com/category/fundraising/',
-        'https://techcrunch.com/category/artificial-intelligence/',
-        'https://techcrunch.com/category/artificial-intelligence/',
+urls = [
+        # 'https://techcrunch.com/category/transportation/',
+        # 'https://techcrunch.com/category/transportation/',
+        # 'https://techcrunch.com/category/artificial-intelligence/',
+        # 'https://techcrunch.com/category/commerce/',
+        # 'https://techcrunch.com/category/enterprise/',
+        # 'https://techcrunch.com/category/social/',
+        # 'https://techcrunch.com/category/artificial-intelligence/',
+        # 'https://techcrunch.com/category/artificial-intelligence/',
+        # 'https://techcrunch.com/category/artificial-intelligence/',
+        # 'https://techcrunch.com/category/enterprise/',
+        # 'https://techcrunch.com/category/transportation/',
+        # 'https://techcrunch.com/category/commerce/',
+        # 'https://techcrunch.com/category/security/',
+        # 'https://techcrunch.com/category/transportation/',
+        # 'https://techcrunch.com/category/fundraising/',
+        # 'https://techcrunch.com/category/artificial-intelligence/',
+        # 'https://techcrunch.com/category/artificial-intelligence/',
+        # 'https://techcrunch.com/category/startups/',
         'https://techcrunch.com/category/startups/',
-        'https://techcrunch.com/category/startups/',
-        'https://techcrunch.com/category/artificial-intelligence/',
-        'https://techcrunch.com/category/transportation/',
+        # 'https://techcrunch.com/category/artificial-intelligence/',
+        # 'https://techcrunch.com/category/transportation/',
         'https://techcrunch.com/category/market-analysis/',
-        'https://techcrunch.com/category/security/',
-        'https://techcrunch.com/category/social/'
+        # 'https://techcrunch.com/category/security/',
+        # 'https://techcrunch.com/category/social/'
         ]
 
 def get_names(url):
