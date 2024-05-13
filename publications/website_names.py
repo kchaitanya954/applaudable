@@ -1,18 +1,35 @@
 import requests
 from lxml import html
 import csv
+from datetime import datetime, timedelta
+
 
 urls = [
-    # 'https://www.wired.com/category/politics/',
-    # 'https://www.wired.com/category/backchannel/',
-    'https://www.wired.com/category/business/',
-    'https://www.wired.com/category/culture/',
-    'https://www.wired.com/category/gear/',
-    'https://www.wired.com/category/politics/',
-    'https://www.wired.com/category/science/',
-    'https://www.wired.com/category/security/'
+    'https://www.theverge.com/archives/entertainment/',
+    'https://www.theverge.com/archives/tech/',
+    'https://www.theverge.com/archives/science/',
+    'https://www.theverge.com/archives/ai-artificial-intelligence/',
+    'https://www.theverge.com/archives/cars/'
     ]
 
+
+# Define start and end dates
+start_date = datetime(2020, 4, 1)  # April 1, 2011
+end_date = datetime(2024, 5, 12)    # April 1, 2024
+
+
+# Initialize a list to store formatted dates
+formatted_dates = []
+
+# Generate dates and format them
+current_date = start_date
+while current_date < end_date:
+    # Format the date as "YYYY/M/D"
+    formatted_date = "{}/{}/{}".format(current_date.year, current_date.month, current_date.day)
+    formatted_dates.append(formatted_date)
+    
+    # Move to the next day
+    current_date += timedelta(days=1)
 
 def get_names(url):
     response = requests.get(url)
@@ -21,11 +38,8 @@ def get_names(url):
     tree = html.fromstring(response.content)
 
     # Extract all elements matching the XPath
-    xpath1 = "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div/div[1]/div[1]/section/div[1]/div[1]/div[1]/div[1]/div/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]/span[1]/span[1]/text()"
-    xpath2 = "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div/div[1]/div[1]/div[1]/div[1]/div[2]/div/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]/span[1]/span[1]/text()"
-    elements1 = tree.xpath(xpath1)
-    elements2 = tree.xpath(xpath2)
-    elements = elements1+elements2
+    xpath = "//span[1]/a[1]/span[1]/text()"
+    elements = tree.xpath(xpath)
     # Extract the text (names) from the elements
     names = [element.strip() for element in elements]
     
@@ -56,19 +70,15 @@ def main():
     for url in urls:
         section = url.split('/')[-2]
         print(section)
-        i = 1
-        if section=="business":
-            i =209
-        exit = True
-        while exit:
-            page_url = url + f'?page={i}'
-            print(page_url)
+        count =0
+        for date in formatted_dates:
+            page_url = url + date + '/'
             names =  get_names(page_url)
-            i+=1
-            if not names:
-                break
             names_dict = [{"section": section, "name": name} for name in names]
-            save_to_csv(names_dict, "pub_names/wired_names.csv")
+            save_to_csv(names_dict, "pub_names/theverge_names.csv")
+            count +=1
+            if count %365==0:
+                print(count)
         print("*"*10)
         
 if __name__ == "__main__":
