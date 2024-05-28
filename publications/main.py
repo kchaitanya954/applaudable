@@ -7,7 +7,7 @@ import time
 import subprocess
 
 def save_to_csv(data, filename):
-    fieldnames = ['name', 'section', 'email_addresses', 'mobile_numbers']
+    fieldnames = ['name', 'section', 'date', 'link', 'email_addresses', 'mobile_numbers']
     global names
 
     try:
@@ -100,14 +100,16 @@ def stop_vpn():
 
 def main():
     json_names = []
-    with open('pub_names/theverge_names.csv', 'r') as file:
+    with open('pub_names/publico.csv', 'r') as file:
         # Read each line as a separate JSON object
         reader = csv.DictReader(file)
         for row in reader:
             json_names.append(
                 {
                     "name": row["name"],
-                    "section": row["section"]
+                    "section": row["section"],
+                    "date": row["date"],
+                    "link": row["link"],
                 }
             )
 
@@ -126,7 +128,7 @@ def main():
         
         obj['email_addresses'] = email_addresses
         obj['mobile_numbers'] = mobile_numbers
-        save_to_csv(obj, 'data/mails_theverge.csv')
+        save_to_csv(obj, 'data/mails_publico.csv')
         time.sleep(0.2)
         
 if __name__ == "__main__":

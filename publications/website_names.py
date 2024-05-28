@@ -4,13 +4,22 @@ import csv
 from datetime import datetime, timedelta
 
 
-urls = [
-    'https://www.theverge.com/archives/entertainment/',
-    'https://www.theverge.com/archives/tech/',
-    'https://www.theverge.com/archives/science/',
-    'https://www.theverge.com/archives/ai-artificial-intelligence/',
-    'https://www.theverge.com/archives/cars/'
-    ]
+urls = ['https://tech.eu/category/acquisition/',
+ 'https://tech.eu/category/biotech/',
+ 'https://tech.eu/category/crypto/',
+ 'https://tech.eu/category/cybersecurity/',
+ 'https://tech.eu/category/deep-tech/',
+ 'https://tech.eu/category/fintech/',
+ 'https://tech.eu/category/general/',
+ 'https://tech.eu/category/health-tech/',
+ 'https://tech.eu/category/medtech/',
+ 'https://tech.eu/category/mobility/',
+ 'https://tech.eu/category/podcast/',
+ 'https://tech.eu/category/proptech/',
+ 'https://tech.eu/category/quantum-computing/',
+ 'https://tech.eu/category/saas/',
+ 'https://tech.eu/category/spacetech/',
+ 'https://tech.eu/category/sustainability/']
 
 
 # Define start and end dates
